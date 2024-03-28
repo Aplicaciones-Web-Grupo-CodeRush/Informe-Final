@@ -80,3 +80,33 @@ Segmento Objetivo 2: Estudiante de Medicina
 
 ![alt text](../assets/imgs/Customer_journey_map_1.png)
 
+### 2.3.4. Empathy Mapping
+Para el desarrollo de los Empathy Map hemos utilizado la información recopilada en base a nuestros dos User Personas que representan nuestro segmento.
+
+**_Clara Diaz - Doctora_**
+
+![alt text](<../assets/imgs/Clara Diaz - Empathy Mapping.png>)
+
+**_Carlos Orbegozo - Estudiante de Medicina_**
+
+![alt text](<../assets/imgs/Carlos - Empathy Mapping.png>)
+
+### 2.3.5. As-is Scenario Mapping
+Realizamos una lluvia de ideas e identificamos las fases de acorde a lo propuesto en los User Persona. De tal modo, hemos conseguido realizar los As-Is mapping para los segmentos dados.
+
+**_Clara Diaz - Doctora_**
+
+![alt text](<../assets/imgs/As-is Mapping - Clara.jpg>)
+
+**_Carlos Orbegozo - Estudiante de Medicina_**
+
+![alt text](<../assets/imgs/As-is Mapping - Carlos.jpg>)
+
+### 2.3.6. Ubiquitous Language
+**Lex Artis**: Es un término legal que se utiliza para evaluar si un médico ha actuado de acuerdo con los estándares aceptados de la práctica médica.
+
+**Negligencia médica**: Se refiere a un tipo de error médico en el que un médico o profesional de la salud comete un error o actúa de manera negligente en la atención de un paciente, lo que resulta en daño o lesión para el paciente.
+
+**Praxis médica**: Se refiere al conjunto de acciones y procedimientos que un médico realiza en la práctica diaria para diagnosticar, tratar y cuidar a los pacientes.
+
+**Lex artis ad hoc**: Se refiere al conjunto de reglas y estándares que se aplican en una situación específica o ad hoc. En este contexto, se refiere a los estándares y prácticas médicas que se aplican en casos particulares.
