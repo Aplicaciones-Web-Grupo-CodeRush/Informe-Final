@@ -51,11 +51,11 @@ En las fichas de User Persona que se presentarán a continuación, se ampliarán
 En resumen, los artefactos a presentar en esta sección están estrechamente relacionados con las principales características identificadas en los textos, y las fichas de User Persona son herramientas esenciales para garantizar que nuestras soluciones se centren en los usuarios y se ajusten a sus perfiles y requisitos específicos
 
 
-Segmento Objetivo 1: Medicos
+**_Segmento Objetivo 1: Medicos_**
 
 ![alt text](<../assets/imgs/Clara Diaz.png>)
 
-Segmento Objetivo 2: Estudiante de Medicina
+**_Segmento Objetivo 2: Estudiante de Medicina_**
 
 ![alt text](<../assets/imgs/_Carlos Orbegozo.png>)
 
