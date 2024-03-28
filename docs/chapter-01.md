@@ -123,3 +123,15 @@ Características importantes pueden incluir un directorio de peritos en anestesi
 - **¿Cómo debe verse nuestro producto y cómo debe comportarse?**
 
 El producto debe tener una apariencia profesional y confiable, con un diseño limpio y fácil de entender. Debe comportarse de manera eficiente, brindando acceso rápido y fácil a los recursos y servicios necesarios para los usuarios. La plataforma debe ser intuitiva y fácil de navegar, con opciones claras y concisas para acceder a diferentes funciones y servicios.
+
+#### 1.2.2.3. Lean UX Hypothesis Statements
+
+- **Creemos que** si ofrecemos acceso directo a peritos en anestesiología para asistencia legal y educativa a través de nuestra plataforma web, entonces los médicos y estudiantes de medicina buscarán activamente nuestros servicios para resolver problemas relacionados con la anestesiología, lo cual **sabremos que** hemos tenido éxito **cuando** aumente la adopción de nuestra plataforma y la satisfacción del usuario.
+
+- **Creemos que** si proporcionamos opciones de suscripción flexibles y asequibles para acceder a servicios especializados en nuestra plataforma, entonces aumentaremos la retención de usuarios y la rentabilidad del negocio, lo cual **sabremos que** hemos tenido éxito **cuando** mejore la viabilidad financiera de nuestra plataforma.
+
+- **Creemos que** si establecemos asociaciones estratégicas con instituciones médicas y empresas del sector de la salud para ofrecer servicios adicionales, como programas de formación continua en anestesiología, entonces ampliaremos nuestra base de clientes y aumentaremos los ingresos generados por nuestra plataforma, lo cual **sabremos que** hemos tenido éxito **cuando** fortalezcamos nuestra posición en el mercado y aumente la confianza de los usuarios.
+
+- **Creemos que** si optimizamos la experiencia de usuario de nuestra plataforma, mejorando la navegación y la accesibilidad, entonces aumentaremos la satisfacción del usuario y la fidelidad a nuestra marca, lo cual **sabremos que** hemos tenido éxito **cuando** obtengamos una mayor retención de usuarios y un boca a boca positivo.
+
+- **Creemos que** si implementamos una estrategia de marketing dirigida a médicos, estudiantes de medicina y profesionales del peritaje en anestesiología a través de canales específicos, como instituciones médicas y redes profesionales, entonces aumentaremos el conocimiento de nuestra plataforma y la adquisición de nuevos usuarios, lo cual **sabremos que** hemos tenido éxito **cuando** impulsemos el crecimiento de nuestra base de usuarios y la expansión de nuestra plataforma.
