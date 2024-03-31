@@ -40,27 +40,26 @@ Nuestras estrategias y tácticas para hacer frente a nuestros competidores serí
 ## 2.2. Entrevistas
 La entrevista se realiza con el objetivo de obtener mayor información acerca de los usuarios y del servicio de tecnología. De este modo, podremos conocer cuál es sus puntos de vista respecto a los servicios electrónicos, qué problemas tuvieron y cuáles son sus expectativas frente a los nuevos servicios educativos virtuales.
 
-Público objetivo a entrevistar  
-
-Preparación previa  
-
-Tipo de entrevista  
-
-Duración de la entrevista:  
-
-Cada entrevista tendrá una duración aproximada de 5 minutos.
-
 ### 2.2.1 Diseño de entrevistas  
-P:  
-Complementaria:  
-¿?  
-Principal:  
-¿?  
-E:  
-Complementaria:  
-¿?  
-Principal:  
-¿?  
+**Preguntas para Doctores**
+- Presentacion (Nombre, lugar en el que trabaja y rol que desempeña)
+- Cuando tiempo llevas ejerciendo la carrera de medicina y/o especialidad?
+- Como te sientes cada vez que tienes que intervenir a alguien quirúrgicamente?
+- Alguna vez has tenido algún problema medico con algún paciente? En caso NO, conoces algún caso?
+- Conoces a alguien que haya tenido algún problema con algún paciente o con la familia del mismo por el resultado de su cirugía?
+- Si tuviera algún problema con el resultado de la cirugía de tu paciente, que harías? Buscarías ayuda profesional?
+
+**Preguntas para Estudiantes Medicinas**
+
+- Presentación(Nombre, edad, centro de estudios)  
+- ¿Cuánto tiempo llevas estudiando medicina?  
+- ¿Estás desempeñando practicas médicas en algún Hospital? ¿En que hospital?  
+- ¿Has tenido alguna mala experiencia mientras realizabas tus practicas médicas? ¿Conociste a alguien que haya tenido una mala experiencia?  
+- ¿Alguna vez has escuchado sobre las negligencias médicas que ocurren en el país? Que opinas sobre eso?  
+- ¿Qué conocimientos tienes sobre la responsabilidad médica y las posibles implicaciones legales que pueden surgir durante la práctica clínica?  
+- ¿Has recibido alguna formación o orientación específica sobre cómo evitar situaciones que puedan llevar a denuncias por negligencia médica durante tu formación médica? ¿Cómo cuales?  
+- ¿Algún profesor de tu facultad les ha comentado sobre si tuvo alguna negligencia? En caso de si, que hizo al respecto?  
+- ¿Te gustaría tener acceso a servicios legales especializados en el campo de la medicina para obtener asesoramiento o defensa en caso de enfrentar una denuncia por negligencia médica en el futuro? ¿Como cuales: asesorías, cursos, talleres, etc?
 ### 2.2.2. Registro de entrevistas  
 
 
