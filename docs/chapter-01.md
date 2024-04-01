@@ -135,3 +135,13 @@ El producto debe tener una apariencia profesional y confiable, con un diseño li
 - **Creemos que** si optimizamos la experiencia de usuario de nuestra plataforma, mejorando la navegación y la accesibilidad, entonces aumentaremos la satisfacción del usuario y la fidelidad a nuestra marca, lo cual **sabremos que** hemos tenido éxito **cuando** obtengamos una mayor retención de usuarios y un boca a boca positivo.
 
 - **Creemos que** si implementamos una estrategia de marketing dirigida a médicos, estudiantes de medicina y profesionales del peritaje en anestesiología a través de canales específicos, como instituciones médicas y redes profesionales, entonces aumentaremos el conocimiento de nuestra plataforma y la adquisición de nuevos usuarios, lo cual **sabremos que** hemos tenido éxito **cuando** impulsemos el crecimiento de nuestra base de usuarios y la expansión de nuestra plataforma.
+
+## 1.3. Segmentos objetivo
+
+Establecer y definir un segmento objetivo es fundamental para el desarrollo exitoso de esta etapa del proyecto. Como resultado, los futuros clientes del segmento tendrán un producto que cumpla sus necesidades. Esto llevó a la definición del siguiente segmento objetivo.
+
+**Segmento 1:** Para nuestro primer segmento objetivo está compuesto por médicos que buscan asistencia legal especializada de parte de nuestros abogados expertos en medicina legal. Este grupo incluye a profesionales médicos de diversas especialidades, desde médicos generales hasta cirujanos y especialistas en áreas específicas como la obstetricia, la oncología o la neurología.
+
+Estos médicos enfrentan una serie de desafíos legales en su práctica clínica diaria, que van desde cuestiones relacionadas con la responsabilidad profesional y la mala praxis médica hasta la interpretación de regulaciones y normativas sanitarias. La complejidad creciente del entorno legal y regulatorio en el que operan los profesionales de la salud hace que sea fundamental contar con asesoramiento legal sólido y especializado.
+
+**Segmento 2:** Este segmento objetivo estará compuesto por estudiantes de medicina, residentes, internos y practicantes recién graduados que buscan adquirir nuestras suscripciones para obtener acceso a consultas legales especializadas en medicina. Estos individuos están en las primeras etapas de sus carreras médicas y reconocen la importancia de comprender el marco legal en el que operan como futuros profesionales de la salud.
