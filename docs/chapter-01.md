@@ -136,6 +136,10 @@ El producto debe tener una apariencia profesional y confiable, con un diseño li
 
 - **Creemos que** si implementamos una estrategia de marketing dirigida a médicos, estudiantes de medicina y profesionales del peritaje en anestesiología a través de canales específicos, como instituciones médicas y redes profesionales, entonces aumentaremos el conocimiento de nuestra plataforma y la adquisición de nuevos usuarios, lo cual **sabremos que** hemos tenido éxito **cuando** impulsemos el crecimiento de nuestra base de usuarios y la expansión de nuestra plataforma.
 
+#### 1.2.2.3. Lean UX Canvas
+
+![Lean UX Canvas](<../assets/imgs/Lean UX Canvas.png>)
+
 ## 1.3. Segmentos objetivo
 
 Establecer y definir un segmento objetivo es fundamental para el desarrollo exitoso de esta etapa del proyecto. Como resultado, los futuros clientes del segmento tendrán un producto que cumpla sus necesidades. Esto llevó a la definición del siguiente segmento objetivo.
