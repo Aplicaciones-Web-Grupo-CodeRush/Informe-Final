@@ -12,10 +12,10 @@
 |||
 
 <table>
-  <tr>
+<tr>
     <th colspan="5">Historia de Usuario 1</th>
   </tr>
-  <tr>
+      <tr>
     <td colspan="2">ID-HU</td>
     <td colspan="1">HU01</td>
     <td colspan="1">Relación (EPIC ID)</td>
@@ -95,3 +95,30 @@
 ## 3.3. Impact Mapping
 
 ## 3.4. Product Backlog
+
+<table>
+    <tr>
+        <th>#Orden</th>
+        <th>User Story/Technical Story Id</th>
+        <th>Título</th>
+        <th>Descripción</th>
+    </tr>
+    <tr>
+        <td>1</td>
+        <td>US01</td>
+        <td>Eliminar cuenta Usuario</td>
+        <td>Como usuario de la plataforma de MedicDefense,necesito poder eliminar mi cuenta en caso sea necesario para no tener vinculo con el sitio web.</td>
+    </tr>
+    <tr>
+        <td>2</td>
+        <td>US02</td>
+        <td>Visualización de lista de tipos de suscripción</td>
+        <td>Como usuario de la plataforma de MedicDefense,quiero visualizar la lista de tipos de suscripción para seleccionar alguno.</td>
+    </tr>
+    <tr>
+        <td>3</td>
+        <td>US03</td>
+        <td>Visualizar actividades del Usuario</td>
+        <td>Como usuario de la plataforma de MedicDefense,quiero visualizar la lista de las actividades que realizo para tener un control y orden en las acciones que realizo.</td>
+    </tr>
+</table>
