@@ -1,19 +1,21 @@
 # Capítulo III: Requirements Specification
 
 ## 3.1. To-Be Scenario Mapping
+
 **_Segmento Objetivo 1: Clara Diaz - Doctora_**
 ![alt text](<../assets/imgs/Clara Diaz - To-be.jpg>)
 
 **_Segmento Objetivo 2: Carlos Orbegozo - Estudiante de Medicina_**
 ![alt text](<../assets/imgs/Carlos - To - Be.jpg>)
+
 ## 3.2. User Stories
 
-| Epics             |User Stories|
-|-----------------------------|---------|
-| Autenticación y autorización| 1.Eliminar cuenta de Usuario|
-|Visualizacion de Apartados|2. Visualización de lista de tipos de suscripción<br>3.Visualizar actividades del Usuario<br>6.Visualización de Perfil de Abogado Médico|
-|||
-|||
+| Epics                        | User Stories                                                                                                                             |
+| ---------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------- |
+| Autenticación y autorización | 1.Eliminar cuenta de Usuario                                                                                                             |
+| Visualizacion de Apartados   | 2. Visualización de lista de tipos de suscripción<br>3.Visualizar actividades del Usuario<br>6.Visualización de Perfil de Abogado Médico |
+|                              |                                                                                                                                          |
+|                              |                                                                                                                                          |
 
 <table>
 <tr>
@@ -189,6 +191,98 @@
 </td>
 </table>
 
+<table>
+  <tr>
+    <th colspan="5">Historia de Usuario 10</th>
+  </tr>
+  <tr>
+    <td colspan="2">ID-HU</td>
+    <td colspan="1">HU10</td>
+    <td colspan="1">Relación (EPIC ID)</td>
+    <td colspan="1">EP02</td>
+  </tr>
+  <tr>
+    <td colspan="2">Owner</td>
+    <td colspan="3">Diego Flores</td>
+</tr>
+  <tr>
+    <td colspan="2">Título HU</td>
+    <td colspan="3">Visualización de servicios</td>
+  </tr>
+  <tr>
+<td colspan="2">Descripción HU</td>
+    <td colspan="3">Como visitante de la landing page de MedicDefense, quiero ver una sección donde se expliquen los servicios para estar mejor informado a la hora de confiar en su servicio.</td>
+    </tr>
+<tr>
+<td colspan="2">Criterios de Aceptación</td>
+    <td colspan="3">Scenario: Visualizar información sobre los servicios<br>
+    <br>DADO que soy un visitante de la landing page,<br>
+    <br>CUANDO me encuentre navegando por la landing page,<br>
+    <br>ENTONCES encuentro una sección con información acerca de los servicios de MedicDefense.
+</td>
+</table>
+
+<table>
+  <tr>
+    <th colspan="5">Historia de Usuario 11</th>
+  </tr>
+  <tr>
+    <td colspan="2">ID-HU</td>
+    <td colspan="1">HU11</td>
+    <td colspan="1">Relación (EPIC ID)</td>
+    <td colspan="1">EP02</td>
+  </tr>
+  <tr>
+    <td colspan="2">Owner</td>
+    <td colspan="3">Diego Flores</td>
+</tr>
+  <tr>
+    <td colspan="2">Título HU</td>
+    <td colspan="3">Sección de contacto</td>
+  </tr>
+  <tr>
+<td colspan="2">Descripción HU</td>
+    <td colspan="3">Como visitante de la landing page de  MedicDefense, quiero ver una sección de contacto para facilitar la comunicación al momento de solicitar el servicio.</td>
+    </tr>
+<tr>
+<td colspan="2">Criterios de Aceptación</td>
+    <td colspan="3">Scenario: Visualización de una sección de contacto<br>
+    <br>DADO que soy un visitante de la landing page,<br>
+    <br>CUANDO me encuentre navegando por la landing page,<br>
+    <br>ENTONCES encuentro una sección de contacto con campos como nombre, correo, teléfono, mensaje para solicitar información.
+</td>
+</table>
+
+<table>
+  <tr>
+    <th colspan="5">Historia de Usuario 12</th>
+  </tr>
+  <tr>
+    <td colspan="2">ID-HU</td>
+    <td colspan="1">HU12</td>
+    <td colspan="1">Relación (EPIC ID)</td>
+    <td colspan="1">EP02</td>
+  </tr>
+  <tr>
+    <td colspan="2">Owner</td>
+    <td colspan="3">Diego Flores</td>
+</tr>
+  <tr>
+    <td colspan="2">Título HU</td>
+    <td colspan="3">Sección about us</td>
+  </tr>
+  <tr>
+<td colspan="2">Descripción HU</td>
+    <td colspan="3">Como visitante de la landing page de  MedicDefense, quiero ver una sección de about us para informarme sobre la empresa que está brindando los servicios.</td>
+    </tr>
+<tr>
+<td colspan="2">Criterios de Aceptación</td>
+    <td colspan="3">Scenario: Visualización de una sección about us<br>
+    <br>DADO que soy un visitante de la landing page,<br>
+    <br>CUANDO me encuentre navegando por la landing page,<br>
+    <br>ENTONCES encuentro una sección about us que me brinda información acerca de la empresa la cual estoy interesado en sus servicios.
+</td>
+</table>
 
 ## 3.3. Impact Mapping
 
