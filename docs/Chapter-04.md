@@ -141,6 +141,12 @@ En la plataforma de MedicDefense, los usuarios pueden navegar de manera fluida a
 
 ### 4.4.2. Web Applications Wireflow Diagrams
 
+![User Goal 1](/assets/imgs/wireflow1.png)
+![User Goal 2](/assets/imgs/wireflow2.png)
+![User Goal 3](/assets/imgs/wireflow3.png)
+![User Goal 4](/assets/imgs/wireflow4.png)
+![User Goal 5](/assets/imgs/wireflow5.png)
+
 ### 4.4.3. Web Applications Mock-Ups
 
 ![Iniciar Sesión](/assets/imgs/InicioSesión.png)
@@ -165,7 +171,15 @@ En la plataforma de MedicDefense, los usuarios pueden navegar de manera fluida a
 
 ### 4.4.4. Web Applications User Flow Diagrams
 
+![User Goal 1](/assets/imgs/userflow1.png)
+![User Goal 2](/assets/imgs/userflow2.png)
+![User Goal 3](/assets/imgs/userflow3.png)
+![User Goal 4](/assets/imgs/userflow4.png)
+![User Goal 5](/assets/imgs/userflow5.png)
+
 ## 4.5. Web Applications Prototyping
+
+https://www.figma.com/proto/dfBnhcXbC6IHSTM0HbAmlv/Untitled?type=design&node-id=20-614&t=MM26owY8yuxyMhS6-1&scaling=scale-down&page-id=20%3A613&starting-point-node-id=20%3A614&mode=design 
 
 ## 4.6. Domain-Driven Software Architecture
 
