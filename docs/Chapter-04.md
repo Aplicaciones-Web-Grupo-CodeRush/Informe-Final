@@ -113,6 +113,14 @@ En la plataforma de MedicDefense, los usuarios pueden navegar de manera fluida a
 ## 4.3. Landing Page UI Design
 
 ### 4.3.1. Landing Page Wireframe
+![Header](/assets/imgs/header.png)
+![Principal](/assets/imgs/principal.png)
+![Nosotros](/assets/imgs/nosotros.png)
+![Servicios](/assets/imgs/servicio.png)
+![Planes](/assets/imgs/planes.png)
+![Contactanos](/assets/imgs/contacto.png)
+![Creadores](/assets/imgs/creadores.png)
+![Footer](/assets/imgs/footer.png)
 
 ### 4.3.2. Landing Page Mock-up
 
