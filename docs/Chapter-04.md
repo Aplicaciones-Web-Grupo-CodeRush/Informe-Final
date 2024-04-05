@@ -128,52 +128,143 @@ En la plataforma de MedicDefense, los usuarios pueden navegar de manera fluida a
 
 ### 4.4.1. Web Applications Wireframes
 
+En este apartado se muestran los Wireframes de la Aplicación Web. Cada pantalla tiene un nombre y propósito específico.
+
+*Iniciar Sesión:*
+
+El apartado inicial de la aplicación, en la que los usuarios tienen acceso a 3 opciones: Iniciar Sesión, Registro y Olvidé Mi Contraseña. De llenar sus datos, y presionar Ingresar, ingresarán a las funcionalidades principales de la aplicación.
+
 ![Iniciar Sesión](/assets/imgs/W-InicioSesión.png)
+
+*Registro:*
+
+En este apartado, los usuarios pueden ingresar todos los datos necesarios para la creación de su cuenta, la cual podrán usar para acceder a la aplicación. Los datos incluyen nombres y DNI, o Carné de Extranjería, para identificación, y pide subir una imagen que verifique su capacidad de ejercer como médico, o que es estudiante de la carrera.
+
 ![Registro](/assets/imgs/W-Registro.png)
+
+*Recuperar Contraseña:*
+
+En este apartado, los usuarios pueden ingresar el correo registrado de su cuenta para recibir un enlace de recuperación de contraseña.
+
 ![Recuperar Contraseña](/assets/imgs/W-RecuperarContraseña.png)
+
+*Enlace de Recuperación Enviado:*
+
+Tras confirmar que el correo ingresado está ingresado en el sistema, se le avisa al usuario que ha recibido el enlace de recuperación.
+
 ![Enlace de Recuperación Enviado](/assets/imgs/W-EnlaceEnviado.png)
+
+*Repertorio de Abogados:*
+
+El apartado principal de la aplicación, mostrado a los usuarios tras acceder a su cuenta. En éste, aparece un menú con los apartados importantes. Debajo, una cuadrícula con todos los abogados disponibles, datos relevantes de estos, y una opción de búsqueda con filtros.
+
 ![Repertorio de Abogados](/assets/imgs/W-Repertorio.png)
+
+*Filtros:*
+
+En este apartado, se muestra cómo se ve la opción de filtros. Tiene opciones de ordenamiento y rangos de ciertos parámetros.
+
 ![Filtros](/assets/imgs/W-Filtros.png)
+
+*Abogado:*
+
+En este apartado, se muestra el perfil de un abogado del reperterio. Se puede ver su nombre, años de experiencia, casos ganados, precio habitual, canales de contacto, y las opciones de servicios.
+
 ![Abogado](/assets/imgs/W-Abogado.png)
+
+*Pagar Servicio:*
+
+En este apartado, se ve la interfaz de pago cuando se trata del servicio legal de un abogado.
+
 ![Pagar Servicio](/assets/imgs/W-Pago-A.png)
+
+*Solicitar Consulta:*
+
+En este apartado, se visualiza la confirmación de que se ha enviado una solicitud de consulta al abogado seleccionado.
+
 ![Solicitar Consulta](/assets/imgs/W-Solicitud.png)
+
+*Resumen:*
+
+En este apartado, se visualizan 2 listas de los distintos servicios pagados y consultas realizadas.
+
 ![Resumen](/assets/imgs/W-Resumen.png)
+
+*Detalle Servicio:*
+
+En este apartado, se muestra a detalle el reporte de un servicio pagado.
+
 ![Detalle Servicio](/assets/imgs/W-Detalles1.png)
+
+*Detalle Consulta:*
+
+En este apartado, se muestra a detalle el reporte de una consulta solicitada.
+
 ![Detalle Consulta](/assets/imgs/W-Detalles2.png)
+
+*Adquirir Suscripción:*
+
+En este apartado, se visualiza la opción de adquirir una suscripción debajo de una descripción de la misma.
+
 ![Adquirir Sucripción](/assets/imgs/W-SuscripciónA.png)
+
+*Pagar Suscripción:*
+
+En este apartado, se ve la interfaz de pago cuando se trata de la adquisición de una suscripción.
+
 ![Pagar Suscripción](/assets/imgs/W-Pago-S.png)
+
+*Cancelar Suscripción:*
+
+En este apartado, se visualizan los datos de la suscripción actual. Debajo, opciones de cancelar la suscripción y actualizar información de pago.
+
 ![Cancelar Suscripción](/assets/imgs/W-SuscripciónB.png)
+
+*Renovar Suscripción:*
+
+En este apartado, se visualizan los datos de la suscripción actual. Debajo, la opción de renovar la suscripción.
+
 ![Renovar Suscripción](/assets/imgs/W-SuscripciónC.png)
+
+*Perfil:*
+
+En este apartado, se visualizan los datos registrados de la cuenta, y las opciones de editarlas o eliminar la cuenta.
+
 ![Perfil](/assets/imgs/W-Perfil.png)
+
+*Editar Perfil:*
+
+En este apartado, se pueden editar los datos de la cuenta, similar al proceso de registro. Debajo, la opción de volver o guardar los cambios.
+
 ![Editar Perfil](/assets/imgs/W-EditarPerfil.png)
 
 ### 4.4.2. Web Applications Wireflow Diagrams
 
-**User Flow User Goal 1 (Como médico quiero registrarme)**
+*User Flow User Goal 1 (Como médico quiero registrarme)*
 
 User Task: El usuario abre MedicDefense, ingresa sus datos y registra su cuenta en la aplicación.
 
 ![User Goal 1](/assets/imgs/wireflow1.png)
 
-**User Flow User Goal 2 (Como médico quiero contactar a un abogado y pagarle sus servicios)**
+*User Flow User Goal 2 (Como médico quiero contactar a un abogado y pagarle sus servicios)*
 
 User Task: El usuario inicia sesión en MedicDefense, selecciona a un abogado, identifica sus canales de contacto y, posteriormente, le paga.
 
 ![User Goal 2](/assets/imgs/wireflow2.png)
 
-**User Flow User Goal 3 (Como estudiante de medicina quiero solicitar una consulta de un abogado)**
+*User Flow User Goal 3 (Como estudiante de medicina quiero solicitar una consulta de un abogado)*
 
 User Task: El usuario inicia sesión en MedicDefense, adquiere una suscripción, selecciona a un abogado y solicita una consulta.
 
 ![User Goal 3](/assets/imgs/wireflow3.png)
 
-**User Flow User Goal 4 (Como médico quiero cancelar mi suscripción según mis gastos)**
+*User Flow User Goal 4 (Como médico quiero cancelar mi suscripción según mis gastos)*
 
 User Task: El usuario inicia sesión en MedicDefense, revisa su resumen, abre el detalle de su último servicio y cancela su suscripción.
 
 ![User Goal 4](/assets/imgs/wireflow4.png)
 
-**User Flow User Goal 5 (Como estudiante de medicina quiero cambiar mis datos registrados)**
+*User Flow User Goal 5 (Como estudiante de medicina quiero cambiar mis datos registrados)*
 
 User Task: El usuario inicia sesión en MedicDefense, va a su perfil, selecciona la opción de editar perfil, y guarda los cambios.
 
@@ -181,59 +272,157 @@ User Task: El usuario inicia sesión en MedicDefense, va a su perfil, selecciona
 
 ### 4.4.3. Web Applications Mock-Ups
 
+En este apartado se muestran los Mock-Ups de la Aplicación Web, con notable más detalle que los Wireframes. Cada pantalla tiene un nombre y propósito específico.
+
+*Iniciar Sesión:*
+
+El apartado inicial de la aplicación, en la que los usuarios tienen acceso a 3 opciones: Iniciar Sesión, Registro y Olvidé Mi Contraseña. De llenar sus datos, y presionar Ingresar, ingresarán a las funcionalidades principales de la aplicación.
+
 ![Iniciar Sesión](/assets/imgs/InicioSesión.png)
+
+*Registro:*
+
+En este apartado, los usuarios pueden ingresar todos los datos necesarios para la creación de su cuenta, la cual podrán usar para acceder a la aplicación. Los datos incluyen nombres y DNI, o Carné de Extranjería, para identificación, y pide subir una imagen que verifique su capacidad de ejercer como médico, o que es estudiante de la carrera.
+
 ![Registro](/assets/imgs/Registro.png)
+
+*Recuperar Contraseña:*
+
+En este apartado, los usuarios pueden ingresar el correo registrado de su cuenta para recibir un enlace de recuperación de contraseña.
+
 ![Recuperar Contraseña](/assets/imgs/RecuperarContraseña.png)
+
+*Enlace de Recuperación Enviado:*
+
+Tras confirmar que el correo ingresado está ingresado en el sistema, se le avisa al usuario que ha recibido el enlace de recuperación.
+
 ![Enlace de Recuperación Enviado](/assets/imgs/EnlaceEnviado.png)
+
+*Repertorio de Abogados:*
+
+El apartado principal de la aplicación, mostrado a los usuarios tras acceder a su cuenta. En éste, aparece un menú con los apartados importantes. Debajo, una cuadrícula con todos los abogados disponibles, datos relevantes de estos, y una opción de búsqueda con filtros.
+
 ![Repertorio de Abogados](/assets/imgs/Repertorio.png)
+
+*Filtros:*
+
+En este apartado, se muestra cómo se ve la opción de filtros. Tiene opciones de ordenamiento y rangos de ciertos parámetros.
+
 ![Filtros](/assets/imgs/Filtros.png)
+
+*Abogado:*
+
+En este apartado, se muestra el perfil de un abogado del reperterio. Se puede ver su nombre, años de experiencia, casos ganados, precio habitual, canales de contacto, y las opciones de servicios.
+
 ![Abogado](/assets/imgs/Abogado.png)
+
+*Pagar Servicio:*
+
+En este apartado, se ve la interfaz de pago cuando se trata del servicio legal de un abogado.
+
 ![Pagar Servicio](/assets/imgs/Pago-A.png)
+
+*Pago Efectuado:*
+
+En este apartado, se visualiza el reporte de pago de servicio al abogado.
+
 ![Pago Efectuado](/assets/imgs/PagoE.png)
+
+*Solicitar Consulta:*
+
+En este apartado, se visualiza la confirmación de que se ha enviado una solicitud de consulta al abogado seleccionado.
+
 ![Solicitar Consulta](/assets/imgs/Solicitud.png)
+
+*Resumen:*
+
+En este apartado, se visualizan 2 listas de los distintos servicios pagados y consultas realizadas.
+
 ![Resumen](/assets/imgs/Resumen.png)
+
+*Detalle Servicio:*
+
+En este apartado, se muestra a detalle el reporte de un servicio pagado.
+
 ![Detalle Servicio](/assets/imgs/Detalles1.png)
+
+*Detalle Consulta:*
+
+En este apartado, se muestra a detalle el reporte de una consulta solicitada.
+
 ![Detalle Consulta](/assets/imgs/Detalles2.png)
+
+*Adquirir Suscripción:*
+
+En este apartado, se visualiza la opción de adquirir una suscripción debajo de una descripción de la misma.
+
 ![Adquirir Sucripción](/assets/imgs/SuscripciónA.png)
+
+*Pagar Suscripción:*
+
+En este apartado, se ve la interfaz de pago cuando se trata de la adquisición de una suscripción.
+
 ![Pagar Suscripción](/assets/imgs/Pago-S.png)
-![Cancelar Suscripción](/assets/imgs/SuscripciónB.png)
-![Renovar Suscripción](/assets/imgs/SuscripciónC.png)
+
+*Cancelar Suscripción:*
+
+En este apartado, se visualizan los datos de la suscripción actual. Debajo, opciones de cancelar la suscripción y actualizar información de pago.
+
+![Cancelar Suscripción](/assets/imgs/W-SuscripciónB.png)
+
+*Renovar Suscripción:*
+
+En este apartado, se visualizan los datos de la suscripción actual. Debajo, la opción de renovar la suscripción.
+
+![Renovar Suscripción](/assets/imgs/W-SuscripciónC.png)
+
+*Perfil:*
+
+En este apartado, se visualizan los datos registrados de la cuenta, y las opciones de editarlas o eliminar la cuenta.
+
 ![Perfil](/assets/imgs/Perfil.png)
+
+*Editar Perfil:*
+
+En este apartado, se pueden editar los datos de la cuenta, similar al proceso de registro. Debajo, la opción de volver o guardar los cambios.
+
 ![Editar Perfil](/assets/imgs/EditarPerfil.png)
 
 ### 4.4.4. Web Applications User Flow Diagrams
 
-**User Flow User Goal 1 (Como médico quiero registrarme)**
+*User Flow User Goal 1 (Como médico quiero registrarme)*
 
 User Task: El usuario abre MedicDefense, ingresa sus datos y registra su cuenta en la aplicación.
 
 ![User Goal 1](/assets/imgs/userflow1.png)
 
-**User Flow User Goal 2 (Como médico quiero contactar a un abogado y pagarle sus servicios)**
+*User Flow User Goal 2 (Como médico quiero contactar a un abogado y pagarle sus servicios)*
 
 User Task: El usuario inicia sesión en MedicDefense, selecciona a un abogado, identifica sus canales de contacto y, posteriormente, le paga.
 
 ![User Goal 2](/assets/imgs/userflow2.png)
 
-**User Flow User Goal 3 (Como estudiante de medicina quiero solicitar una consulta de un abogado)**
+*User Flow User Goal 3 (Como estudiante de medicina quiero solicitar una consulta de un abogado)*
 
 User Task: El usuario inicia sesión en MedicDefense, adquiere una suscripción, selecciona a un abogado y solicita una consulta.
 
 ![User Goal 3](/assets/imgs/userflow3.png)
 
-**User Flow User Goal 4 (Como médico quiero cancelar mi suscripción según mis gastos)**
+*User Flow User Goal 4 (Como médico quiero cancelar mi suscripción según mis gastos)*
 
 User Task: El usuario inicia sesión en MedicDefense, revisa su resumen, abre el detalle de su último servicio y cancela su suscripción.
 
 ![User Goal 4](/assets/imgs/userflow4.png)
 
-**User Flow User Goal 5 (Como estudiante de medicina quiero cambiar mis datos registrados)**
+*User Flow User Goal 5 (Como estudiante de medicina quiero cambiar mis datos registrados)*
 
 User Task: El usuario inicia sesión en MedicDefense, va a su perfil, selecciona la opción de editar perfil, y guarda los cambios.
 
 ![User Goal 5](/assets/imgs/userflow5.png)
 
 ## 4.5. Web Applications Prototyping
+
+En esta sección, se presenta el link del prototipo de la Aplicación Web, mediante la herramienta de prototipado de Figma.
 
 https://www.figma.com/proto/dfBnhcXbC6IHSTM0HbAmlv/Untitled?type=design&node-id=20-614&t=MM26owY8yuxyMhS6-1&scaling=scale-down&page-id=20%3A613&starting-point-node-id=20%3A614&mode=design 
 
