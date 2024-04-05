@@ -284,6 +284,87 @@
 </td>
 </table>
 
+<table>
+  <tr>
+    <th colspan="5">Historia de Usuario 13</th>
+  </tr>
+  <tr>
+    <td colspan="2">ID-HU</td>
+    <td colspan="1">HU13</td>
+    <td colspan="1">Relación (EPIC ID)</td>
+    <td colspan="1">EP01</td>
+  </tr>
+  <tr>
+    <td colspan="2">Owner</td>
+    <td colspan="3">  Marcelo Rentería</td>
+</tr>
+  <tr>
+    <td colspan="2">Título HU</td>
+    <td colspan="3">Verificación de Certificado Médico</td>
+  </tr>
+  <tr>
+<td colspan="2">Descripción HU</td>
+    <td colspan="3">Como usuario de la plataforma MedicDefense, quiero que se verifique mi licencia médica para asegurar que sean los médicos quienes se beneficien de los servicios.</td>
+    </tr>
+<tr>
+<td colspan="2">Criterios de Aceptación</td>
+    <td colspan="3">Scenario: Registro y verificación de certificado médico.<br><br>DADO que quiero registrarme en la plataforma MedicDefense.<br><br>Y rellene los datos necesarios.<br><br>CUANDO suba un archivo de mi certificado médico.<br><br>Y el sistema verifique su veracidad.<br><br>ENTONCES mi cuenta es registrada.<br><br>Y tengo acceso a la plataforma.</td>
+</table>
+
+<table>
+  <tr>
+    <th colspan="5">Historia de Usuario 14</th>
+  </tr>
+  <tr>
+    <td colspan="2">ID-HU</td>
+    <td colspan="1">HU14</td>
+    <td colspan="1">Relación (EPIC ID)</td>
+    <td colspan="1">EP01</td>
+  </tr>
+  <tr>
+    <td colspan="2">Owner</td>
+    <td colspan="3">  Marcelo Rentería</td>
+</tr>
+  <tr>
+    <td colspan="2">Título HU</td>
+    <td colspan="3">Editar Perfil</td>
+  </tr>
+  <tr>
+<td colspan="2">Descripción HU</td>
+    <td colspan="3">Como usuario de la plataforma MedicDefense, quiero la opción de editar los datos de mi perfil para reflejar cambios en mis datos registrados.</td>
+    </tr>
+<tr>
+<td colspan="2">Criterios de Aceptación</td>
+    <td colspan="3">Scenario: Editar Perfil.<br><br>DADO que ingresé a la plataforma MedicDefense.<br><br>Y esté en el apartado de Perfil.<br><br>CUANDO presione la opción de Editar Perfil.<br><br>Y cambie los datos correspondientes.<br><br>Y presione Guardar Cambios.<br><br>ENTONCES mis datos son cambiados en el sistema.<br><br>Y se refleja en mi perfil.</td>
+</table>
+
+<table>
+  <tr>
+    <th colspan="5">Historia de Usuario 15</th>
+  </tr>
+  <tr>
+    <td colspan="2">ID-HU</td>
+    <td colspan="1">HU15</td>
+    <td colspan="1">Relación (EPIC ID)</td>
+    <td colspan="1">EP02</td>
+  </tr>
+  <tr>
+    <td colspan="2">Owner</td>
+    <td colspan="3">  Marcelo Rentería</td>
+</tr>
+  <tr>
+    <td colspan="2">Título HU</td>
+    <td colspan="3">Canales de contacto</td>
+  </tr>
+  <tr>
+<td colspan="2">Descripción HU</td>
+    <td colspan="3">Como usuario de la plataforma MedicDefense, quiero que se muestren los canales de contacto de los abogados para poder contactarlos antes de efectuar un pago.</td>
+    </tr>
+<tr>
+<td colspan="2">Criterios de Aceptación</td>
+    <td colspan="3">Scenario: Contactar a un abogado.<br><br>DADO que ingresé a la plataforma MedicDefense.<br><br>Y esté en el apartado de Abogado.<br><br>CUANDO presione el botón de Correo.<br><br>Y tenga mi plataforma de correo ingresada en el navegador.<br><br>ENTONCES soy redireccionado a la plataforma.<br><br>Y le mando un correo.</td>
+</table>
+
 ## 3.3. Impact Mapping
 
 ## 3.4. Product Backlog
@@ -331,4 +412,23 @@
         <td>Visualización de Perfil de Abogado Médico</td>
         <td>Como usuario de la plataforma MedicDefense, quiero tener la capacidad de poder visualizar el perfil del abogado médico para ver la información de sus datos y experiencia.</td>
     </tr>
+    <tr>
+        <td>13</td>
+        <td>US13</td>
+        <td>Verificación de Certificado Médico</td>
+        <td>Como usuario de la plataforma MedicDefense, quiero que se verifique mi licencia médica para asegurar que sean los médicos quienes se beneficien de los servicios.</td>
+    </tr>
+    <tr>
+        <td>14</td>
+        <td>US14</td>
+        <td>Editar Perfil</td>
+        <td>Como usuario de la plataforma MedicDefense, quiero la opción de editar los datos de mi perfil para reflejar cambios en mis datos registrados.</td>
+    </tr>
+    <tr>
+        <td>15</td>
+        <td>US15</td>
+        <td>Canales de contacto</td>
+        <td>Como usuario de la plataforma MedicDefense, quiero que se muestren los canales de contacto de los abogados para poder contactarlos antes de efectuar un pago.</td>
+    </tr>
+    
 </table>
