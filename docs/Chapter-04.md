@@ -141,10 +141,34 @@ En la plataforma de MedicDefense, los usuarios pueden navegar de manera fluida a
 
 ### 4.4.2. Web Applications Wireflow Diagrams
 
+**User Flow User Goal 1 (Como médico quiero registrarme)**
+
+User Task: El usuario abre MedicDefense, ingresa sus datos y registra su cuenta en la aplicación.
+
 ![User Goal 1](/assets/imgs/wireflow1.png)
+
+**User Flow User Goal 2 (Como médico quiero contactar a un abogado y pagarle sus servicios)**
+
+User Task: El usuario inicia sesión en MedicDefense, selecciona a un abogado, identifica sus canales de contacto y, posteriormente, le paga.
+
 ![User Goal 2](/assets/imgs/wireflow2.png)
+
+**User Flow User Goal 3 (Como estudiante de medicina quiero solicitar una consulta de un abogado)**
+
+User Task: El usuario inicia sesión en MedicDefense, adquiere una suscripción, selecciona a un abogado y solicita una consulta.
+
 ![User Goal 3](/assets/imgs/wireflow3.png)
+
+**User Flow User Goal 4 (Como médico quiero cancelar mi suscripción según mis gastos)**
+
+User Task: El usuario inicia sesión en MedicDefense, revisa su resumen, abre el detalle de su último servicio y cancela su suscripción.
+
 ![User Goal 4](/assets/imgs/wireflow4.png)
+
+**User Flow User Goal 5 (Como estudiante de medicina quiero cambiar mis datos registrados)**
+
+User Task: El usuario inicia sesión en MedicDefense, va a su perfil, selecciona la opción de editar perfil, y guarda los cambios.
+
 ![User Goal 5](/assets/imgs/wireflow5.png)
 
 ### 4.4.3. Web Applications Mock-Ups
@@ -171,10 +195,34 @@ En la plataforma de MedicDefense, los usuarios pueden navegar de manera fluida a
 
 ### 4.4.4. Web Applications User Flow Diagrams
 
+**User Flow User Goal 1 (Como médico quiero registrarme)**
+
+User Task: El usuario abre MedicDefense, ingresa sus datos y registra su cuenta en la aplicación.
+
 ![User Goal 1](/assets/imgs/userflow1.png)
+
+**User Flow User Goal 2 (Como médico quiero contactar a un abogado y pagarle sus servicios)**
+
+User Task: El usuario inicia sesión en MedicDefense, selecciona a un abogado, identifica sus canales de contacto y, posteriormente, le paga.
+
 ![User Goal 2](/assets/imgs/userflow2.png)
+
+**User Flow User Goal 3 (Como estudiante de medicina quiero solicitar una consulta de un abogado)**
+
+User Task: El usuario inicia sesión en MedicDefense, adquiere una suscripción, selecciona a un abogado y solicita una consulta.
+
 ![User Goal 3](/assets/imgs/userflow3.png)
+
+**User Flow User Goal 4 (Como médico quiero cancelar mi suscripción según mis gastos)**
+
+User Task: El usuario inicia sesión en MedicDefense, revisa su resumen, abre el detalle de su último servicio y cancela su suscripción.
+
 ![User Goal 4](/assets/imgs/userflow4.png)
+
+**User Flow User Goal 5 (Como estudiante de medicina quiero cambiar mis datos registrados)**
+
+User Task: El usuario inicia sesión en MedicDefense, va a su perfil, selecciona la opción de editar perfil, y guarda los cambios.
+
 ![User Goal 5](/assets/imgs/userflow5.png)
 
 ## 4.5. Web Applications Prototyping
