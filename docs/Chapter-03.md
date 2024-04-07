@@ -193,6 +193,99 @@
 
 <table>
   <tr>
+    <th colspan="5">Historia de Usuario 7</th>
+  </tr>
+  <tr>
+    <td colspan="2">ID-HU</td>
+    <td colspan="1">HU07</td>
+    <td colspan="1">Relación (EPIC ID)</td>
+    <td colspan="1">EP02</td>
+  </tr>
+  <tr>
+    <td colspan="2">Owner</td>
+    <td colspan="3"> Cesar Castilla </td>
+</tr>
+  <tr>
+    <td colspan="2">Título HU</td>
+    <td colspan="3">Notificaciones de las consultas programadas</td>
+  </tr>
+  <tr>
+<td colspan="2">Descripción HU</td>
+    <td colspan="3">Como usuario de la plataforma, quiero recibir notificaciones sobre las consultas programadas con los abogados para recordarme la fecha y hora de la cita.</td>
+    </tr>
+<tr>
+<td colspan="2">Criterios de Aceptación</td>
+    <td colspan="3">Scenario: Notificación de las consultas programadas<br>
+    <br>DADO que soy usuario que ha programado una consulta con un abogado especializado en la medicina legal,<br>
+    <br>CUANDO se acerque la fecha y hora de la consulta,<br>
+    <br>ENTONCES debo recibir una notificación por correo electrónico que incluya detalles de la consulta como la fecha, hora y tema de la consulta.
+</td>
+</table>
+
+<table>
+  <tr>
+    <th colspan="5">Historia de Usuario 8</th>
+  </tr>
+  <tr>
+    <td colspan="2">ID-HU</td>
+    <td colspan="1">HU08</td>
+    <td colspan="1">Relación (EPIC ID)</td>
+    <td colspan="1">EP02</td>
+  </tr>
+  <tr>
+    <td colspan="2">Owner</td>
+    <td colspan="3"> Cesar Castilla </td>
+</tr>
+  <tr>
+    <td colspan="2">Título HU</td>
+    <td colspan="3">Seguimiento de casos legales</td>
+  </tr>
+  <tr>
+<td colspan="2">Descripción HU</td>
+    <td colspan="3">Como usuario de la plataforma, quiero tener la capacidad de realizar un seguimiento de los casos legales en los que estoy involucrado para ver el progreso realizado por el abogado asignado.</td>
+    </tr>
+<tr>
+<td colspan="2">Criterios de Aceptación</td>
+    <td colspan="3">Scenario: Seguimiento de su caso legal<br>
+    <br>DADO que estoy dentro de mi perfil de usuario en la plataforma MedicDefense,<br>
+    <br>CUANDO acceda a la sección de seguimiento de casos legales,<br>
+    <br>ENTONCES debo ver una lista de todos los casos activos en los que estoy involucrado, con detalles sobre el estado actual de mi caso legal, las acciones tomadas y los próximos pasos planificados para el caso.
+</td>
+</table>
+
+<table>
+  <tr>
+    <th colspan="5">Historia de Usuario 9</th>
+  </tr>
+  <tr>
+    <td colspan="2">ID-HU</td>
+    <td colspan="1">HU09</td>
+    <td colspan="1">Relación (EPIC ID)</td>
+    <td colspan="1">EP02</td>
+  </tr>
+  <tr>
+    <td colspan="2">Owner</td>
+    <td colspan="3"> Cesar Castilla </td>
+</tr>
+  <tr>
+    <td colspan="2">Título HU</td>
+    <td colspan="3">Calificación y reseñas para los Médicos Abogados</td>
+  </tr>
+  <tr>
+<td colspan="2">Descripción HU</td>
+    <td colspan="3">Como usuario de la plataforma MedicDefense, quiero poder calificar y dejar reseñas sobre cómo fue mi experiencia que tuve con un médico abogado después de una consulta, para ayudar a otros usuarios a tomar decisiones informadas.</td>
+    </tr>
+<tr>
+<td colspan="2">Criterios de Aceptación</td>
+    <td colspan="3">Scenario: Calificación con reseñas a Médico Abogado<br>
+    <br>DADO que he completado una consulta con un médico abogado,<br>
+    <br>CUANDO finalice la sesión sobre la consulta que pedí,<br>
+    <br>ENTONCES debo tener la opción de calificar la consulta y dejar  comentarios sobre la experiencia, los cuales quedarán visibles para otros usuarios que estén interesados en pedir sus servicios.
+</td>
+</table>
+
+<table>
+  <tr>
     <th colspan="5">Historia de Usuario 10</th>
   </tr>
   <tr>
