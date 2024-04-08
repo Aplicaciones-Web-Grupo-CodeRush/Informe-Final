@@ -107,6 +107,38 @@ Sí, claro que sí, a cualquier estudiante de salud le gustaría. Citas asesorad
 
 ![alt text](<../assets/imgs/Entrevista-vanessa.png>)
 
+**Entrevista 2: Marlene Pachas Torres (Doctora)**
+
+Link de la entrevista: https://drive.google.com/file/d/10yaSesL6sCSz3R3Wad51tyQSNwLdfNKX/view?usp=drive_link
+
+#### Presentacion (Nombre, lugar en el que trabaja y rol que desempeña)
+
+Marlene Pachas Torres, trabaja en el Hospital Arzobispo Loayza, Médico Anastesiólogo.
+
+#### ¿Cuando tiempo llevas ejerciendo la carrera de medicina y/o especialidad?
+
+Como Médico general 7 años y como Médico especialista 3 años.
+
+#### ¿Como te sientes cada vez que tienes que intervenir a alguien quirúrgicamente?
+
+Como anastesióloga me siento segura, por que previamente he realizado una evaluación preanestésica a mi paciente, conociendo sus antecedentes clinicos, quirurgicos, alergia, peso, talla, etc. Si el caso ameritara solicito por ejemplo transfuciones, evaluación por otros especialistas o solicitar cama en uci (Unidad de cuidado intensivos). Sumado lo anterior verifico la comprobación de todos los equipos y que los farmacos esten completos.
+
+Contando con lo anterior, me sentiria segura al momento de brindar anestesia a mis pacientes. Recordando que puede presentarse algun evento o riesgo desfavorable, se le comunica y se le hace firmar el Consentimiento Informado, al paciente o a sus familiares.
+
+#### ¿Alguna vez has tenido algún problema medico con algún paciente? En caso NO, conoces algún caso?
+
+No, pero conozco un caso.
+
+#### ¿Conoces a alguien que haya tenido algún problema con algún paciente o con la familia del mismo por el resultado de su cirugía?
+
+Si, un ginecologo después de realizar una cesárea por emergencia decide sacar el útero (Histerectomia) por que no se contraía y el sangrado no se detenia, previamente se hablo con los familiares y ellos aceptaron el procedimiento, despúes de 8 horas de la operación la paciente no miccionaba y presentaba fiebre. Al realizarle algunos procedimientos de imagenes, se comprobó laceración y corte de los ureteres por lo que la paciente reingresó a sala de operaciones para unir el trayecto de estos. Previamente el ginecólogo hablo con los familiares y ellos le reprocharon mala practica médica y decidieron denunciar al ginecólogo.
+
+#### ¿Si tuviera algún problema con el resultado de la cirugía de tu paciente, que harías? Buscarías ayuda profesional?
+
+Si, buscaria ayuda profesional. Acudiria al Colegio Médico del Perú a traves de la Defensoria del Médico, ademas pediria asesoramiento legal a la Sociedad de Anestesiologia. 
+
+![alt text](<../assets/imgs/Entrevista-Marlene.png>)
+
 ### 2.2.3. Análisis de entrevistas
 
 **Entrevista 1: Vanessa Castillo**
@@ -114,6 +146,13 @@ Sí, claro que sí, a cualquier estudiante de salud le gustaría. Citas asesorad
 **Conclusiones:**
 
 Después de realizar las entrevistas, se obtuvo información valiosa sobre las experiencias y perspectivas de los usuarios en relación a los servicios de tecnología. En el caso de la entrevista con Vanessa Castillo, una estudiante de medicina, se destacó su interés en tener acceso a servicios legales especializados en el campo de la medicina para obtener asesoramiento o defensa en caso de enfrentar una denuncia por negligencia médica en el futuro. Además, mencionó la importancia de recibir formación y orientación específica sobre cómo evitar situaciones que puedan llevar a denuncias por negligencia médica durante su formación médica. Estos hallazgos nos permiten comprender mejor las necesidades y expectativas de nuestros usuarios y nos ayudarán a diseñar soluciones que satisfagan sus requerimientos.
+
+**Entrevista 2: Marlene Pachas Torres**
+
+**Conclusiones**
+
+Despues de entrevistar a la doctora Marlene Pachas Torres, una Médico Anastesióloga del Hospital Arzobispo Loayza, conseguimos información valiosa de como es una evaluación preanestésica y sobre la preparación regurosa antes de cada intervención quirúrgica. Además, nos hablo sobre la importancia que es saber que hacer y donde acudir al momento de enfrentar alguna denuncia por negligencia médica. Por último tambien mostro interes en poder tener acceso a servicios legales con abogados especializados en el area de la medicina.
+Esta entrevista nos ayudo a saber cuales son las necesidades que necesitan nuestros usuarios para unirse a nuestro aplicativo.
 
 ## 2.3. Needfinding
 
