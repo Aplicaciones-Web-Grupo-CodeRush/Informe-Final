@@ -458,8 +458,76 @@
     <td colspan="3">Scenario: Contactar a un abogado.<br><br>DADO que ingresé a la plataforma MedicDefense.<br><br>Y esté en el apartado de Abogado.<br><br>CUANDO presione el botón de Correo.<br><br>Y tenga mi plataforma de correo ingresada en el navegador.<br><br>ENTONCES soy redireccionado a la plataforma.<br><br>Y le mando un correo.</td>
 </table>
 
-## 3.3. Impact Mapping
+<table>
+  <tr>
+    <th colspan="5">Historia de Usuario 16</th>
+  </tr>
+  <tr>
+    <td colspan="2">ID-HU</td>
+    <td colspan="1">HU16</td>
+    <td colspan="1">Relación (EPIC ID)</td>
+    <td colspan="1">EP01</td>
+  </tr>
+  <tr>
+    <td colspan="2">Owner</td>
+    <td colspan="3">Fabricio Apaza</td>
+</tr>
+  <tr>
+    <td colspan="2">Título HU</td>
+    <td colspan="3">Visualización del caso y documentos</td>
+  </tr>
+  <tr>
+<td colspan="2">Descripción HU</td>
+    <td colspan="3">Como usuario de la plataforma MedicDefense, quiero tener la capacidad de poder visualizar toda la documentacion de mi caso.</td>
+    </tr>
+<tr>
+<td colspan="2">Criterios de Aceptación</td>
+    <td colspan="3">Scenario: Visualización de documentacion<br>
+    <br>DADO que soy un usuario que quiere ver todo mi caso con su respectiva documentacion en MedicDefense,<br>
+    <br>CUANDO yo lo desee, tendré la capacidad de ver dicha documentacion,<br>
+    <br>ENTONCES entro a la sección “Perfil” dentro del sitio web y podré visualizar toda la documentacion de mi caso.
+</td>
+</table>
 
+<table>
+  <tr>
+    <th colspan="5">Historia de Usuario 17</th>
+  </tr>
+  <tr>
+    <td colspan="2">ID-HU</td>
+    <td colspan="1">HU17</td>
+    <td colspan="1">Relación (EPIC ID)</td>
+    <td colspan="1">EP01</td>
+  </tr>
+  <tr>
+    <td colspan="2">Owner</td>
+    <td colspan="3">Fabricio Apaza</td>
+</tr>
+  <tr>
+    <td colspan="2">Título HU</td>
+    <td colspan="3">Contacto directo con mi medico asesor</td>
+  </tr>
+  <tr>
+<td colspan="2">Descripción HU</td>
+    <td colspan="3">Como usuario de la plataforma MedicDefense, quiero tener la capacidad de contactarme rapida y eficientemente con mi seleccionado medico asesor.</td>
+    </tr>
+<tr>
+<td colspan="2">Criterios de Aceptación</td>
+    <td colspan="3">Scenario: Contacto con el medido asesor seleccionado<br>
+    <br>DADO que soy un usuario que quiere contactarse con su medico asesor en MedicDefense,<br>
+    <br>CUANDO yo lo desee podré mantener contacto con el medico asesor mediante el sitio web o su contacto personal,<br>
+    <br>ENTONCES entro a la sección “Perfiles de Abogados” dentro del sitio web y podré tener la informacion del medico asesor que seleccioné para poder tener contacto con él.
+</td>
+</table>
+
+## 3.3. Impact Mapping
+En esta sección, se plantearon metas de negocio utilizando los criterios SMART para elaborar el Impact Mapping en base a nuestras User Personas y User Stories.
+
+**Segmento 1**
+![alt text](<../assets/imgs/Impact map - Clara.png>)
+
+**Segmento 2**
+![alt text](<../assets/imgs/Impact map - Carlos.png>)
 ## 3.4. Product Backlog
 
 <table>
@@ -522,6 +590,20 @@
         <td>US15</td>
         <td>Canales de contacto</td>
         <td>Como usuario de la plataforma MedicDefense, quiero que se muestren los canales de contacto de los abogados para poder contactarlos antes de efectuar un pago.</td>
+    </tr>
+    <tr>
+        <td>16</td>
+        <td>US16</td>
+        <td>Visualización del caso y documentos</td>
+        <td>Como usuario de la plataforma MedicDefense, quiero tener la capacidad de poder visualizar toda la documentacion de mi caso.</td>
+        <td>5</td>
+    </tr>
+    <tr>
+        <td>17</td>
+        <td>US17</td>
+        <td>Contacto directo con mi medico asesor</td>
+        <td>Como usuario de la plataforma MedicDefense, quiero tener la capacidad de contactarme rapida y eficientemente con mi seleccionado medico asesor.</td>
+        <td>5</td>
     </tr>
     
 </table>
