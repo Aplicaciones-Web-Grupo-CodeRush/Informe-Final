@@ -41,7 +41,9 @@ Nuestras estrategias y tácticas para hacer frente a nuestros competidores serí
 La entrevista se realiza con el objetivo de obtener mayor información acerca de los usuarios y del servicio de tecnología. De este modo, podremos conocer cuál es sus puntos de vista respecto a los servicios electrónicos, qué problemas tuvieron y cuáles son sus expectativas frente a los nuevos servicios educativos virtuales.
 
 ### 2.2.1 Diseño de entrevistas  
+
 **Preguntas para Doctores**
+
 - Presentacion (Nombre, lugar en el que trabaja y rol que desempeña)
 - Cuando tiempo llevas ejerciendo la carrera de medicina y/o especialidad?
 - Como te sientes cada vez que tienes que intervenir a alguien quirúrgicamente?
@@ -60,26 +62,55 @@ La entrevista se realiza con el objetivo de obtener mayor información acerca de
 - ¿Has recibido alguna formación o orientación específica sobre cómo evitar situaciones que puedan llevar a denuncias por negligencia médica durante tu formación médica? ¿Cómo cuales?  
 - ¿Algún profesor de tu facultad les ha comentado sobre si tuvo alguna negligencia? En caso de si, que hizo al respecto?  
 - ¿Te gustaría tener acceso a servicios legales especializados en el campo de la medicina para obtener asesoramiento o defensa en caso de enfrentar una denuncia por negligencia médica en el futuro? ¿Como cuales: asesorías, cursos, talleres, etc?
+
 ### 2.2.2. Registro de entrevistas  
 
+#### Nombre de la entrevistada: Vanessa Castillo (Estudiante de Medicina)
+
+- Presentación(Nombre, edad, centro de estudios) <br>
+. Vanessa Castillo, 21 años, Universidad Privada del Norte
+
+- ¿Cuánto tiempo llevas estudiando medicina? <br>
+. 2 años y medio estudiando
+
+- ¿Estás desempeñando practicas médicas en algún Hospital? ¿En que hospital? <br>
+. Si, actualmente en una clinica de Los Olivos.
+
+- ¿Has tenido alguna mala experiencia mientras realizabas tus practicas médicas? ¿Conociste a alguien que haya tenido una mala experiencia? <br>
+. No tuve una mala experiencia como tal, pero si compañeros y profesores contaron sus malas experiencias que tuvieron en el transcurso de su formacion academica.
+
+- ¿Alguna vez has escuchado sobre las negligencias médicas que ocurren en el país? Que opinas sobre eso? <br>
+. Si, ahora ultimo en las noticias mas que todo, y bueno yo opino ue es muy triste, ¿no? Un acto inhumano por parte de los médicos que, no sé, es es un trabajo mal, ya que, necesitamos prepararnos constantemente como profesionales de la salud, ya que estamos tratando con seres vivos, personas o animales, y es importante prevalecer la salud en ellos. Y bueno, más que todo porque nos dan la confianza
+
+- ¿Qué conocimientos tienes sobre la responsabilidad médica y las posibles implicaciones legales que pueden surgir durante la práctica clínica? <br>
+. No tengo muchos conocimientos acerca de la responsabilidad medica salvo un curso que tome en los primeros ciclos.
+
+- ¿Has recibido alguna formación o orientación específica sobre cómo evitar situaciones que puedan llevar a denuncias por negligencia médica durante tu formación médica? ¿Cómo cuales? <br>
+.Si he tenido alguna formación de, este, directamente todavía, obviamente, me falta del el transcurso del de mi preparación, pero poco a poco los profesores eso nos inculcan, más que todo el el abordaje, para el abordaje de un paciente. Como paso básico siempre nos mandan, este, más que todo los primeros auxilios en los pacientes. Desde el primer paso y y lo más importante es siempre estar en en capacitación. Si los profesores no nos lo dan, buscar por nosotros mismos los medios.
+  
+- ¿Algún profesor de tu facultad les ha comentado sobre si tuvo alguna negligencia? En caso de si, que hizo al respecto? <br>
+. Más que todo como negligencia no suena así, pero sí nos contó una experiencia así mi profesor, que era mi profesor de anatomía y fisiología. Como primer año de estudiante, nos contó una pequeña historia que bueno, pasamos cualquier estudiante de salud, nos contó esa anécdota como para estar preparado para todos, en ese caso se presentó en un accidente y él estaba ahí y la persona creo que se estaba atragantando, y bueno, al no tener claro cómo actuar por este y el mismo entorno,la gente que se asusta, la presión que siente uno, la ansiedad, nervios, tal vez, no se pudo concentrar en ayudar a la persona, pero ya a lo largo del tiempo pudo controlar ese tipo de actitudes y ya poder enfrentar mejor esa situación, si es que en caso vuelva a pasar.
+
+- ¿Te gustaría tener acceso a servicios legales especializados en el campo de la medicina para obtener asesoramiento o defensa en caso de enfrentar una denuncia por negligencia médica en el futuro? ¿Como cuales: asesorías, cursos, talleres, etc?
+. Sí, claro que sí, a cualquier estudiante de salud le gustaría. Citas asesoradas por especialistas, con mayor experiencia, los profesores que sepan, Incluso talleres, cursos, reforzamientos, todo. Creo que no soy la única. Ya todas las personas necesariamente que están estudiando áreas de la salud deberían saberlo. Y y bueno, las personas de no solamente del área de salud, sino todos, porque es importante. Pero en en el área de la salud creo que es indispensable que lo sepa.
 
 ### 2.2.3. Análisis de entrevistas
 
 
-
 ## 2.3. Needfinding
+
 Posteriormente a las entrevistas, pudimos obtener la información sobre sus deseos, frustraciones, situación y múltiples datos que nos van a servir para satisfacer sus necesidades, mejorando la experiencia a nuestros usuarios. 
 Esta información también nos ayudará a realizar los esquemas para las secciones de User Personas, User Task Matrix, User Journey Maps y el Empathy Mapping.
 
 ### 2.3.1. User Persona
+
 En el proceso de desarrollo de un sitio web para ayudar a médicos que sufren demandas por las familias de sus pacientes debido a problemas que no pueden ser principalmente del médico como negligencias del hospital, etc. Es fundamental comprender en profundidad las necesidades y preferencias de los usuarios finales. Con este fin, hemos llevado a cabo un detallado análisis de entrevistas tanto con potenciales usuarios como con competidores en el ámbito de la seguridad y protección contra incendios. Los datos valiosos obtenidos de estas entrevistas nos han proporcionado información crucial sobre las expectativas y obstáculos de nuestra audiencia objetivo.
 
 Los textos que se presentaron anteriormente detallan las entrevistas realizadas con dos individuos distintos. A través de estas entrevistas, hemos identificado características y necesidades esenciales que guiarán la creación de las fichas de User Persona.
 
 En las fichas de User Persona que se presentarán a continuación, se ampliarán y detallarán las características individuales de estos usuarios ficticios, incluyendo aspectos como su edad, ocupación, habilidades, frustraciones y objetivos. Estas fichas de User Persona servirán como representaciones detalladas de nuestros usuarios objetivo y nos permitirán tomar decisiones informadas en el diseño y desarrollo que se adapten de manera efectiva a sus necesidades y preferencias.
 
-En resumen, los artefactos a presentar en esta sección están estrechamente relacionados con las principales características identificadas en los textos, y las fichas de User Persona son herramientas esenciales para garantizar que nuestras soluciones se centren en los usuarios y se ajusten a sus perfiles y requisitos específicos
-
+En resumen, los artefactos a presentar en esta sección están estrechamente relacionados con las principales características identificadas en los textos, y las fichas de User Persona son herramientas esenciales para garantizar que nuestras soluciones se centren en los usuarios y se ajusten a sus perfiles y requisitos específicos.
 
 **_Segmento Objetivo 1: Medicos_**
 
@@ -106,11 +137,18 @@ En resumen, los artefactos a presentar en esta sección están estrechamente rel
 
 ### 2.3.3. User Journey Mapping
 
+Realizamos una lluvia de ideas e identificamos las fases de acorde a lo propuesto en los User Persona. De tal modo, hemos conseguido realizar los User Journey Mapping para los segmentos dados.
+
+**_Segmento Objetivo 1: Medicos_**
+
 ![alt text](../assets/imgs/Customer_journey_map_2.png)
+
+**_Segmento Objetivo 2: Estudiante de Medicina_**
 
 ![alt text](../assets/imgs/Customer_journey_map_1.png)
 
 ### 2.3.4. Empathy Mapping
+
 Para el desarrollo de los Empathy Map hemos utilizado la información recopilada en base a nuestros dos User Personas que representan nuestro segmento.
 
 **_Clara Diaz - Doctora_**
@@ -122,6 +160,7 @@ Para el desarrollo de los Empathy Map hemos utilizado la información recopilada
 ![alt text](<../assets/imgs/Carlos - Empathy Mapping.png>)
 
 ### 2.3.5. As-is Scenario Mapping
+
 Realizamos una lluvia de ideas e identificamos las fases de acorde a lo propuesto en los User Persona. De tal modo, hemos conseguido realizar los As-Is mapping para los segmentos dados.
 
 **_Clara Diaz - Doctora_**
@@ -133,6 +172,7 @@ Realizamos una lluvia de ideas e identificamos las fases de acorde a lo propuest
 ![alt text](<../assets/imgs/As-is Mapping - Carlos.jpg>)
 
 ### 2.3.6. Ubiquitous Language
+
 **Lex Artis**: Es un término legal que se utiliza para evaluar si un médico ha actuado de acuerdo con los estándares aceptados de la práctica médica.
 
 **Negligencia médica**: Se refiere a un tipo de error médico en el que un médico o profesional de la salud comete un error o actúa de manera negligente en la atención de un paciente, lo que resulta en daño o lesión para el paciente.
