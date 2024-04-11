@@ -44,24 +44,24 @@ La entrevista se realiza con el objetivo de obtener mayor información acerca de
 
 **Preguntas para Doctores**
 
-- Presentacion (Nombre, lugar en el que trabaja y rol que desempeña)
-- Cuando tiempo llevas ejerciendo la carrera de medicina y/o especialidad?
-- Como te sientes cada vez que tienes que intervenir a alguien quirúrgicamente?
-- Alguna vez has tenido algún problema medico con algún paciente? En caso NO, conoces algún caso?
-- Conoces a alguien que haya tenido algún problema con algún paciente o con la familia del mismo por el resultado de su cirugía?
-- Si tuviera algún problema con el resultado de la cirugía de tu paciente, que harías? Buscarías ayuda profesional?
+- Presentación (Nombre, lugar en el que trabaja y rol que desempeña)
+- ¿Cuánto tiempo llevas ejerciendo la carrera de medicina y/o especialidad?
+- ¿Cómo te sientes cada vez que tienes que intervenir a alguien quirúrgicamente?
+- ¿Alguna vez has tenido algún problema medico con algún paciente? En caso que no, ¿Conoces algún caso?
+- ¿Conoces a alguien que haya tenido algún problema con algún paciente, o con la familia del mismo por el resultado de su cirugía?
+- Si tuviera algún problema con el resultado de la cirugía de tu paciente, ¿Qué harías? ¿Buscarías ayuda profesional?
 
-**Preguntas para Estudiantes Medicinas**
+**Preguntas para Estudiantes de Medicina**
 
-- Presentación(Nombre, edad, centro de estudios)  
-- ¿Cuánto tiempo llevas estudiando medicina?  
-- ¿Estás desempeñando practicas médicas en algún Hospital? ¿En que hospital?  
-- ¿Has tenido alguna mala experiencia mientras realizabas tus practicas médicas? ¿Conociste a alguien que haya tenido una mala experiencia?  
-- ¿Alguna vez has escuchado sobre las negligencias médicas que ocurren en el país? Que opinas sobre eso?  
-- ¿Qué conocimientos tienes sobre la responsabilidad médica y las posibles implicaciones legales que pueden surgir durante la práctica clínica?  
-- ¿Has recibido alguna formación o orientación específica sobre cómo evitar situaciones que puedan llevar a denuncias por negligencia médica durante tu formación médica? ¿Cómo cuales?  
-- ¿Algún profesor de tu facultad les ha comentado sobre si tuvo alguna negligencia? En caso de si, que hizo al respecto?  
-- ¿Te gustaría tener acceso a servicios legales especializados en el campo de la medicina para obtener asesoramiento o defensa en caso de enfrentar una denuncia por negligencia médica en el futuro? ¿Como cuales: asesorías, cursos, talleres, etc?
+- Presentación (Nombre, edad, centro de estudios)
+- ¿Cuánto tiempo llevas estudiando medicina?
+- ¿Estás desempeñando prácticas médicas en algún Hospital? ¿En qué hospital?
+- ¿Has tenido alguna mala experiencia mientras realizabas tus prácticas médicas? ¿Conociste a alguien que haya tenido una mala experiencia?
+- ¿Alguna vez has escuchado sobre las negligencias médicas que ocurren en el país? ¿Qué opinas sobre eso?
+- ¿Qué conocimientos tienes sobre la responsabilidad médica y las posibles implicaciones legales que pueden surgir durante la práctica clínica?
+- ¿Has recibido alguna formación o orientación específica sobre cómo evitar situaciones que puedan llevar a denuncias por negligencia médica durante tu formación médica? ¿Cómo cuales?
+- ¿Algún profesor de tu facultad les ha comentado sobre si tuvo alguna negligencia? En caso de que sí, que hizo al respecto?
+- ¿Te gustaría tener acceso a servicios legales especializados en el campo de la medicina para obtener asesoramiento o defensa en caso de enfrentar una denuncia por negligencia médica en el futuro? ¿Cómo cuales: asesorías, cursos, talleres, etc?
 
 ### 2.2.2. Registro de entrevistas  
 
@@ -105,6 +105,10 @@ Más que todo como negligencia no suena así, pero sí nos contó una experienci
 
 Sí, claro que sí, a cualquier estudiante de salud le gustaría. Citas asesoradas por especialistas, con mayor experiencia, los profesores que sepan, Incluso talleres, cursos, reforzamientos, todo. Creo que no soy la única. Ya todas las personas necesariamente que están estudiando áreas de la salud deberían saberlo. Y y bueno, las personas de no solamente del área de salud, sino todos, porque es importante. Pero en en el área de la salud creo que es indispensable que lo sepa.
 
+**Conclusiones:**
+
+Después de realizar las entrevistas, se obtuvo información valiosa sobre las experiencias y perspectivas de los usuarios en relación a los servicios de tecnología. En el caso de la entrevista con Vanessa Castillo, una estudiante de medicina, se destacó su interés en tener acceso a servicios legales especializados en el campo de la medicina para obtener asesoramiento o defensa en caso de enfrentar una denuncia por negligencia médica en el futuro. Además, mencionó la importancia de recibir formación y orientación específica sobre cómo evitar situaciones que puedan llevar a denuncias por negligencia médica durante su formación médica. Estos hallazgos nos permiten comprender mejor las necesidades y expectativas de nuestros usuarios y nos ayudarán a diseñar soluciones que satisfagan sus requerimientos.
+
 ![alt text](<../assets/imgs/Entrevista-vanessa.png>)
 
 **Entrevista 2: Marlene Pachas Torres (Doctora)**
@@ -137,22 +141,20 @@ Si, un ginecologo después de realizar una cesárea por emergencia decide sacar 
 
 Si, buscaria ayuda profesional. Acudiria al Colegio Médico del Perú a traves de la Defensoria del Médico, ademas pediria asesoramiento legal a la Sociedad de Anestesiologia. 
 
+**Conclusiones**
+
+Despues de entrevistar a la doctora Marlene Pachas Torres, una Médico Anastesióloga del Hospital Arzobispo Loayza, conseguimos información valiosa de como es una evaluación preanestésica y sobre la preparación regurosa antes de cada intervención quirúrgica. Además, nos hablo sobre la importancia que es saber que hacer y donde acudir al momento de enfrentar alguna denuncia por negligencia médica. Por último tambien mostro interes en poder tener acceso a servicios legales con abogados especializados en el area de la medicina.
+Esta entrevista nos ayudo a saber cuales son las necesidades que necesitan nuestros usuarios para unirse a nuestro aplicativo.
+
 ![alt text](<../assets/imgs/Entrevista-Marlene.png>)
 
 ### 2.2.3. Análisis de entrevistas
 
 **Entrevista 1: Vanessa Castillo**
 
-**Conclusiones:**
-
-Después de realizar las entrevistas, se obtuvo información valiosa sobre las experiencias y perspectivas de los usuarios en relación a los servicios de tecnología. En el caso de la entrevista con Vanessa Castillo, una estudiante de medicina, se destacó su interés en tener acceso a servicios legales especializados en el campo de la medicina para obtener asesoramiento o defensa en caso de enfrentar una denuncia por negligencia médica en el futuro. Además, mencionó la importancia de recibir formación y orientación específica sobre cómo evitar situaciones que puedan llevar a denuncias por negligencia médica durante su formación médica. Estos hallazgos nos permiten comprender mejor las necesidades y expectativas de nuestros usuarios y nos ayudarán a diseñar soluciones que satisfagan sus requerimientos.
 
 **Entrevista 2: Marlene Pachas Torres**
 
-**Conclusiones**
-
-Despues de entrevistar a la doctora Marlene Pachas Torres, una Médico Anastesióloga del Hospital Arzobispo Loayza, conseguimos información valiosa de como es una evaluación preanestésica y sobre la preparación regurosa antes de cada intervención quirúrgica. Además, nos hablo sobre la importancia que es saber que hacer y donde acudir al momento de enfrentar alguna denuncia por negligencia médica. Por último tambien mostro interes en poder tener acceso a servicios legales con abogados especializados en el area de la medicina.
-Esta entrevista nos ayudo a saber cuales son las necesidades que necesitan nuestros usuarios para unirse a nuestro aplicativo.
 
 ## 2.3. Needfinding
 
