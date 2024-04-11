@@ -521,6 +521,7 @@
 </table>
 
 ## 3.3. Impact Mapping
+
 En esta sección, se plantearon metas de negocio utilizando los criterios SMART para elaborar el Impact Mapping en base a nuestras User Personas y User Stories.
 
 **Segmento 1**
@@ -528,6 +529,7 @@ En esta sección, se plantearon metas de negocio utilizando los criterios SMART 
 
 **Segmento 2**
 ![alt text](<../assets/imgs/Impact map - Carlos.png>)
+
 ## 3.4. Product Backlog
 
 <table>
@@ -572,6 +574,24 @@ En esta sección, se plantearon metas de negocio utilizando los criterios SMART 
         <td>US06</td>
         <td>Visualización de Perfil de Abogado Médico</td>
         <td>Como usuario de la plataforma MedicDefense, quiero tener la capacidad de poder visualizar el perfil del abogado médico para ver la información de sus datos y experiencia.</td>
+    </tr>
+    <tr>
+        <td>10</td>
+        <td>US10</td>
+        <td>Visualización de servicios</td>
+        <td>Como visitante de la landing page de MedicDefense, quiero ver una sección donde se expliquen los servicios para estar mejor informado a la hora de confiar en su servicio.</td>
+    </tr>
+    <tr>
+        <td>11</td>
+        <td>US11</td>
+        <td>Sección de contacto</td>
+        <td>Como visitante de la landing page de MedicDefense, quiero ver una sección de contacto para facilitar la comunicación al momento de solicitar el servicio.</td>
+    </tr>
+    <tr>
+        <td>12</td>
+        <td>US12</td>
+        <td>Sección about us</td>
+        <td>Como visitante de la landing page de MedicDefense, quiero ver una sección de about us para informarme sobre la empresa que está brindando los servicios.</td>
     </tr>
     <tr>
         <td>13</td>
