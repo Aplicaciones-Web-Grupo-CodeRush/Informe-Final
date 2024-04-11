@@ -38,7 +38,7 @@ Para el desarrollo de los mockups y wireframes se utilizó en base a desarrollo 
 
 Consideramos que para poseer una estructura de jerarquía clara y precisa en nuestra aplicación es indispensable lograr que el usuario navegue de una forma satisfactoria. Nuestra estructura es la siguiente:
 
-Al acceder a la plataforma de MedicDefense, los usuarios tienen la opción de iniciar sesión, registrarse si no tienen una cuenta previa, o recuperar su contraseña en caso de olvido. Una vez dentro, en la página principal, se presenta un repertorio de abogados, con un menú de navegación que incluye opciones como "Abogados", "Resumen", "Suscripción", "Perfil" y "Ajustes". Los usuarios pueden aplicar filtros para refinar su búsqueda, como años de experiencia o casos ganados. Al seleccionar un abogado, se muestra su perfil con opciones de contacto, pago directo y consulta, esta última bloqueada sin suscripción. La interfaz de pago facilita la transacción, con opciones para gestionar la suscripción actual o explorar suscripciones disponibles. El resumen proporciona una lista de consultas o servicios anteriores, mientras que una versión detallada está disponible para reportes de consultas específicas. Además, hay un proceso similar para servicios de pago único. Los usuarios pueden acceder a su perfil para ver su información registrada y ajustar preferencias en la sección de ajustes, que incluye configuración de notificaciones, gestión de pagos y opciones para modificar o eliminar la cuenta. Finalmente, una pantalla de confirmación indica el envío de solicitudes de consulta a los abogados seleccionados.
+Al acceder a la plataforma de MedicDefense, los usuarios tienen la opción de iniciar sesión, registrarse si no tienen una cuenta previa, o recuperar su contraseña en caso de olvido. Una vez dentro, en la página principal, se presenta un repertorio de abogados, con un menú de navegación que incluye opciones como "Abogados", "Resumen", "Suscripción" y "Perfil". Los usuarios pueden aplicar filtros para refinar su búsqueda, como años de experiencia o casos ganados. Al seleccionar un abogado, se muestra su perfil con opciones de contacto, pago directo y consulta, esta última bloqueada sin suscripción. La interfaz de pago facilita la transacción, con opciones para gestionar la suscripción actual o explorar suscripciones disponibles. El resumen proporciona una lista de consultas o servicios anteriores, mientras que una versión detallada está disponible para reportes de consultas específicas. Además, hay un proceso similar para servicios de pago único. Los usuarios pueden acceder a su perfil para ver su información registrada y ajustar preferencias en la sección de ajustes, que incluye configuración de notificaciones, gestión de pagos y opciones para modificar o eliminar la cuenta. Finalmente, una pantalla de confirmación indica el envío de solicitudes de consulta a los abogados seleccionados.
 ![alt text](<../assets/imgs/Organization System.jpg>)
 
 ### 4.2.2. Labeling Systems
@@ -56,8 +56,7 @@ Un sistema de etiquetado efectivo es esencial para organizar y clasificar la inf
     - Abogados
     - Resumen
     - Suscripción
-    -Perfil
-    - Ajustes
+    - Perfil
 
 **Perfil del Abogado Médico**
 - Opciones de Contacto
@@ -73,11 +72,9 @@ Un sistema de etiquetado efectivo es esencial para organizar y clasificar la inf
 - Reporte Detallado
 
 **Perfil del Usuario**
--  Información Datos
-- Ajustes
-    - Configuración de Notificaciones
-    - Gestión de Pagos
-    - Modificar/Eliminar Cuenta
+- Información Datos
+- Editar Perfil
+- Borrar Cuenta
 
 ### 4.2.3. SEO Tags and Meta
 Las etiquetas son representativas del contenido de nuestro proyecto, incluyendo tanto el Landing Page como el Sitio Web. Están diseñadas para potenciar la visibilidad de nuestro proyecto en los motores de búsqueda más importantes, lo que facilitará que los usuarios encuentren fácilmente nuestra plataforma de MedicDefense.
@@ -376,13 +373,13 @@ En este apartado, se ve la interfaz de pago cuando se trata de la adquisición d
 
 En este apartado, se visualizan los datos de la suscripción actual. Debajo, opciones de cancelar la suscripción y actualizar información de pago.
 
-![Cancelar Suscripción](/assets/imgs/W-SuscripciónB.png)
+![Cancelar Suscripción](/assets/imgs/SuscripciónB.png)
 
 **Renovar Suscripción:**
 
 En este apartado, se visualizan los datos de la suscripción actual. Debajo, la opción de renovar la suscripción.
 
-![Renovar Suscripción](/assets/imgs/W-SuscripciónC.png)
+![Renovar Suscripción](/assets/imgs/SuscripciónC.png)
 
 **Perfil:**
 
