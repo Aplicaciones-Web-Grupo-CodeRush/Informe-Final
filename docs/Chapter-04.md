@@ -4,13 +4,13 @@
 
 ### 4.1.1. General Style Guidelines
 
-- **Branding**: 
-El branding del logo de nuestra plataforma “MedicDefense” es una combinación de elementos que transmiten una imagen sólida y confiable. La estructura dentro del triángulo simboliza la justicia y el respaldo legal que ofrece a los médicos, lo que se asocia con la confianza en los servicios que ofrece nuestra plataforma. Además, el triángulo también puede simbolizar protección o advertencia, lo que es relevante para una marca relacionada con la medicina y la defensa. El nombre “MedicDefense” se presenta en una tipografía elegante y profesional, mientras que la paleta de colores crea un contraste visual claro y transmite una sensación de calma y profesionalismo. En resumen, este logo tiene un enfoque clásico y profesional, y podría ser un elemento distintivo en nuestro sitio web.
+- **Branding**:
+  El branding del logo de nuestra plataforma “MedicDefense” es una combinación de elementos que transmiten una imagen sólida y confiable. La estructura dentro del triángulo simboliza la justicia y el respaldo legal que ofrece a los médicos, lo que se asocia con la confianza en los servicios que ofrece nuestra plataforma. Además, el triángulo también puede simbolizar protección o advertencia, lo que es relevante para una marca relacionada con la medicina y la defensa. El nombre “MedicDefense” se presenta en una tipografía elegante y profesional, mientras que la paleta de colores crea un contraste visual claro y transmite una sensación de calma y profesionalismo. En resumen, este logo tiene un enfoque clásico y profesional, y podría ser un elemento distintivo en nuestro sitio web.
 
 ![alt text](<../assets/imgs/Logo - MedicDefense.png>)
 
 - **Typography**: Al seleccionar la tipografía para nuestro proyecto, hemos optado por utilizar Open Sans siguiendo las pautas de estilo general. Ya que ofrece una combinación única de legibilidad, versatilidad y modernidad que se alinea perfectamente con la identidad visual y los objetivos de MedicDefense. Su diseño limpio y contemporáneo proporciona una excelente lectura en una amplia gama de dispositivos, lo que garantiza una experiencia de usuario óptima para nuestros clientes, que incluyen tanto a profesionales médicos como a estudiantes de medicina. Además, la variedad de pesos y estilos disponibles nos permite crear una jerarquía visual clara y coherente en nuestro contenido, facilitando la navegación y la comprensión de la información.
-![alt text](../assets/imgs/Fonts.png)
+  ![alt text](../assets/imgs/Fonts.png)
 
 - **Colors**:
 
@@ -29,6 +29,7 @@ De tal modo, se presentan nuestros 5 colores principales:
 ![alt text](../assets/imgs/Colores.png)
 
 ### 4.1.2. Web Style Guidelines
+
 Para el Web Style Guidelines del sitio web MedicDefense se utilizó con mayor presencia los colores pasteles en base a una paleta de colores que genere confianza y un ambiente acogedor para el usuario. El logo genera presencia por la combinación de elementos que transmiten una imagen sólida y confiable. A su vez, se ideó un estilo minimalista en el desarrollo del Landing Page para que el usuario tenga la facilidad de navegar y pueda observar las secciones con mayor orden. El tipo de Letra Open Sans combina con los colores anteriormente seleccionados, ya que brinda mayor flexibilidad y versatilidad.
 Para el desarrollo de los mockups y wireframes se utilizó en base a desarrollo web para pantallas de escritorio.
 
@@ -42,74 +43,87 @@ Al acceder a la plataforma de MedicDefense, los usuarios tienen la opción de in
 ![alt text](<../assets/imgs/Organization System.jpg>)
 
 ### 4.2.2. Labeling Systems
+
 Un sistema de etiquetado efectivo es esencial para organizar y clasificar la información de manera coherente y accesible. De tal modo, se utilizarán ciertos parámetros para facilitar la experiencia del usuario.
 
 **Inicio**
+
 - Iniciar Sesión
 - Registrarse
 - Recuperar Contraseña
 
 **Página Principal**
+
 - Repertorio de Abogados Médicos
-    - Aplicar Filtros
+  - Aplicar Filtros
 - Menú de Navegación
-    - Abogados
-    - Resumen
-    - Suscripción
-    - Perfil
+  - Abogados
+  - Resumen
+  - Suscripción
+  - Perfil
 
 **Perfil del Abogado Médico**
+
 - Opciones de Contacto
 - Pago Directo
 - Consulta
 
 **Interfaz de Pago**
+
 - Gestionar Suscripción Actual
 - Explorar Suscripciones Disponibles
 
 **Resumen**
+
 - Consultas/Servicios Anteriores
 - Reporte Detallado
 
 **Perfil del Usuario**
+
 - Información Datos
 - Editar Perfil
 - Borrar Cuenta
 
 ### 4.2.3. SEO Tags and Meta
+
 Las etiquetas son representativas del contenido de nuestro proyecto, incluyendo tanto el Landing Page como el Sitio Web. Están diseñadas para potenciar la visibilidad de nuestro proyecto en los motores de búsqueda más importantes, lo que facilitará que los usuarios encuentren fácilmente nuestra plataforma de MedicDefense.
 
 Para el Landing Page:
+
 - **Title:** MedicDefense
 - **Description:** MedicDefense - Servicios de Asistencia Legal y Peritaje en Anestesiología - Landing Page
 - **Keywords:** Asistencia Legal, Peritaje Médico, Abogados de Anestesiología, Consejo Legal, Defensa Médica, Servicios Legales, Estudiantes de Medicina, Consulta Legal, Expertos Médicos, Recursos Legales, Casos Médicos, Apoyo Legal, Abogacía Médica, Consultoría Legal.
 - **Authors:** Code Rush
 
 Para el sitio web:
+
 - **Title:** MedicDefense
 - **Description:** MedicDefense - Servicios de Asistencia Legal y Peritaje en Anestesiología - Website
 - **Keywords:** Asistencia Legal, Peritaje Médico, Abogados de Anestesiología, Consejo Legal, Defensa Médica, Servicios Legales, Estudiantes de Medicina, Consulta Legal, Expertos Médicos, Recursos Legales, Casos Médicos, Apoyo Legal, Abogacía Médica, Consultoría Legal.
 - **Authors:** Code Rush
 
 ### 4.2.4. Searching Systems
-El usuario puede utilizar la búsqueda en la sección de “Abogados Médicos”. De tal modo, 
+
+El usuario puede utilizar la búsqueda en la sección de “Abogados Médicos”. De tal modo,
 le facilitará el método de acceso para que sea más accesible y el usuario tenga más facilidad al momento de realizar su búsqueda.
 
 Métodos de búsqueda de nuestra aplicación:
+
 - Filtrado de Búsqueda de Abogados Médicos
-    - Nombre
-    - Apellido
-    - Experiencia
-    - Calificaciones
-    - Especialidad Legal Médica
+  - Nombre
+  - Apellido
+  - Experiencia
+  - Calificaciones
+  - Especialidad Legal Médica
 
 ### 4.2.5. Navigation Systems
-En la plataforma de MedicDefense, los usuarios pueden navegar de manera fluida a través de un menú de navegación principal ubicado en la parte superior de cada página. Este menú ofrece acceso directo a las secciones esenciales del sitio, como "Inicio", "Abogados", "Recursos", "Perfil", "Suscripción" y "Ajustes". Además, en cada página, se incluyen enlaces contextuales que permiten a los usuarios realizar acciones específicas relacionadas con el contenido actual. Por ejemplo, en la página del perfil del abogado, se ofrecen pestañas que facilitan la visualización de información personal, detalles de contacto y experiencia profesional. Los botones de llamada a la acción son visibles y accesibles, guiando a los usuarios hacia acciones importantes como iniciar sesión, registrarse o realizar pagos. Con un diseño efectivo, el sistema de navegación garantizará una experiencia de usuario óptima en todos los dispositivos, facilitando la búsqueda de información y la realización de acciones clave.
 
+En la plataforma de MedicDefense, los usuarios pueden navegar de manera fluida a través de un menú de navegación principal ubicado en la parte superior de cada página. Este menú ofrece acceso directo a las secciones esenciales del sitio, como "Inicio", "Abogados", "Recursos", "Perfil", "Suscripción" y "Ajustes". Además, en cada página, se incluyen enlaces contextuales que permiten a los usuarios realizar acciones específicas relacionadas con el contenido actual. Por ejemplo, en la página del perfil del abogado, se ofrecen pestañas que facilitan la visualización de información personal, detalles de contacto y experiencia profesional. Los botones de llamada a la acción son visibles y accesibles, guiando a los usuarios hacia acciones importantes como iniciar sesión, registrarse o realizar pagos. Con un diseño efectivo, el sistema de navegación garantizará una experiencia de usuario óptima en todos los dispositivos, facilitando la búsqueda de información y la realización de acciones clave.
 
 ## 4.3. Landing Page UI Design
 
 ### 4.3.1. Landing Page Wireframe
+
 ![Header](/assets/imgs/header.png)
 ![Principal](/assets/imgs/principal.png)
 ![Nosotros](/assets/imgs/nosotros.png)
@@ -120,6 +134,7 @@ En la plataforma de MedicDefense, los usuarios pueden navegar de manera fluida a
 ![Footer](/assets/imgs/footer.png)
 
 ### 4.3.2. Landing Page Mock-up
+
 ![Header](/assets/imgs/headerM.png)
 ![Principal](/assets/imgs/principalM.png)
 ![Nosotros](/assets/imgs/nosotrosM.png)
@@ -429,7 +444,7 @@ User Task: El usuario inicia sesión en MedicDefense, va a su perfil, selecciona
 
 En esta sección, se presenta el link del prototipo de la Aplicación Web, mediante la herramienta de prototipado de Figma.
 
-https://www.figma.com/proto/dfBnhcXbC6IHSTM0HbAmlv/Untitled?type=design&node-id=20-614&t=MM26owY8yuxyMhS6-1&scaling=scale-down&page-id=20%3A613&starting-point-node-id=20%3A614&mode=design 
+https://www.figma.com/proto/dfBnhcXbC6IHSTM0HbAmlv/Untitled?type=design&node-id=20-614&t=MM26owY8yuxyMhS6-1&scaling=scale-down&page-id=20%3A613&starting-point-node-id=20%3A614&mode=design
 
 ## 4.6. Domain-Driven Software Architecture
 
@@ -455,8 +470,139 @@ https://www.figma.com/proto/dfBnhcXbC6IHSTM0HbAmlv/Untitled?type=design&node-id=
 
 ### 4.7.1. Class Diagrams
 
+![Class Diagram](../assets/imgs/classdiagram1.png)
+
 ### 4.7.2. Class Dictionary
 
+<table>
+  <tr>
+    <th colspan="1">#</th>
+    <th colspan="2">Entidad</th>
+    <th colspan="2">Nombre de atributos</th>
+    <th colspan="4">Definición</th>
+    <th colspan="2">Tipo de dato</th>
+  </tr>
+  <tr>
+    <td rowspan="5" colspan="1">1</td>
+    <td rowspan="5" colspan="2">User</td>
+    <td colspan="2">id</td>
+    <td colspan="4">Código identificador del usuario</td>
+    <td colspan="2">int</td>
+    <tr>
+      <td colspan="2">name</td>
+      <td colspan="4">Nombre del usuario</td>
+      <td colspan="2">string</td>
+    </tr>
+    <tr>
+      <td colspan="2">email</td>
+      <td colspan="4">Correo electrónico del usuario</td>
+      <td colspan="2">string</td>
+    </tr>
+    <tr>
+      <td colspan="2">password</td>
+      <td colspan="4">Constraseña del usuario</td>
+      <td colspan="2">string</td>
+    </tr>
+    <tr>
+      <td colspan="2">type</td>
+      <td colspan="4">Tipo de usuario</td>
+      <td colspan="2">string</td>
+    </tr>
+  </tr>
+  <tr>
+    <td rowspan="4" colspan="1">2</td>
+    <td rowspan="4" colspan="2">Suscription</td>
+    <td colspan="2">id</td>
+    <td colspan="4">Código identificador de la suscripción</td>
+    <td colspan="2">int</td>
+    <tr>
+      <td colspan="2">typeSuscription</td>
+      <td colspan="4">Tipo de suscripción</td>
+      <td colspan="2">string</td>
+    </tr>
+    <tr>
+      <td colspan="2">startDate</td>
+      <td colspan="4">Fecha de inicio de la suscripción</td>
+      <td colspan="2">string</td>
+    </tr>
+    <tr>
+      <td colspan="2">endDate</td>
+      <td colspan="4">Fecha de fin de la suscripción</td>
+      <td colspan="2">string</td>
+    </tr>
+  </tr>
+  <tr>
+    <td rowspan="2" colspan="1">3</td>
+    <td rowspan="2" colspan="2">Doctor</td>
+    <td colspan="2">id</td>
+    <td colspan="4">Código identificador del doctor</td>
+    <td colspan="2">int</td>
+    <tr>
+      <td colspan="2">specially</td>
+      <td colspan="4">Especialidad del doctor</td>
+      <td colspan="2">string</td>
+    </tr>
+  </tr>
+  <tr>
+    <td rowspan="3" colspan="1">4</td>
+    <td rowspan="3" colspan="2">Lawyer</td>
+    <td colspan="2">id</td>
+    <td colspan="4">Código identificador del abogado</td>
+    <td colspan="2">int</td>
+    <tr>
+      <td colspan="2">specially</td>
+      <td colspan="4">Especialidad del abogado</td>
+      <td colspan="2">string</td>
+    </tr>
+    <tr>
+      <td colspan="2">costConsultation</td>
+      <td colspan="4">Costo de la consulta</td>
+      <td colspan="2">double</td>
+    </tr>
+  </tr>
+  <tr>
+    <td rowspan="4" colspan="1">5</td>
+    <td rowspan="4" colspan="2">Transaction</td>
+    <td colspan="2">id</td>
+    <td colspan="4">Código identificador de la transacción</td>
+    <td colspan="2">int</td>
+    <tr>
+      <td colspan="2">type</td>
+      <td colspan="4">Tipo de transacción</td>
+      <td colspan="2">string</td>
+    </tr>
+    <tr>
+      <td colspan="2">amount</td>
+      <td colspan="4">Monto de la transacción</td>
+      <td colspan="2">float</td>
+    </tr>
+    <tr>
+      <td colspan="2">date</td>
+      <td colspan="4">Fecha de la transacción</td>
+      <td colspan="2">string</td>
+    </tr>
+  </tr>
+  <tr>
+    <td rowspan="3" colspan="1">6</td>
+    <td rowspan="3" colspan="2">Consultation</td>
+    <td colspan="2">id</td>
+    <td colspan="4">Código identificador de la consulta</td>
+    <td colspan="2">int</td>
+    <tr>
+      <td colspan="2">date</td>
+      <td colspan="4">Fecha de la consulta</td>
+      <td colspan="2">string</td>
+    </tr>
+    <tr>
+      <td colspan="2">state</td>
+      <td colspan="4">Estado de la consulta</td>
+      <td colspan="2">string</td>
+    </tr> 
+  </tr>
+</table>
+
 ## 4.8. Database Design
+
+![DB Diagram](../assets/imgs/dbdiagram.jpeg)
 
 ### 4.8.1. Database Diagram
