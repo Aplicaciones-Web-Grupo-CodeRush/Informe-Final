@@ -603,6 +603,6 @@ https://www.figma.com/proto/dfBnhcXbC6IHSTM0HbAmlv/Untitled?type=design&node-id=
 
 ## 4.8. Database Design
 
-![DB Diagram](../assets/imgs/dbdiagram.jpeg)
-
 ### 4.8.1. Database Diagram
+
+![DB Diagram](../assets/imgs/dbdiagram.jpeg)
