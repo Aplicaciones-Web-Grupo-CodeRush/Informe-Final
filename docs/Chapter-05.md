@@ -69,3 +69,6 @@ GitHub
 ### 5.2.1.7. Software Deployment Evidence for Sprint Review
 
 ### 5.2.1.8. Team Collaboration Insights during Sprint
+- Existe un déficit de 2417 médicos anestesiólogos en 20 regiones del país. (n.d.). Convoca.pe - Agenda Propia. Retrieved April 11, 2024, from https://convoca.pe/agenda-propia/existe-un-deficit-de-2417-medicos-anestesiologos-en-20-regiones-del-pais
+
+- The Markdown Guide-MarkdownGuide from https://www.markdownguide.org/
