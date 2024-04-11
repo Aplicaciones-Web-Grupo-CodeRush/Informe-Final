@@ -70,8 +70,12 @@ GitHub
 
 Para el despliegue del Landing Page, hemos utilizado la herramienta de Github Pages para poder hacer un deployment. Para eso, hemos creado un repositorio donde hemos colocado el código de desarrollo de nuestra Landing Page.
 
+![alt text](<../assets/imgs/github-repositorio.PNG>)
 
 Una vez creado el repositorio, entraremos a configuración del repositorio y escogemos el apartado de Pages. Se coloca la información necesaria, como la fuente del branch a utilizar para realizar el deployment. Luego de eso, Github Pages nos brindará el link y desplegará nuestra landing page en la Web.
+
+![alt text](<../assets/imgs/github-pages.PNG>)
+
 
 ### 5.2.1.8. Team Collaboration Insights during Sprint
 - Tuesta, P(2023). *Existe un déficit de 2417 médicos anestesiólogos en 20 regiones del país*. Convoca.pe. Recuperado de: https://convoca.pe/agenda-propia/existe-un-deficit-de-2417-medicos-anestesiologos-en-20-regiones-del-pais
