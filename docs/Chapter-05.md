@@ -24,7 +24,7 @@ En la siguiente sección se describe la ruta de referencia de cada uno de los pr
 Trabajamos con tres ramas principales:
 
 - Main: nuestra rama principal donde presentaremos nuestras
-publicaciones oficiales.
+  publicaciones oficiales.
 - Branch: Se descompone en ramas por cada feature trabajado, diviendose asi en cada chapter correspondiente del 1 al 5.
 
 ### 5.1.3. Source Code Style Guide & Conventions
@@ -44,11 +44,11 @@ En la siguiente sección se explicará cómo se realizó la
 implementación de nuestra landing page en la plataforma de
 GitHub
 
-1) Establecemos un repositorio remoto en GitHub como el centro de nuestro proyecto.
-2) Inicializamos el repositorio usando el comando “git init”
-3) Añadimos el repositorio remoto y subimos los archivos a la nube de GitHub.
-4) Configuramos GitHub Pages en la sección de configuración del repositorio en GitHub.
-5) Accedemos a la URL proporcionada por GitHub Pages para verificar que nuestra página web se haya desplegado correctamente.
+1. Establecemos un repositorio remoto en GitHub como el centro de nuestro proyecto.
+2. Inicializamos el repositorio usando el comando “git init”
+3. Añadimos el repositorio remoto y subimos los archivos a la nube de GitHub.
+4. Configuramos GitHub Pages en la sección de configuración del repositorio en GitHub.
+5. Accedemos a la URL proporcionada por GitHub Pages para verificar que nuestra página web se haya desplegado correctamente.
 
 ## 5.2. Landing Page, Services & Applications Implementation
 
@@ -201,7 +201,15 @@ GitHub
         <th colspan="2">Commit Message Body</th>
         <th colspan="2">Commited on (Date)</th>
     </tr>
-        <tr>
+     <tr>
+        <td colspan="2">Aplicaciones-Web-Grupo-CodeRush/Landing-page-MedicDefense</td>
+        <td colspan="2">Main</td>
+        <td colspan="2">95ea6ec</td>
+        <td colspan="2">chore: initial commit</td>
+        <td colspan="2">-</td>
+        <td colspan="2">06/04/2024</td>
+    </tr>
+    <tr>
         <td colspan="2">Aplicaciones-Web-Grupo-CodeRush/Landing-page-MedicDefense</td>
         <td colspan="2">Main</td>
         <td colspan="2">0046215</td>
@@ -258,6 +266,7 @@ GitHub
 ![alt text](../assets/imgs/contacto-feature.png)
 
 ### 5.2.1.5. Execution Evidence for Sprint Review
+
 Para esta primera entrega, nuestro equipo a conseguido elaborar la Landing Page del proyecto "MedicDefense". De tal modo, se podrá visualizar la información necesaria de lo que ofrece nuestro proyecto.
 
 ![alt text](../assets/imgs/header.png)
@@ -269,30 +278,30 @@ Para esta primera entrega, nuestro equipo a conseguido elaborar la Landing Page 
 
 ### 5.2.1.6. Services Documentation Evidence for Sprint Review
 
-
 ### 5.2.1.7. Software Deployment Evidence for Sprint Review
 
 Para el despliegue del Landing Page, hemos utilizado la herramienta de Github Pages para poder hacer un deployment. Para eso, hemos creado un repositorio donde hemos colocado el código de desarrollo de nuestra Landing Page.
 
-![alt text](<../assets/imgs/github-repositorio.PNG>)
+![alt text](../assets/imgs/github-repositorio.PNG)
 
 Una vez creado el repositorio, entraremos a configuración del repositorio y escogemos el apartado de Pages. Se coloca la información necesaria, como la fuente del branch a utilizar para realizar el deployment. Luego de eso, Github Pages nos brindará el link y desplegará nuestra landing page en la Web.
 
-![alt text](<../assets/imgs/github-pages.PNG>)
-
+![alt text](../assets/imgs/github-pages.PNG)
 
 ### 5.2.1.8. Team Collaboration Insights during Sprint
+
 Para el desarrollo de este primer sprint, todos los miembros del equipo desarrollaron y colaboraron de manera activa y continua. De tal modo, se muestra como evidencia los insights de cada miembro del equipo.
 
 ![alt text](../assets/imgs/Insights.png)
 
-## 5.3. Conclusiones 
+## 5.3. Conclusiones
 
 1. Existe una clara necesidad en el mercado médico de servicios especializados en asesoramiento legal y oportunidades laborales específicas en el campo de la anestesiología. La falta de acceso a expertos legales especializados y recursos para una defensa adecuada crea un ambiente de incertidumbre y estrés para los médicos que enfrentan desafíos legales, lo que afecta negativamente su bienestar emocional, su calidad de atención médica y la confianza del paciente. Esta necesidad presenta una oportunidad para la startup de llenar este vacío en el mercado, proporcionando una plataforma tecnológica que conecte a médicos, estudiantes y profesionales del peritaje en anestesiología con peritos, recursos educativos y oportunidades laborales.
 
 2. La estrategia de la startup, que incluye ofrecer opciones de suscripción flexibles y asequibles, establecer asociaciones estratégicas con instituciones médicas y empresas del sector de la salud, y optimizar la experiencia de usuario, está diseñada para abordar las necesidades identificadas en el mercado y lograr el éxito comercial. Al centrarse en proporcionar un valor significativo a los usuarios a través de servicios especializados, contenido de alta calidad y una experiencia de usuario excepcional, la startup puede diferenciarse de la competencia y establecerse como líder en el mercado de servicios de anestesiología.
 
 ## 5.4 Bibliografia
-- Tuesta, P(2023). *Existe un déficit de 2417 médicos anestesiólogos en 20 regiones del país*. Convoca.pe. Recuperado de: https://convoca.pe/agenda-propia/existe-un-deficit-de-2417-medicos-anestesiologos-en-20-regiones-del-pais
 
-- Conne, M(2024). *The Markdown Guide*. MarkdownGuide. Recuperado de: https://www.markdownguide.org/
+- Tuesta, P(2023). _Existe un déficit de 2417 médicos anestesiólogos en 20 regiones del país_. Convoca.pe. Recuperado de: https://convoca.pe/agenda-propia/existe-un-deficit-de-2417-medicos-anestesiologos-en-20-regiones-del-pais
+
+- Conne, M(2024). _The Markdown Guide_. MarkdownGuide. Recuperado de: https://www.markdownguide.org/
