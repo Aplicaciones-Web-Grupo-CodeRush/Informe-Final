@@ -58,6 +58,86 @@ GitHub
 
 ### 5.2.1.2. Sprint Backlog 1
 
+<table>
+<tr>
+    <th colspan="3">Sprint #</th>
+    <th colspan="10">Sprint 1</th>
+  </tr>
+      <tr>
+    <td colspan="3">User Story</td>
+    <td colspan="10">Work-Item/Task</td>
+  </tr>
+  <tr>
+    <td colspan="1">Id</td>
+    <td colspan="2">Title</td>
+    <td colspan="1">Id</td>
+    <td colspan="2">Title</td>
+    <td colspan="3">Description</td>
+    <td colspan="1"> Estimation</td>
+    <td colspan="2">Assigned To</td>
+    <td colspan="1">Status(To-do /InProcess /To-Review /Done)</td>
+</tr>
+  <tr>
+    <td colspan="1">2</td>
+    <td colspan="2">Visualización de lista de tipos de suscripción</td>
+    <td colspan="1"></td>
+    <td colspan="2">Añadir funcion para mostrar lista de tipos de suscrpción</td>
+    <td colspan="3">Como visitador del landing page de MedicDefense,quiero visitar la lista de tipos de suscripción para seleccionar alguno.</td>
+    <td colspan="1">1</td>
+    <td colspan="2">Fabricio</td>
+    <td colspan="1">Done</td>
+  </tr>
+  <tr>
+    <td colspan="1"></td>
+    <td colspan="2">Sección de Creadores</td>
+    <td colspan="1"></td>
+    <td colspan="2">Añadir funcion para mostrar los creadores de la empresa</td>
+    <td colspan="3">Como visitante de la landing page de MedicDefense, quiero ver una sección de creadores para facilitar tener el conocimiento de los creadores de la empresa.</td>
+    <td colspan="1">1</td>
+    <td colspan="2">Cesar</td>
+    <td colspan="1">Done</td>
+<tr>
+    <td colspan="1">10</td>
+    <td colspan="2">Visualización de servicios</td>
+    <td colspan="1"></td>
+    <td colspan="2">Añadir sección de servicios</td>
+    <td colspan="3">Como visitante de la landing page de MedicDefense, quiero ver una sección donde se expliquen los servicios para estar mejor informado a la hora de confiar en su servicio.</td>
+    <td colspan="1">1</td>
+    <td colspan="2">Marcelo</td>
+    <td colspan="1">Done</td>
+</tr>
+<tr>
+    <td colspan="1">11</td>
+    <td colspan="2">Sección de contacto</td>
+    <td colspan="1"></td>
+    <td colspan="2">Añadir sección de contacto</td>
+    <td colspan="3">Como visitante de la landing page de MedicDefense, quiero ver una sección de contacto para facilitar la comunicación al momento de solicitar el servicio.</td>
+    <td colspan="1">1</td>
+    <td colspan="2">Gabriel</td>
+    <td colspan="1">Done</td>
+</tr>
+<tr>
+    <td colspan="1">12</td>
+    <td colspan="2">Sección nosotros</td>
+    <td colspan="1"></td>
+    <td colspan="2">Añadir sección nosotros</td>
+    <td colspan="3">Como visitante de la landing page de MedicDefense, quiero ver una sección nosotros para informarme sobre la empresa que está brindando los servicios.</td>
+    <td colspan="1">1</td>
+    <td colspan="2">Marcelo</td>
+    <td colspan="1">Done</td>
+</tr>
+<tr>
+    <td colspan="1"></td>
+    <td colspan="2">Sección de inicio</td>
+    <td colspan="1"></td>
+    <td colspan="2">Añadir sección de inicio</td>
+    <td colspan="3">Como visitante de la landing page de MedicDefense, quiero ver una sección de inicio con una barra de navegación para poder desplazarme mejor por la landing page.</td>
+    <td colspan="1">1</td>
+    <td colspan="2">Diego</td>
+    <td colspan="1">Done</td>
+</tr>
+</table>
+
 ### 5.2.1.3. Development Evidence for Sprint Review
 
 ### 5.2.1.4. Testing Suite Evidence for Sprint Review
