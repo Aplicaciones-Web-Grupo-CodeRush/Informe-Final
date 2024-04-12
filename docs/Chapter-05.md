@@ -217,7 +217,7 @@ GitHub
         <td colspan="2">-</td>
         <td colspan="2">07/04/2024</td>
     </tr>
-    tr>
+    <tr>
         <td colspan="2">Aplicaciones-Web-Grupo-CodeRush/Landing-page-MedicDefense</td>
         <td colspan="2">Main</td>
         <td colspan="2">2d479db</td>
@@ -225,11 +225,19 @@ GitHub
         <td colspan="2">-</td>
         <td colspan="2">06/04/2024</td>
     </tr>
-    tr>
+    <tr>
         <td colspan="2">Aplicaciones-Web-Grupo-CodeRush/Landing-page-MedicDefense</td>
         <td colspan="2">Main</td>
         <td colspan="2">8b47667</td>
         <td colspan="2">feat: Added -" Servicios "- section</td>
+        <td colspan="2">-</td>
+        <td colspan="2">06/04/2024</td>
+    </tr>
+    <tr>
+        <td colspan="2">Aplicaciones-Web-Grupo-CodeRush/Landing-page-MedicDefense</td>
+        <td colspan="2">Main</td>
+        <td colspan="2">555441b</td>
+        <td colspan="2">feat: Added "Creators" and "Footer"</td>
         <td colspan="2">-</td>
         <td colspan="2">06/04/2024</td>
     </tr>
