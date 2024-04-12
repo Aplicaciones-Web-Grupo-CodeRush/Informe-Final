@@ -56,6 +56,58 @@ GitHub
 
 ### 5.2.1.1. Sprint Planning 1
 
+<table>
+<tr>
+    <th colspan="5">Sprint #</th>
+    <th colspan="9">Sprint 1</th>
+  </tr>
+      <tr>
+    <td colspan="13">Sprint Planning Background</td>
+  </tr>
+  <tr>
+    <td colspan="5">Date</td>
+    <td colspan="8">2024-04-11</td>
+</tr>
+  <tr>
+    <td colspan="5">Time</td>
+    <td colspan="8">11:30 PM</td>
+  </tr>
+  <tr>
+    <td colspan="5">Location</td>
+    <td colspan="8">Via Discord y Google Meet</td>
+<tr>
+    <td colspan="5">Prepared By</td>
+    <td colspan="8">Gabriel Garcia</td>
+</tr>
+<tr>
+    <td colspan="5">Attendees (to planning meeting)</td>
+    <td colspan="8">Gabriel Garcia, Diego Flores, Fabricio Apaza, Marcelo Renteria, Cesar Castilla</td>
+</tr>
+<tr>
+    <td colspan="5">Sprint n – 1 Review Summary</td>
+    <td colspan="8">En esta seccion se planteo el desarrollo del landing page para nuestro proyecto llamado MedicDefense</td>
+</tr>
+<tr>
+    <td colspan="5">Sprint n – 1 Retrospective Summary</td>
+    <td colspan="8">En esta seccion todos los integrantes mencionaron tener aciertos en partes del codigo y en otras partes poder mejorar sus habilidades realizando landing pages</td>
+</tr>
+<tr>
+    <td colspan="13">Sprint Goal & User Stories</td>
+</tr>
+<tr>
+    <td colspan="5">Sprint n Goal</td>
+    <td colspan="8">Culminar el landing Page</td>
+</tr>
+<tr>
+    <td colspan="5">Sprint n Velocity</td>
+    <td colspan="8">6 story points</td>
+</tr>
+<tr>
+    <td colspan="5">Sum of Story Points</td>
+    <td colspan="8">9 Story Points</td>
+</tr>
+</table>
+
 ### 5.2.1.2. Sprint Backlog 1
 
 <table>
@@ -80,7 +132,7 @@ GitHub
   <tr>
     <td colspan="1">2</td>
     <td colspan="2">Visualización de lista de tipos de suscripción</td>
-    <td colspan="1"></td>
+    <td colspan="1">Id</td>
     <td colspan="2">Añadir funcion para mostrar lista de tipos de suscrpción</td>
     <td colspan="3">Como visitador del landing page de MedicDefense,quiero visitar la lista de tipos de suscripción para seleccionar alguno.</td>
     <td colspan="1">1</td>
@@ -88,9 +140,9 @@ GitHub
     <td colspan="1">Done</td>
   </tr>
   <tr>
-    <td colspan="1"></td>
+    <td colspan="1">18</td>
     <td colspan="2">Sección de Creadores</td>
-    <td colspan="1"></td>
+    <td colspan="1">Id</td>
     <td colspan="2">Añadir funcion para mostrar los creadores de la empresa</td>
     <td colspan="3">Como visitante de la landing page de MedicDefense, quiero ver una sección de creadores para facilitar tener el conocimiento de los creadores de la empresa.</td>
     <td colspan="1">1</td>
@@ -99,7 +151,7 @@ GitHub
 <tr>
     <td colspan="1">10</td>
     <td colspan="2">Visualización de servicios</td>
-    <td colspan="1"></td>
+    <td colspan="1">Id</td>
     <td colspan="2">Añadir sección de servicios</td>
     <td colspan="3">Como visitante de la landing page de MedicDefense, quiero ver una sección donde se expliquen los servicios para estar mejor informado a la hora de confiar en su servicio.</td>
     <td colspan="1">1</td>
@@ -109,7 +161,7 @@ GitHub
 <tr>
     <td colspan="1">11</td>
     <td colspan="2">Sección de contacto</td>
-    <td colspan="1"></td>
+    <td colspan="1">Id</td>
     <td colspan="2">Añadir sección de contacto</td>
     <td colspan="3">Como visitante de la landing page de MedicDefense, quiero ver una sección de contacto para facilitar la comunicación al momento de solicitar el servicio.</td>
     <td colspan="1">1</td>
@@ -119,7 +171,7 @@ GitHub
 <tr>
     <td colspan="1">12</td>
     <td colspan="2">Sección nosotros</td>
-    <td colspan="1"></td>
+    <td colspan="1">Id</td>
     <td colspan="2">Añadir sección nosotros</td>
     <td colspan="3">Como visitante de la landing page de MedicDefense, quiero ver una sección nosotros para informarme sobre la empresa que está brindando los servicios.</td>
     <td colspan="1">1</td>
@@ -127,9 +179,9 @@ GitHub
     <td colspan="1">Done</td>
 </tr>
 <tr>
-    <td colspan="1"></td>
+    <td colspan="1">19</td>
     <td colspan="2">Sección de inicio</td>
-    <td colspan="1"></td>
+    <td colspan="1">Id</td>
     <td colspan="2">Añadir sección de inicio</td>
     <td colspan="3">Como visitante de la landing page de MedicDefense, quiero ver una sección de inicio con una barra de navegación para poder desplazarme mejor por la landing page.</td>
     <td colspan="1">1</td>
@@ -157,7 +209,14 @@ GitHub
         <td colspan="2">-</td>
         <td colspan="2">05/04/2024</td>
     </tr>
-        
+    <tr>
+        <td colspan="2">Aplicaciones-Web-Grupo-CodeRush/Landing-page-MedicDefense</td>
+        <td colspan="2">Main</td>
+        <td colspan="2">9ce3c18</td>
+        <td colspan="2">feat: added contact section</td>
+        <td colspan="2">-</td>
+        <td colspan="2">07/04/2024</td>
+    </tr>
 </table>
 
 ### 5.2.1.4. Testing Suite Evidence for Sprint Review
