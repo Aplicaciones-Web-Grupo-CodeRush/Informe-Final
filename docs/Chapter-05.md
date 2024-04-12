@@ -245,6 +245,18 @@ GitHub
 
 ### 5.2.1.4. Testing Suite Evidence for Sprint Review
 
+![alt text](../assets/imgs/suscripciones-feature.png)
+
+![alt text](../assets/imgs/Servicios-feature.png)
+
+![alt text](../assets/imgs/Nosotros-feature.png)
+
+![alt text](../assets/imgs/Inicio-feature.png)
+
+![alt text](../assets/imgs/creadores-feature.png)
+
+![alt text](../assets/imgs/contacto-feature.png)
+
 ### 5.2.1.5. Execution Evidence for Sprint Review
 Para esta primera entrega, nuestro equipo a conseguido elaborar la Landing Page del proyecto "MedicDefense". De tal modo, se podrá visualizar la información necesaria de lo que ofrece nuestro proyecto.
 
@@ -256,6 +268,7 @@ Para esta primera entrega, nuestro equipo a conseguido elaborar la Landing Page 
 ![alt text](../assets/imgs/footer.png)
 
 ### 5.2.1.6. Services Documentation Evidence for Sprint Review
+
 
 ### 5.2.1.7. Software Deployment Evidence for Sprint Review
 
