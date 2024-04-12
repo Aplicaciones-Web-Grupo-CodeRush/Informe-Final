@@ -253,7 +253,7 @@ De la entrevista se desprende una clara conciencia sobre la responsabilidad méd
 
 ![alt text](<../assets/imgs/Entrevista - Patrick (Estudiante).png>)
 
-**Entrevista 5: Daniela Chumpitaz (Estudiante de Medicina)**
+**Entrevista 5: Daniela Chumpitaz (Doctora)**
 
 Intervalo de duración: 35:10 - 37:50
 
