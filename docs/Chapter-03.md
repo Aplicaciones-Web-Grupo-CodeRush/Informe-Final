@@ -13,8 +13,8 @@ Luego de realizar el ai-is con sus fases propuestas, para el to-be se realizaron
 | Epics                        | User Stories                                                                                                                             |
 | ---------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------- |
 | Funciones de Usuario | 1.Eliminar cuenta de Usuario<br>5.Suscripción a un plan<br>8.Seguimiento de casos legales<br>13.Verificación de Certificado Médico<br>14.Editar Perfil|
-| Visualizacion de Apartados   | 2. Visualización de lista de tipos de suscripción<br>3.Visualizar actividades del Usuario<br>4.Búsqueda por Filtros<br>6.Visualización de Perfil de Abogado Médico<br>15.Canales de contacto<br>16.Visualización del caso y documentos |
-| Landing Page | 10.Visualización de servicios<br>11.Sección de contacto<br>12.Sección about us<br>18. Sección Creadores<br>19. Seccion Inicio|
+| Visualizacion de Apartados   | 3.Visualizar actividades del Usuario<br>4.Búsqueda por Filtros<br>6.Visualización de Perfil de Abogado Médico<br>15.Canales de contacto<br>16.Visualización del caso y documentos |
+| Landing Page | 2. Visualización de lista de tipos de suscripción<br>10.Visualización de servicios<br>11.Sección de contacto<br>12.Sección about us<br>18. Sección Creadores<br>19. Seccion Inicio|
 | Interacción con Abogado | 7.Notificaciones de las consultas programadas<br>9.Calificación y reseñas para los Médicos Abogados<br>17.Contacto directo con mi medico asesor |
 
 <table>
@@ -52,7 +52,7 @@ Luego de realizar el ai-is con sus fases propuestas, para el to-be se realizaron
     <td colspan="2">ID-HU</td>
     <td colspan="1">HU02</td>
     <td colspan="1">Relación (EPIC ID)</td>
-    <td colspan="1">EP02</td>
+    <td colspan="1">EP03</td>
   </tr>
   <tr>
     <td colspan="2">Owner</td>
@@ -64,7 +64,7 @@ Luego de realizar el ai-is con sus fases propuestas, para el to-be se realizaron
   </tr>
   <tr>
 <td colspan="2">Descripción HU</td>
-    <td colspan="3">Como usuario de la plataforma de MedicDefense,quiero visualizar la lista de tipos de suscripción para seleccionar alguno.</td>
+    <td colspan="3">Como visitante de la landing page de MedicDefense, quiero visitar la lista de tipos de suscripción para seleccionar alguno.</td>
     </tr>
 <tr>
 <td colspan="2">Criterios de Aceptación</td>
@@ -527,7 +527,7 @@ Luego de realizar el ai-is con sus fases propuestas, para el to-be se realizaron
     <td colspan="2">ID-HU</td>
     <td colspan="1">HU18</td>
     <td colspan="1">Relación (EPIC ID)</td>
-    <td colspan="1">EP01</td>
+    <td colspan="1">EP03</td>
   </tr>
   <tr>
     <td colspan="2">Owner</td>
@@ -557,7 +557,7 @@ Luego de realizar el ai-is con sus fases propuestas, para el to-be se realizaron
     <td colspan="2">ID-HU</td>
     <td colspan="1">HU19</td>
     <td colspan="1">Relación (EPIC ID)</td>
-    <td colspan="1">EP01</td>
+    <td colspan="1">EP03</td>
   </tr>
   <tr>
     <td colspan="2">Owner</td>
@@ -602,135 +602,135 @@ En esta sección, se plantearon metas de negocio utilizando los criterios SMART 
     </tr>
     <tr>
         <td>1</td>
+        <td>US19</td>
+        <td>Sección de inicio</td>
+        <td>Como visitante de la landing page de MedicDefense, quiero ver una sección de inicio con una barra de navegación para poder desplazarme mejor por la landing page.</td>
+        <td>1</td>
+    </tr>
+    <tr>
+        <td>2</td>
         <td>US10</td>
         <td>Visualización de servicios</td>
         <td>Como visitante de la landing page de MedicDefense, quiero ver una sección donde se expliquen los servicios para estar mejor informado a la hora de confiar en su servicio.</td>
         <td>1</td>
     </tr>
     <tr>
-        <td>2</td>
+        <td>3</td>
         <td>US12</td>
         <td>Sección about us</td>
         <td>Como visitante de la landing page de MedicDefense, quiero ver una sección de about us para informarme sobre la empresa que está brindando los servicios.</td>
         <td>1</td>
     </tr>
     <tr>
-        <td>3</td>
+        <td>4</td>
         <td>US11</td>
         <td>Sección de contacto</td>
         <td>Como visitante de la landing page de MedicDefense, quiero ver una sección de contacto para facilitar la comunicación al momento de solicitar el servicio.</td>
-        <td>1</td>
-    </tr>
-       <tr>
-        <td>4</td>
-        <td>US02</td>
-        <td>Visualización de lista de tipos de suscripción</td>
-        <td>Como usuario de la plataforma de MedicDefense,quiero visualizar la lista de tipos de suscripción para seleccionar alguno.</td>
         <td>2</td>
     </tr>
-    <tr>
+       <tr>
         <td>5</td>
+        <td>US02</td>
+        <td>Visualización de lista de tipos de suscripción</td>
+        <td>Como visitante de la landing page de MedicDefense, quiero visitar la lista de tipos de suscripción para seleccionar alguno.</td>
+        <td>1</td>
+    </tr>
+    <tr>
+        <td>6</td>
+        <td>US18</td>
+        <td>Sección de Creadores</td>
+        <td>Como visitante de la landing page de MedicDefense, quiero ver una sección de creadores para facilitar tener el conocimiento de los creadores de la empresa.</td>
+        <td>1</td>
+    </tr>
+    <tr>
+        <td>7</td>
         <td>US05</td>
         <td>Suscripción a un plan</td>
         <td>Como usuario de la plataforma MedicDefense, quiero tener la capacidad de suscribirme a un plan mensual o anual para tener los beneficios de la suscripción.</td>
         <td>8</td>
     </tr>
     <tr>
-        <td>6</td>
+        <td>8</td>
         <td>US06</td>
         <td>Visualización de Perfil de Abogado Médico</td>
         <td>Como usuario de la plataforma MedicDefense, quiero tener la capacidad de poder visualizar el perfil del abogado médico para ver la información de sus datos y experiencia.</td>
         <td>3</td>
     </tr>
     <tr>
-        <td>7</td>
+        <td>9</td>
         <td>US15</td>
         <td>Canales de contacto</td>
         <td>Como usuario de la plataforma MedicDefense, quiero que se muestren los canales de contacto de los abogados para poder contactarlos antes de efectuar un pago.</td>
         <td>3</td>
     </tr>
     <tr>
-        <td>8</td>
+        <td>10</td>
         <td>US17</td>
         <td>Contacto directo con mi medico asesor</td>
         <td>Como usuario de la plataforma MedicDefense, quiero tener la capacidad de contactarme rapida y eficientemente con mi seleccionado medico asesor.</td>
         <td>3</td>
     </tr>
     <tr>
-        <td>9</td>
+        <td>11</td>
         <td>US13</td>
         <td>Verificación de Certificado Médico</td>
         <td>Como usuario de la plataforma MedicDefense, quiero que se verifique mi licencia médica para asegurar que sean los médicos quienes se beneficien de los servicios.</td>
         <td>8</td>
     </tr>
     <tr>
-        <td>10</td>
+        <td>12</td>
         <td>US09</td>
         <td>Calificación y reseñas para los Médicos Abogados</td>
         <td>Como usuario de la plataforma MedicDefense, quiero poder calificar y dejar reseñas sobre cómo fue mi experiencia que tuve con un médico abogado después de una consulta, para ayudar a otros usuarios a tomar decisiones informadas.</td>
         <td>2</td>
     </tr>
     <tr>
-        <td>11</td>
+        <td>13</td>
         <td>US04</td>
         <td>Búsqueda por Filtros</td>
         <td>Como usuario de la plataforma MedicDefense, quiero tener la capacidad de poder realizar búsqueda por medio de filtros para facilitar el acceso a ello.</td>
         <td>3</td>
     </tr>
     <tr>
-        <td>12</td>
+        <td>14</td>
         <td>US03</td>
         <td>Visualizar actividades del Usuario</td>
         <td>Como usuario de la plataforma de MedicDefense,quiero visualizar la lista de las actividades que realizo para tener un control y orden en las acciones que realizo.</td>
         <td>3</td>
     </tr>
     <tr>
-        <td>13</td>
+        <td>15</td>
         <td>US08</td>
         <td>Seguimiento de casos legales</td>
         <td>Como usuario de la plataforma, quiero tener la capacidad de realizar un seguimiento de los casos legales en los que estoy involucrado para ver el progreso realizado por el abogado asignado.</td>
         <td>2</td>
     </tr>
     <tr>
-        <td>14</td>
+        <td>16</td>
         <td>US14</td>
         <td>Editar Perfil</td>
         <td>Como usuario de la plataforma MedicDefense, quiero la opción de editar los datos de mi perfil para reflejar cambios en mis datos registrados.</td>
         <td>3</td>
     </tr>
     <tr>
-        <td>15</td>
+        <td>17</td>
         <td>US16</td>
         <td>Visualización del caso y documentos</td>
         <td>Como usuario de la plataforma MedicDefense, quiero tener la capacidad de poder visualizar toda la documentacion de mi caso.</td>
         <td>3</td>
     </tr>
     <tr>
-        <td>16</td>
+        <td>18</td>
         <td>US01</td>
         <td>Eliminar cuenta Usuario</td>
         <td>Como usuario de la plataforma de MedicDefense,necesito poder eliminar mi cuenta en caso sea necesario para no tener vinculo con el sitio web.</td>
         <td>2</td>
     </tr>
     <tr>
-        <td>17</td>
+        <td>19</td>
         <td>US07</td>
         <td>Notificaciones de las consultas programadas</td>
         <td>Como usuario de la plataforma, quiero recibir notificaciones sobre las consultas programadas con los abogados para recordarme la fecha y hora de la cita.</td>
-        <td>5</td>
-    </tr>
-    <tr>
-        <td>18</td>
-        <td>US18</td>
-        <td>Sección de Creadores</td>
-        <td>Como visitante de la landing page de MedicDefense, quiero ver una sección de creadores para facilitar tener el conocimiento de los creadores de la empresa.</td>
-        <td>5</td>
-    </tr>
-    <tr>
-        <td>19</td>
-        <td>US19</td>
-        <td>Sección de inicio</td>
-        <td>Como usuario de la plataforma MedicDefense, quiero tener la capacidad de contactarme rapida y eficientemente con mi seleccionado medico asesor.</td>
         <td>5</td>
     </tr>
 </table>
