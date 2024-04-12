@@ -65,9 +65,12 @@ La entrevista se realiza con el objetivo de obtener mayor información acerca de
 
 ### 2.2.2. Registro de entrevistas  
 
+A continuación, se mostrará el video con las entrevistas juntadas. En cada sección se dirá el minuto exacto donde inicia cada entrevista.
+https://upcedupe-my.sharepoint.com/:v:/g/personal/u202216558_upc_edu_pe/Eeu6qaSz9j1CmTn01snZB_oBZfLdUdxlMXrc-6EaichLgg?e=348iVE&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+
 **Entrevista 1: Vanessa Castillo (Estudiante de Medicina)**
 
-Link de la entrevista: https://drive.google.com/file/d/1mJLBE8t4ly_WCAdv1KpC0yVjmPrivafv/view?usp=sharing
+Intervalo de duración: 00:00 - 06:13
 
 #### Presentación(Nombre, edad, centro de estudios)
 
@@ -113,7 +116,7 @@ Después de realizar las entrevistas, se obtuvo información valiosa sobre las e
 
 **Entrevista 2: Marlene Pachas Torres (Doctora)**
 
-Link de la entrevista: https://drive.google.com/file/d/10yaSesL6sCSz3R3Wad51tyQSNwLdfNKX/view?usp=drive_link
+Intervalo de duración: 06:13 - 21:40
 
 #### Presentacion (Nombre, lugar en el que trabaja y rol que desempeña)
 
@@ -149,6 +152,8 @@ Esta entrevista nos ayudo a saber cuales son las necesidades que necesitan nuest
 ![alt text](<../assets/imgs/Entrevista-Marlene.png>)
 
 **Entrevista 3: Sara Rojas (Estudiante de Medicina)**
+
+Intervalo de duración: 21:40 - 29:07
 
 #### Presentación(Nombre, edad, centro de estudios)
 
@@ -192,9 +197,15 @@ Pero no, hasta el momento no, no he tenido algun doctor ni doctores que hayan te
 
 Nosotros trabajamos con lo que son las personas y si algo sale mal, pues obviamente el paciente no va a estar bien y puede llegar hasta la muerte. Entonces yo creo que sí serviría algún asesoramiento o taller que nos incentive para tener esa información.
 
+**Conclusiones**
+
+De la entrevista con Sara, se observa la importancia de la ética médica y la comunicación efectiva con los pacientes para evitar situaciones que puedan derivar en denuncias por negligencia médica. A su vez, se muestra preocupada por la calidad de la formación recibida en cuanto a evaluación de los doctores y la implementación de los conocimientos teóricos en la práctica clínica. Por último, expresa interés en recibir orientación adicional, como talleres o asesoramientos legales especializados, para mejorar su preparación y enfrentar posibles desafíos legales en la medicina.
+
 ![alt text](<../assets/imgs/Entrevista - Sara (Estudiante).png>)
 
 **Entrevista 4: Patrick Gómez (Estudiante de Medicina)**
+
+Intervalo de duración: 29:07 - 35:10
 
 #### Presentación(Nombre, edad, centro de estudios)
 
@@ -236,27 +247,78 @@ Recuerdo una vez que un profesor nos contó que hubo problemas en un parto, sin 
 
 Bueno, a nosotros, los mismos doctores, desde la formación que llevamos en estos ciclos nos dicen. De tal modo, empezamos con semiología, luego medicina interna 1, medicina interna 2, medicina interna 3, emergencias, medicina 4 y así. Entonces ellos nos dan charlas, pautas, qué cosa hacer, que cosa no hacer, a quién llamar y a quien recurrir. También los doctores nos comentan que no está mal a veces recurrir a un compañero de trabajo para que te pueda dar otro punto de vista objetivo. Entonces si estaría bueno tener más accesos de otras fuentes para poder seguir aprendiendo.
 
-![alt text](<../assets/imgs/Entrevista - Patrick (Estudiante).png>)
-
-### 2.2.3. Análisis de entrevistas
-
-**Entrevista 1: Vanessa Castillo**
-
-
-**Entrevista 2: Marlene Pachas Torres**
-
-
-**Entrevista 3: Sara Rojas Sojo**
-
-**Conclusiones**
-
-De la entrevista con Sara, se observa la importancia de la ética médica y la comunicación efectiva con los pacientes para evitar situaciones que puedan derivar en denuncias por negligencia médica. A su vez, se muestra preocupada por la calidad de la formación recibida en cuanto a evaluación de los doctores y la implementación de los conocimientos teóricos en la práctica clínica. Por último, expresa interés en recibir orientación adicional, como talleres o asesoramientos legales especializados, para mejorar su preparación y enfrentar posibles desafíos legales en la medicina.
-
-**Entrevista 4: Patrick Gomez Palomino**
-
 **Conclusiones**
 
 De la entrevista se desprende una clara conciencia sobre la responsabilidad médica y las implicaciones legales que conlleva la práctica clínica. El entrevistado demuestra comprensión sobre la importancia de la documentación adecuada, especialmente en casos de cirugía y diagnóstico, y la necesidad de seguir protocolos rigurosos para evitar negligencias. Además, destaca la importancia del acceso a servicios legales especializados en el campo de la medicina para obtener asesoramiento y defensa en situaciones de denuncia por negligencia médica. Su disposición a seguir aprendiendo y buscar diversas fuentes de conocimiento refleja su compromiso con una práctica médica ética y responsable.
+
+![alt text](<../assets/imgs/Entrevista - Patrick (Estudiante).png>)
+
+**Entrevista 5: Daniela Chumpitaz (Estudiante de Medicina)**
+
+Intervalo de duración: 35:10 - 37:50
+
+#### Presentacion (Nombre, lugar en el que trabaja y rol que desempeña)
+
+Daniela Chumpitaz Pachas, trabaja en el Hospital Nacional Azerbispal Luis, Médico Asistencial.
+
+#### ¿Cuando tiempo llevas ejerciendo la carrera de medicina y/o especialidad?
+
+Como Médico en el área de Hospitalización, 4 años.
+
+#### ¿Como te sientes cada vez que tienes que intervenir a alguien quirúrgicamente?
+
+Bueno, me siento segura, bien preparada. De antemano, como siempre, han de tener a un paciente, conociendo pues el historial, su historia clínica, su anamnesis, su examen de laboratorio, ver si tiene algún problema cardíaco, si uso anticoagulantes y siempre coordinar con los profesionales de la salud.
+
+De repente el paciente se nos choca, se pone mal, ya tenemos que haber coordinado, de todos modos, una cama UCI (Unidad de Cuidados Intensivos).
+
+#### ¿Alguna vez has tenido algún problema medico con algún paciente? En caso NO, conoces algún caso?
+
+Hasta el momento no he tenido ningún problema con ningún paciente o un familiar. Por mis pocos años laburando, desconozco que algún colega mio haya tenido problema con algún paciente o familia.
+
+#### ¿Conoces a alguien que haya tenido algún problema con algún paciente o con la familia del mismo por el resultado de su cirugía?
+
+Por mis pocos años laburando, desconozco que algún colega mio haya tenido problema con algún paciente o familia.
+
+#### ¿Si tuviera algún problema con el resultado de la cirugía de tu paciente, que harías? Buscarías ayuda profesional?
+
+Si, buscaría ayuda, siempre dando con en cuenta o comunicando al Colegio Médico, y siempre buscando una asesoría legal o un abogado.
+
+**Conclusiones**
+
+Después de entrevistar a la doctora Daniela Chumpitaz, una Médico Asistencial del Hopsital Nacional Azerbispal Luis, se puede observar que siempre está preparada ante situaciones inesperadas durante la cirugía, y que, si bien no le ha pasado ni ha escuchado de casos donde resultados desafortunados lleven a problemas con los involucrados, igual buscaría la ayuda legal necesaria para resolver esos problemas.
+Esta entrevista nos ayudo a saber cuales son las necesidades que necesitan nuestros usuarios para unirse a nuestro aplicativo.
+
+![alt text](<../assets/imgs/Entrevista - Daniela.png>)
+
+### 2.2.3. Análisis de entrevistas
+
+**Segmento 1: Doctores**
+
+Se procede a recopilar las estadísticas de las respuestas de los entrevistados para representarlas mediante gráficos proporcionados por la herramienta, Google Forms.
+
+![alt text](<../assets/imgs/Analisis1-1.png>)
+![alt text](<../assets/imgs/Analisis1-2.png>)
+![alt text](<../assets/imgs/Analisis1-3.png>)
+![alt text](<../assets/imgs/Analisis1-4.png>)
+![alt text](<../assets/imgs/Analisis1-5.png>)
+
+Se puede interpretar que los doctores se sienten seguros de su trabajo al momento de realizar las intervenciones médicas, pero igual no es imposible que algo inesperado suceda, así que están listos para buscar ayuda profesional de necesitarla. Por ende, acudiendo a nuestra plataforma.
+
+**Segmento 2: Estudiantes de Medicina**
+
+Se procede a recopilar las estadísticas de las respuestas de los entrevistados para representarlas mediante gráficos proporcionados por la herramienta, Google Forms.
+
+![alt text](<../assets/imgs/Analisis2-1.png>)
+![alt text](<../assets/imgs/Analisis2-2.png>)
+![alt text](<../assets/imgs/Analisis2-3.png>)
+![alt text](<../assets/imgs/Analisis2-4.png>)
+![alt text](<../assets/imgs/Analisis2-5.png>)
+![alt text](<../assets/imgs/Analisis2-6.png>)
+![alt text](<../assets/imgs/Analisis2-7.png>)
+![alt text](<../assets/imgs/Analisis2-8.png>)
+![alt text](<../assets/imgs/Analisis2-9.png>)
+
+Se puede interpretar que, a pesar de tener formación relevante para evitar casos de negligencia, esta sigue siendo muy común en el país, así que con gusto los estudiantes de medicina estarían dispuestos a usar nuestra plataforma.
 
 ## 2.3. Needfinding
 
