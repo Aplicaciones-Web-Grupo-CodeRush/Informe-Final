@@ -18,7 +18,7 @@ Nuestros competidores principales seran los siguientes:
 |:---------:|:---------:|
 
 
-|  |  | ![alt text](assets/img/LogoApli.png) | ![alt text](assets/img/macd.png) | ![alt text](assets/img/SEPSA.png) | ![alt text](assets/img/Legify.png) |
+|  |  | ![alt text](</assets/imgs/LogoApli.png>) | ![alt text](</assets/imgs/macd.png>) | ![alt text](</assets/imgs/SEPSA.png>) | ![alt text](</assets/imgs/Legify.png>) |
 |-----------|-----------|-----------|-----------|-----------|-----------|
 | **Perfil** | **Overview** | Es una aplicación donde podrás solicitar los servicios de  nuestros abogados expertos en la medicina legal dentro nuestra plataforma para que te ayuden en caso necesites ayuda legal con algún problema con algún paciente. También puedes pagar subscripciones para tener acceso a consultas ocasionales con los mismos abogados. | Es una aplicación web que ofrece servicios a nivel nacional desde el año 2006, con profesionales formados simultáneamente en áreas médicas y legales. Ofrecen representaciones judiciales así como asesorías en gestión  del riesgo médico legal | Es una aplicación que cuenta con abogados de gran experiencia en el campo de la protección jurídica de los médicos profesionales de la salud, además su misión es el acompañamiento y apoderamiento de sus afiliados para este tipo de contingencias. | Es una aplicación web que ofrece soluciones legales inteligentes para simplificar y agilizar el proceso legal para profesionales médicos y sus equipos legales. |
 |  | **Ventaja competitiva ¿Qué valor ofrece a los clientes?** | Contamos con un fuerte seguimiento de todos los casos en nuestro sistema, además contamos con contratos de manera digital para facilitar las solicitudes de nuestros clientes y contamos con un historial para las expedientes de casos anteriores. | Cuentan con médicos formados como abogados, médicos de diferentes especialidades y abogados especialistas en las diferentes ramas del derecho, lo que garantiza un asesoramiento eficiente y a la medida de las necesidades de nuestros clientes. | Cuentan con tiempos de respuesta ágiles, oportunos y eficientes de cara a las asesorías. | Cuentan con la potencia en el vínculo entre un cliente y sus expertos, además cuentan con video consultas las 24 horas del día, y un buen seguimiento del caso de sus usuarios. |
@@ -288,7 +288,7 @@ Si, buscaría ayuda, siempre dando con en cuenta o comunicando al Colegio Médic
 Después de entrevistar a la doctora Daniela Chumpitaz, una Médico Asistencial del Hopsital Nacional Azerbispal Luis, se puede observar que siempre está preparada ante situaciones inesperadas durante la cirugía, y que, si bien no le ha pasado ni ha escuchado de casos donde resultados desafortunados lleven a problemas con los involucrados, igual buscaría la ayuda legal necesaria para resolver esos problemas.
 Esta entrevista nos ayudo a saber cuales son las necesidades que necesitan nuestros usuarios para unirse a nuestro aplicativo.
 
-![alt text](<../assets/imgs/Entrevista - Daniela.png>)
+![alt text](<../assets/imgs/Entrevista - Daniela.PNG>)
 
 ### 2.2.3. Análisis de entrevistas
 
@@ -296,11 +296,11 @@ Esta entrevista nos ayudo a saber cuales son las necesidades que necesitan nuest
 
 Se procede a recopilar las estadísticas de las respuestas de los entrevistados para representarlas mediante gráficos proporcionados por la herramienta, Google Forms.
 
-![alt text](<../assets/imgs/Analisis1-1.png>)
-![alt text](<../assets/imgs/Analisis1-2.png>)
-![alt text](<../assets/imgs/Analisis1-3.png>)
-![alt text](<../assets/imgs/Analisis1-4.png>)
-![alt text](<../assets/imgs/Analisis1-5.png>)
+![alt text](<../assets/imgs/Analisis1-1.PNG>)
+![alt text](<../assets/imgs/Analisis1-2.PNG>)
+![alt text](<../assets/imgs/Analisis1-3.PNG>)
+![alt text](<../assets/imgs/Analisis1-4.PNG>)
+![alt text](<../assets/imgs/Analisis1-5.PNG>)
 
 Se puede interpretar que los doctores se sienten seguros de su trabajo al momento de realizar las intervenciones médicas, pero igual no es imposible que algo inesperado suceda, así que están listos para buscar ayuda profesional de necesitarla. Por ende, acudiendo a nuestra plataforma.
 
@@ -308,15 +308,15 @@ Se puede interpretar que los doctores se sienten seguros de su trabajo al moment
 
 Se procede a recopilar las estadísticas de las respuestas de los entrevistados para representarlas mediante gráficos proporcionados por la herramienta, Google Forms.
 
-![alt text](<../assets/imgs/Analisis2-1.png>)
-![alt text](<../assets/imgs/Analisis2-2.png>)
-![alt text](<../assets/imgs/Analisis2-3.png>)
-![alt text](<../assets/imgs/Analisis2-4.png>)
-![alt text](<../assets/imgs/Analisis2-5.png>)
-![alt text](<../assets/imgs/Analisis2-6.png>)
-![alt text](<../assets/imgs/Analisis2-7.png>)
-![alt text](<../assets/imgs/Analisis2-8.png>)
-![alt text](<../assets/imgs/Analisis2-9.png>)
+![alt text](<../assets/imgs/Analisis2-1.PNG>)
+![alt text](<../assets/imgs/Analisis2-2.PNG>)
+![alt text](<../assets/imgs/Analisis2-3.PNG>)
+![alt text](<../assets/imgs/Analisis2-4.PNG>)
+![alt text](<../assets/imgs/Analisis2-5.PNG>)
+![alt text](<../assets/imgs/Analisis2-6.PNG>)
+![alt text](<../assets/imgs/Analisis2-7.PNG>)
+![alt text](<../assets/imgs/Analisis2-8.PNG>)
+![alt text](<../assets/imgs/Analisis2-9.PNG>)
 
 Se puede interpretar que, a pesar de tener formación relevante para evitar casos de negligencia, esta sigue siendo muy común en el país, así que con gusto los estudiantes de medicina estarían dispuestos a usar nuestra plataforma.
 
