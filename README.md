@@ -130,9 +130,9 @@ Relación de Integrantes:
 
 | Criterio Específico | Acciones Realizadas | Conclusiones |
 |-----------------|--------------------|---------------------|
-|Participa en equipos multidisciplinarios con eficacia, eficiencia y objetividad, en el marco de un proyecto en soluciones de ingeniería de software. |                    |                     |
+|Participa en equipos multidisciplinarios con eficacia, eficiencia y objetividad, en el marco de un proyecto en soluciones de ingeniería de software. | **Fabricio Josue Apaza Morales**<br>TB1:Empathy Mapping, As-Is Scenario Mapping, Ubiquitous Language, 3 user stories, To-Be Scenario Mapping, Impact Mapping, Style Guidelines(General Style Guidelines, Web Style Guidelines), Information Architecture(Organization Systems, Labeling Systems, SEO Tags and Meta Tags, Searching Systems, Navigation Systems)                   |                     |
 |Conoce al menos un sector empresarial o dominio de aplicación de soluciones de software.
-|                    |                     |
+|                    | **Fabricio Josue Apaza Morales**<br>TB1:Empathy Mapping, As-Is Scenario Mapping, Ubiquitous Language, 3 user stories, To-Be Scenario Mapping, Impact Mapping, Style Guidelines(General Style Guidelines, Web Style Guidelines), Information Architecture(Organization Systems, Labeling Systems, SEO Tags and Meta Tags, Searching Systems, Navigation Systems)                    |
 
 
 
