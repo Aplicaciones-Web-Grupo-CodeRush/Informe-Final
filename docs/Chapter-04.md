@@ -2,6 +2,8 @@
 
 ## 4.1. Style Guidelines
 
+Las guías de estilo serán la base para dar forma a nuestro producto, utilizando patrones que consideren los aspectos de arquitectura de la información y accesibilidad necesarios para la implementación exitosa de UrProvider tanto en una Landing Page como en una Aplicación Web.
+
 ### 4.1.1. General Style Guidelines
 
 - **Branding**:
@@ -34,6 +36,8 @@ Para el Web Style Guidelines del sitio web MedicDefense se utilizó con mayor pr
 Para el desarrollo de los mockups y wireframes se utilizó en base a desarrollo web para pantallas de escritorio.
 
 ## 4.2. Information Architecture
+
+La sección de arquitectura de información tiene como objetivo organizar el contenido tanto de la aplicación web como de la página de inicio de UrProvider. Se abordarán los siguientes temas: Organization Systems, Labeling Systems, SEO Tags and Meta Tags, Searching Systems y Navigation Systems.
 
 ### 4.2.1. Organization Systems
 
@@ -450,21 +454,41 @@ https://www.figma.com/proto/dfBnhcXbC6IHSTM0HbAmlv/Untitled?type=design&node-id=
 
 ### 4.6.1. Software Architecture Context Diagram
 
+#### System Context Diagram
+
 ![alt text](../assets/imgs/ContextDiagram.png)
 
 ### 4.6.2. Software Architecture Container Diagrams
+
+#### Container Diagram
 
 ![alt text](../assets/imgs/ContainerDiagram.png)
 
 ### 4.6.3. Software Architecture Components Diagrams
 
+Bounded Context Access Diagram
+
 ![alt text](../assets/imgs/ComponentDiagramAccess.png)
+
+Bounded Context Consultation Diagram
+
 ![alt text](../assets/imgs/ComponentDiagramConsultation.png)
+
+Bounded Context Educational Resource Diagram
+
 ![alt text](../assets/imgs/ComponentDiagramEducationalResource.png)
+
+Bounded Context Legal Case Diagram
+
 ![alt text](../assets/imgs/ComponentDiagramLegalCase.png)
-![alt text](../assets/imgs/ComponentDiagramNotification.png)
+
+Bounded Context Payment Diagram
+
 ![alt text](../assets/imgs/ComponentDiagramPayment.png)
-![alt text](../assets/imgs/ContainerDiagram.png)
+
+Bounded Context Notification Diagram
+
+![alt text](../assets/imgs/ComponentDiagramNotification.png)
 
 ## 4.7. Software Object-Oriented Design
 
