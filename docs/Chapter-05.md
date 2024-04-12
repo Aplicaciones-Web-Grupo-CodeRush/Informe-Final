@@ -140,6 +140,26 @@ GitHub
 
 ### 5.2.1.3. Development Evidence for Sprint Review
 
+<table>
+    <tr>
+        <th colspan="2">Repository</th>
+        <th colspan="2">Branch</th>
+        <th colspan="2">Commit Id</th>
+        <th colspan="2">Commit Message</th>
+        <th colspan="2">Commit Message Body</th>
+        <th colspan="2">Commited on (Date)</th>
+    </tr>
+        <tr>
+        <td colspan="2">Aplicaciones-Web-Grupo-CodeRush/Landing-page-MedicDefense</td>
+        <td colspan="2">Main</td>
+        <td colspan="2">0046215</td>
+        <td colspan="2">feat: Added "Our Services"</td>
+        <td colspan="2">-</td>
+        <td colspan="2">05/04/2024</td>
+    </tr>
+        
+</table>
+
 ### 5.2.1.4. Testing Suite Evidence for Sprint Review
 
 ### 5.2.1.5. Execution Evidence for Sprint Review
