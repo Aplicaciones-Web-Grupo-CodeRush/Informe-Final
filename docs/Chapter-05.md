@@ -217,6 +217,22 @@ GitHub
         <td colspan="2">-</td>
         <td colspan="2">07/04/2024</td>
     </tr>
+    tr>
+        <td colspan="2">Aplicaciones-Web-Grupo-CodeRush/Landing-page-MedicDefense</td>
+        <td colspan="2">Main</td>
+        <td colspan="2">2d479db</td>
+        <td colspan="2">feat: Added -" Nosotros "- section</td>
+        <td colspan="2">-</td>
+        <td colspan="2">06/04/2024</td>
+    </tr>
+    tr>
+        <td colspan="2">Aplicaciones-Web-Grupo-CodeRush/Landing-page-MedicDefense</td>
+        <td colspan="2">Main</td>
+        <td colspan="2">8b47667</td>
+        <td colspan="2">feat: Added -" Servicios "- section</td>
+        <td colspan="2">-</td>
+        <td colspan="2">06/04/2024</td>
+    </tr>
 </table>
 
 ### 5.2.1.4. Testing Suite Evidence for Sprint Review
