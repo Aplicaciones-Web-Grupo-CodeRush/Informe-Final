@@ -186,7 +186,9 @@ Una vez creado el repositorio, entraremos a configuración del repositorio y esc
 
 
 ### 5.2.1.8. Team Collaboration Insights during Sprint
+Para el desarrollo de este primer sprint, todos los miembros del equipo desarrollaron y colaboraron de manera activa y continua. De tal modo, se muestra como evidencia los insights de cada miembro del equipo.
 
+![alt text](../assets/imgs/Insights.png)
 
 ## 5.4 Bibliografia
 - Tuesta, P(2023). *Existe un déficit de 2417 médicos anestesiólogos en 20 regiones del país*. Convoca.pe. Recuperado de: https://convoca.pe/agenda-propia/existe-un-deficit-de-2417-medicos-anestesiologos-en-20-regiones-del-pais
