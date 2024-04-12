@@ -14,7 +14,7 @@ Luego de realizar el ai-is con sus fases propuestas, para el to-be se realizaron
 | ---------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------- |
 | Funciones de Usuario | 1.Eliminar cuenta de Usuario<br>5.Suscripción a un plan<br>8.Seguimiento de casos legales<br>13.Verificación de Certificado Médico<br>14.Editar Perfil|
 | Visualizacion de Apartados   | 2. Visualización de lista de tipos de suscripción<br>3.Visualizar actividades del Usuario<br>4.Búsqueda por Filtros<br>6.Visualización de Perfil de Abogado Médico<br>15.Canales de contacto<br>16.Visualización del caso y documentos |
-| Landing Page | 10.Visualización de servicios<br>11.Sección de contacto<br>12.Sección about us|
+| Landing Page | 10.Visualización de servicios<br>11.Sección de contacto<br>12.Sección about us<br>18. Sección Creadores<br>19. Seccion Inicio|
 | Interacción con Abogado | 7.Notificaciones de las consultas programadas<br>9.Calificación y reseñas para los Médicos Abogados<br>17.Contacto directo con mi medico asesor |
 
 <table>
@@ -519,6 +519,66 @@ Luego de realizar el ai-is con sus fases propuestas, para el to-be se realizaron
     <br>ENTONCES entro a la sección “Perfiles de Abogados” dentro del sitio web y podré tener la informacion del medico asesor que seleccioné para poder tener contacto con él.
 </td>
 </table>
+<table>
+  <tr>
+    <th colspan="5">Historia de Usuario 18</th>
+  </tr>
+  <tr>
+    <td colspan="2">ID-HU</td>
+    <td colspan="1">HU18</td>
+    <td colspan="1">Relación (EPIC ID)</td>
+    <td colspan="1">EP01</td>
+  </tr>
+  <tr>
+    <td colspan="2">Owner</td>
+    <td colspan="3">Gabriel Garcia</td>
+</tr>
+  <tr>
+    <td colspan="2">Título HU</td>
+    <td colspan="3">Sección de Creadores</td>
+  </tr>
+  <tr>
+<td colspan="2">Descripción HU</td>
+    <td colspan="3">Como visitante de la landing page de MedicDefense, quiero ver una sección de creadores para facilitar tener el conocimiento de los creadores de la empresa.</td>
+    </tr>
+<tr>
+<td colspan="2">Criterios de Aceptación</td>
+    <td colspan="3">Scenario: Visualización de una sección creadores<br>
+    <br>DADO que soy un visitante de la landing page,<br>
+    <br>CUANDO me encuentre navegando por la landing page,<br>
+    <br>ENTONCES encuentro una sección creadores que me brinda información acerca de los creadores de la empresa la cual estoy interesado en sus servicios.
+</td>
+</table>
+<table>
+  <tr>
+    <th colspan="5">Historia de Usuario 19</th>
+  </tr>
+  <tr>
+    <td colspan="2">ID-HU</td>
+    <td colspan="1">HU19</td>
+    <td colspan="1">Relación (EPIC ID)</td>
+    <td colspan="1">EP01</td>
+  </tr>
+  <tr>
+    <td colspan="2">Owner</td>
+    <td colspan="3">Gabriel Garcia</td>
+</tr>
+  <tr>
+    <td colspan="2">Título HU</td>
+    <td colspan="3">Sección de inicio</td>
+  </tr>
+  <tr>
+<td colspan="2">Descripción HU</td>
+    <td colspan="3">Como visitante de la landing page de MedicDefense, quiero ver una sección de inicio con una barra de navegación para poder desplazarme mejor por la landing page.</td>
+    </tr>
+<tr>
+<td colspan="2">Criterios de Aceptación</td>
+    <td colspan="3">Scenario: Visualización de una sección inicio<br>
+    <br>DADO que soy un visitante de la landing page,<br>
+    <br>CUANDO me encuentre navegando por la landing page,<br>
+    <br>ENTONCES encuentro una sección inicio que tenga una barra de navegación donde pueda ver el logo para poder desplazarme mejor.
+</td>
+</table>
 
 ## 3.3. Impact Mapping
 
@@ -659,5 +719,18 @@ En esta sección, se plantearon metas de negocio utilizando los criterios SMART 
         <td>Como usuario de la plataforma, quiero recibir notificaciones sobre las consultas programadas con los abogados para recordarme la fecha y hora de la cita.</td>
         <td>5</td>
     </tr>
-    
+    <tr>
+        <td>18</td>
+        <td>US18</td>
+        <td>Sección de Creadores</td>
+        <td>Como visitante de la landing page de MedicDefense, quiero ver una sección de creadores para facilitar tener el conocimiento de los creadores de la empresa.</td>
+        <td>5</td>
+    </tr>
+    <tr>
+        <td>19</td>
+        <td>US19</td>
+        <td>Sección de inicio</td>
+        <td>Como usuario de la plataforma MedicDefense, quiero tener la capacidad de contactarme rapida y eficientemente con mi seleccionado medico asesor.</td>
+        <td>5</td>
+    </tr>
 </table>
