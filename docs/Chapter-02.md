@@ -341,7 +341,7 @@ En resumen, los artefactos a presentar en esta sección están estrechamente rel
 
 **_Segmento Objetivo 2: Estudiante de Medicina_**
 
-![alt text](<../assets/imgs/_Carlos Orbegozo.png>)
+![alt text](<../assets/imgs/Carlos Orbegozo.png>)
 
 ### 2.3.2. User Task Matrix
 
