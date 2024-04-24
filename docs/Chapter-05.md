@@ -40,14 +40,30 @@ Además, seguiremos el estándar establecido por Conventional Commits para asegu
 
 ### 5.1.3. Source Code Style Guide & Conventions
 
-Para desarrollar nuestro proyecto hemos requerido de algunas nomenclaturas, referencias y lenguajes para esta solución.
-<br>
+ A continuación, se detallan las referencias y convenciones que adoptaremos para programar en los diferentes lenguajes utilizados en nuestro proyecto:
 
-- **Tecnologías:** Utilizamos tecnologías básicas como HTML5, CSS y JavaScript para el desarrollo web.
+Utilizaremos las siguientes referencias para establecer nuestras convenciones.
+1. **HTML**:
+- "HTML Style Guide and Coding Conventions"
+- "Google HTML/CSS Style Guide"
 
-- **Herramientas:** Nos apoyamos en herramientas populares como Visual Studio Code, GitHub, Figma y WebStorm para facilitar el desarrollo y la colaboración en el proyecto.
+2. **CSS**:
+- "Google HTML/CSS Style Guide"
 
-- **Convenciones de Idioma:** Optamos por utilizar el inglés en todo nuestro código, incluyendo la Landing Page, para mantener la coherencia y facilitar la comunicación y colaboración con otros desarrolladores y usuarios.
+3. **JavaScript**:
+- "Google JavaScript Style Guide"
+- "MDN JavaScript guidelines"
+- "W3C JavaScript Style Guide"
+- "Vue Style Guide".
+
+4. **C#**: 
+- "C# Coding Conventions"
+- "Microsoft ASP.NET Core Coding Guidelines".
+
+5. **Gherkin**:
+- "Gherkin Conventions for Readable Specifications".
+
+Es importante destacar que todas las convenciones y referencias mencionadas están en inglés, siguiendo las prácticas comunes en el desarrollo de software. De tal modo que, al seguir estas referencias nos ayudará a mantener un código claro, coherente y fácilmente comprensible para todo el equipo de desarrollo.
 
 ### 5.1.4. Software Deployment Configuration
 
