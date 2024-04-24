@@ -22,11 +22,21 @@ En la siguiente sección se describe la ruta de referencia de cada uno de los pr
 
 ### 5.1.2. Source Code Management
 
-Trabajamos con tres ramas principales:
+Para gestionar las modificaciones en nuestro proyecto, emplearemos GitHub como plataforma y sistema de control de versiones. A continuación, se detallan los repositorios de GitHub para cada uno de nuestros productos:
 
-- Main: nuestra rama principal donde presentaremos nuestras
-  publicaciones oficiales.
-- Branch: Se descompone en ramas por cada feature trabajado, diviendose asi en cada chapter correspondiente del 1 al 5.
+- Organización del Equipo: https://github.com/Aplicaciones-Web-Grupo-CodeRush
+- Repositorio del Informe: https://github.com/Aplicaciones-Web-Grupo-CodeRush/Informe-Final
+- Repositorio del Landing Page: https://github.com/Aplicaciones-Web-Grupo-CodeRush/Landing-page-MedicDefense
+- Repositorio del Front-End: https://github.com/Aplicaciones-Web-Grupo-CodeRush/front-end-app
+
+Para estructurar nuestro control de versiones, implementaremos el modelo GitFlow como nuestro flujo de trabajo estándar. Esto implicará la creación de las siguientes ramas, además de la rama principal (main):
+
+- Develop Branch: Esta rama contendrá el código en desarrollo y servirá como base para la integración de nuevas funcionalidades.
+- Feature Branches: Cada nueva característica que se implemente requerirá su propio branch. Utilizaremos la convención de nombrar los branches de características como "feature/nombre-de-la-caracteristica".
+- Release Branches: Antes de lanzar una nueva versión, crearemos una rama de release para realizar pruebas finales y correcciones.
+- Hotfix Branches: En caso de surgir problemas en el desarrollo, se crearán branches de hotfix para poder solucionarlos sin afectar la rama principal.
+
+Además, seguiremos el estándar establecido por Conventional Commits para asegurar una estructura clara y consistente en nuestros Commits, facilitando la colaboración y la comprensión del historial de versiones en nuestro equipo.
 
 ### 5.1.3. Source Code Style Guide & Conventions
 
