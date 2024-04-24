@@ -592,7 +592,7 @@ En esta sección, se plantearon metas de negocio utilizando los criterios SMART 
 
 ## 3.4. Product Backlog
 
-<table>act Mapping, added SMART in bussines goals
+<table>
     <tr>
         <th>#Orden</th>
         <th>User Story/Technical Story Id</th>
