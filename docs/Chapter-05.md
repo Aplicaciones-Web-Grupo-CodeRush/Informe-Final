@@ -67,15 +67,23 @@ Es importante destacar que todas las convenciones y referencias mencionadas est�
 
 ### 5.1.4. Software Deployment Configuration
 
-En la siguiente sección se explicará cómo se realizó la
-implementación de nuestra landing page en la plataforma de
-GitHub
+Para desplegar nuestra landing page en la plataforma de GitHub, seguimos los siguientes pasos:
 
-1. Establecemos un repositorio remoto en GitHub como el centro de nuestro proyecto.
-2. Inicializamos el repositorio usando el comando “git init”
-3. Añadimos el repositorio remoto y subimos los archivos a la nube de GitHub.
-4. Configuramos GitHub Pages en la sección de configuración del repositorio en GitHub.
-5. Accedemos a la URL proporcionada por GitHub Pages para verificar que nuestra página web se haya desplegado correctamente.
+1. Creación del Repositorio Remoto en GitHub:
+- Creamos un nuevo repositorio en GitHub de nuestro proyecto, el cual se utilizará para el desarrollo y deployment.
+2. Inicialización del Repositorio:
+- Se utilza el comando "*git init*" para inicializar el repositorio.
+3. Subida de Archivos al Repositorio Remoto:
+- Añadimos los archivos de nuestra landing page al repositorio local.
+- Subimos los archivos al repositorio de GitHub con el comando "*git push -u origin master*" o sino utilizando Github Desktop.
+4. Configuración de GitHub Pages:
+- Accedemos a la sección de configuración del repositorio en GitHub y entramos al apartado de Github Pages.
+- Seleccionamos la rama de GitHub Pages (main) como fuente para el deployment de nuestra Landing Page
+5. Despliegue:
+- Accedemos a la URL proporcionada por GitHub Pages para verificar que nuestra landing page se haya desplegado correctamente.
+
+De tal modo, nuestra Landing Page estará inicializada utilizando Github Pages y podrá ser visible para cualquier usuario que tenga el enlace.
+Enlace del Landing Page: https://aplicaciones-web-grupo-coderush.github.io/Landing-page-MedicDefense/
 
 ## 5.2. Landing Page, Services & Applications Implementation
 
