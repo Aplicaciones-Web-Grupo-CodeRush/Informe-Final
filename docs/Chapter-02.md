@@ -345,18 +345,34 @@ En resumen, los artefactos a presentar en esta sección están estrechamente rel
 
 ### 2.3.2. User Task Matrix
 
-| Task Matrix             | Clara Frecuencia| Clara Importancia| Carlos Frecuencia | Carlos Importancia |
-|-----------------------------|---------|-------------|-------------|-------|
-| Búsqueda de un entorno seguro | Siempre | A veces     | Siempre | Alta  |
-| Interfaz y entorno amigable  | Casi nunca | A veces | A veces       | A veces |
-| Registrarse                 | A veces | Bajo        | A veces     | Bajo  |
-| Iniciar sesión              | Siempre | Medio       | Siempre     | Medio |
-| Explorar casos de estudio   | A veces | Alto        | Siempre     | Alto  |
-| Solicitar asesoramiento     | A veces | Medio       | Siempre     | Medio |
-| Suscribirse a un plan de servicio | Siempre | Medio | Siempre     | Medio |
-| Participar en foros de discusión | A veces | Medio | Siempre     | Medio |
-| Actualizar información de perfil | A veces | Alto | A veces     | Alto  |
-| Leer artículos y guías      | Siempre | Medio       | Casi nunca  | Medio |
+| Task Matrix                                                       | Estudiante de Medicina   | Médico/a                 |
+|---------------------------------------------------------------|--------------------------|--------------------------|
+| Acceder a recursos educativos en línea                        | Alta                     | Media                    |
+| Participar en prácticas clínicas y adquirir habilidades prácticas | Alta                 | Media                    |
+| Estudiar y comprender implicaciones legales y éticas de la práctica médica | Alta         | Alta                     |
+| Mantenerse actualizado/a en avances médicos y tecnológicos    | Alta                     | Alta                     |
+| Buscar apoyo legal en caso de necesidad                       | Media                    | Alta                     |
+| Colaborar con otros profesionales de la salud                 | Baja                     | Alta                     |
+| Realizar investigaciones médicas                              | Media                    | Alta                     |
+| Asistir a conferencias y eventos académicos                    | Media                    | Alta                     |
+| Participar en actividades extracurriculares relacionadas con la medicina | Alta            | Media                    |
+| Cumplir con requisitos académicos (exámenes, trabajos)        | Alta                     | Media                    |
+| Utilizar tecnología médica avanzada en prácticas clínicas     | Media                    | Alta                     |
+| Gestionar el tiempo de estudio y prácticas                    | Alta                     | Media                    |
+
+#### **Explicación y análisis**
+
+**Realizar investigaciones médicas:** Esta tarea es más relevante para el Médico/a, pero el Estudiante de Medicina también puede realizar investigaciones como parte de su formación.
+
+**Asistir a conferencias y eventos académicos:** Ambos User Personas encuentran importante mantenerse al tanto de los avances médicos y participar en eventos académicos para ampliar sus conocimientos.
+
+**Participar en actividades extracurriculares relacionadas con la medicina:** Esta tarea es más relevante para el Estudiante de Medicina, ya que puede participar en actividades extracurriculares para complementar su formación.
+
+**Cumplir con requisitos académicos (exámenes, trabajos):** Esta tarea es de alta importancia para ambos User Personas, ya que necesitan cumplir con los requisitos académicos para avanzar en su formación.
+
+**Utilizar tecnología médica avanzada en prácticas clínicas:** Esta tarea es más relevante para el Médico/a, pero el Estudiante de Medicina también puede tener la oportunidad de utilizar tecnología médica avanzada durante sus prácticas clínicas.
+
+**Gestionar el tiempo de estudio y prácticas:** Esta tarea es crucial para ambos User Personas, ya que necesitan administrar su tiempo eficientemente para cumplir con sus responsabilidades académicas y profesionales.
 
 ### 2.3.3. User Journey Mapping
 
