@@ -585,10 +585,10 @@ Luego de realizar el ai-is con sus fases propuestas, para el to-be se realizaron
 En esta sección, se plantearon metas de negocio utilizando los criterios SMART para elaborar el Impact Mapping en base a nuestras User Personas y User Stories.
 
 **Segmento 1**
-![alt text](<../assets/imgs/Impact map - Clara.png>)
+![alt text](<../assets/imgs/Clara Diaz - Impact Map.png>)
 
 **Segmento 2**
-![alt text](<../assets/imgs/Impact map - Carlos.png>)
+![alt text](<../assets/imgs/Carlos - Impact Map.png>)
 
 ## 3.4. Product Backlog
 
