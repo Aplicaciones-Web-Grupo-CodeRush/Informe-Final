@@ -87,6 +87,8 @@ De tal modo, nuestra Landing Page estará inicializada utilizando Github Pages y
 Enlace del Landing Page: https://aplicaciones-web-grupo-coderush.github.io/Landing-page-MedicDefense/
 
 ## 5.2. Landing Page, Services & Applications Implementation
+En esta sección se explicará y evidenciará el proceso de implementación, pruebas,
+documentación y despliegue del Landing Page.
 
 ### 5.2.1. Sprint 1
 
