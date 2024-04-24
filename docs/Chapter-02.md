@@ -65,230 +65,116 @@ La entrevista se realiza con el objetivo de obtener mayor información acerca de
 
 ### 2.2.2. Registro de entrevistas  
 
-A continuación, se mostrará el video con las entrevistas juntadas. En cada sección se dirá el minuto exacto donde inicia cada entrevista.
-https://upcedupe-my.sharepoint.com/:v:/g/personal/u202216558_upc_edu_pe/Eeu6qaSz9j1CmTn01snZB_oBZfLdUdxlMXrc-6EaichLgg?e=348iVE&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+En el proceso de investigación para nuestro proyecto, se llevaron a cabo entrevistas del público objetivo. Cada entrevista se documentó en video y se registraron los siguientes detalles:
 
 **Entrevista 1: Vanessa Castillo (Estudiante de Medicina)**
 
-Intervalo de duración: 00:00 - 06:13
+**Nombre y Apellido:** Vanessa Castillo
 
-#### Presentación(Nombre, edad, centro de estudios)
+**Edad:** 21 años
 
-Vanessa Castillo, 21 años, Universidad Privada del Norte
+**Distrito:** La Victoria
 
-#### ¿Cuánto tiempo llevas estudiando medicina?
-
-2 años y medio estudiando
-
-#### ¿Estás desempeñando practicas médicas en algún Hospital? ¿En que hospital?
-
-Si, actualmente en una clinica de Los Olivos.
-
-#### ¿Has tenido alguna mala experiencia mientras realizabas tus practicas médicas? ¿Conociste a alguien que haya tenido una mala experiencia?
-
-No tuve una mala experiencia como tal, pero si compañeros y profesores contaron sus malas experiencias que tuvieron en el transcurso de su formacion academica.
-
-#### ¿Alguna vez has escuchado sobre las negligencias médicas que ocurren en el país? Que opinas sobre eso?
-
-Si, ahora ultimo en las noticias mas que todo, y bueno yo opino ue es muy triste, ¿no? Un acto inhumano por parte de los médicos que, no sé, es es un trabajo mal, ya que, necesitamos prepararnos constantemente como profesionales de la salud, ya que estamos tratando con seres vivos, personas o animales, y es importante prevalecer la salud en ellos. Y bueno, más que todo porque nos dan la confianza
-
-#### ¿Qué conocimientos tienes sobre la responsabilidad médica y las posibles implicaciones legales que pueden surgir durante la práctica clínica?
-
-No tengo muchos conocimientos acerca de la responsabilidad medica salvo un curso que tome en los primeros ciclos.
-
-#### ¿Has recibido alguna formación o orientación específica sobre cómo evitar situaciones que puedan llevar a denuncias por negligencia médica durante tu formación médica? ¿Cómo cuales?
-
-Si he tenido alguna formación de, este, directamente todavía, obviamente, me falta del el transcurso del de mi preparación, pero poco a poco los profesores eso nos inculcan, más que todo el el abordaje, para el abordaje de un paciente. Como paso básico siempre nos mandan, este, más que todo los primeros auxilios en los pacientes. Desde el primer paso y y lo más importante es siempre estar en en capacitación. Si los profesores no nos lo dan, buscar por nosotros mismos los medios.
-  
-#### ¿Algún profesor de tu facultad les ha comentado sobre si tuvo alguna negligencia? En caso de si, que hizo al respecto?
-
-Más que todo como negligencia no suena así, pero sí nos contó una experiencia así mi profesor, que era mi profesor de anatomía y fisiología. Como primer año de estudiante, nos contó una pequeña historia que bueno, pasamos cualquier estudiante de salud, nos contó esa anécdota como para estar preparado para todos, en ese caso se presentó en un accidente y él estaba ahí y la persona creo que se estaba atragantando, y bueno, al no tener claro cómo actuar por este y el mismo entorno,la gente que se asusta, la presión que siente uno, la ansiedad, nervios, tal vez, no se pudo concentrar en ayudar a la persona, pero ya a lo largo del tiempo pudo controlar ese tipo de actitudes y ya poder enfrentar mejor esa situación, si es que en caso vuelva a pasar.
-
-#### ¿Te gustaría tener acceso a servicios legales especializados en el campo de la medicina para obtener asesoramiento o defensa en caso de enfrentar una denuncia por negligencia médica en el futuro? ¿Como cuales: asesorías, cursos, talleres, etc?
-
-Sí, claro que sí, a cualquier estudiante de salud le gustaría. Citas asesoradas por especialistas, con mayor experiencia, los profesores que sepan, Incluso talleres, cursos, reforzamientos, todo. Creo que no soy la única. Ya todas las personas necesariamente que están estudiando áreas de la salud deberían saberlo. Y y bueno, las personas de no solamente del área de salud, sino todos, porque es importante. Pero en en el área de la salud creo que es indispensable que lo sepa.
-
-**Conclusiones:**
-
-Después de realizar las entrevistas, se obtuvo información valiosa sobre las experiencias y perspectivas de los usuarios en relación a los servicios de tecnología. En el caso de la entrevista con Vanessa Castillo, una estudiante de medicina, se destacó su interés en tener acceso a servicios legales especializados en el campo de la medicina para obtener asesoramiento o defensa en caso de enfrentar una denuncia por negligencia médica en el futuro. Además, mencionó la importancia de recibir formación y orientación específica sobre cómo evitar situaciones que puedan llevar a denuncias por negligencia médica durante su formación médica. Estos hallazgos nos permiten comprender mejor las necesidades y expectativas de nuestros usuarios y nos ayudarán a diseñar soluciones que satisfagan sus requerimientos.
+**Screenshot de la Entrevista:**
 
 ![alt text](<../assets/imgs/Entrevista-vanessa.png>)
 
+**URL del Video:** [Microsoft Stream](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202216558_upc_edu_pe/Eeu6qaSz9j1CmTn01snZB_oBZfLdUdxlMXrc-6EaichLgg?e=348iVE&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+
+**Timing de Inicio y Duración:** [Inicio: 00:00, Duración: 06:13]
+
+**Resumen de la Entrevista:**
+
+Vanessa Castillo, una estudiante de 21 años de la Universidad Privada del Norte, lleva estudiando medicina durante los últimos 2 años y medio. Actualmente, está haciendo prácticas en una clínica en Los Olivos como parte de su formación.
+
+Aunque no ha tenido malas experiencias personales durante sus prácticas, ha escuchado historias de compañeros y profesores sobre situaciones difíciles que han enfrentado en el camino. Esto le ha hecho darse cuenta de la importancia de estar bien preparados como médicos para evitar problemas y cuidar a los pacientes.
+
+Siente tristeza y preocupación por las noticias sobre negligencias médicas en el país. Cree que es fundamental que los médicos estén bien entrenados y actualizados para evitar este tipo de situaciones y garantizar la seguridad de los pacientes.
+
+Aunque reconoce que no sabe mucho sobre temas legales relacionados con la medicina, ha recibido algunas clases sobre primeros auxilios y cómo tratar a los pacientes. Está interesada en aprender más sobre este tema y cree que sería útil tener acceso a asesoramiento legal especializado en medicina en caso de necesitarlo en el futuro.
+
+En resumen, Vanessa muestra un fuerte compromiso con su carrera médica y un interés genuino en mejorar sus habilidades y conocimientos. Está dispuesta a aprender y buscar recursos adicionales para asegurarse de ser una profesional médica preparada y responsable.
+
 **Entrevista 2: Marlene Pachas Torres (Doctora)**
 
-Intervalo de duración: 06:13 - 21:40
+**Nombre y Apellido:** Marlene Pachas Torres
 
-#### Presentacion (Nombre, lugar en el que trabaja y rol que desempeña)
+**Edad:** 41 años
 
-Marlene Pachas Torres, trabaja en el Hospital Arzobispo Loayza, Médico Anastesiólogo.
+**Distrito:** La Victoria
 
-#### ¿Cuando tiempo llevas ejerciendo la carrera de medicina y/o especialidad?
-
-Como Médico general 7 años y como Médico especialista 3 años.
-
-#### ¿Como te sientes cada vez que tienes que intervenir a alguien quirúrgicamente?
-
-Como anastesióloga me siento segura, por que previamente he realizado una evaluación preanestésica a mi paciente, conociendo sus antecedentes clinicos, quirurgicos, alergia, peso, talla, etc. Si el caso ameritara solicito por ejemplo transfuciones, evaluación por otros especialistas o solicitar cama en uci (Unidad de cuidado intensivos). Sumado lo anterior verifico la comprobación de todos los equipos y que los farmacos esten completos.
-
-Contando con lo anterior, me sentiria segura al momento de brindar anestesia a mis pacientes. Recordando que puede presentarse algun evento o riesgo desfavorable, se le comunica y se le hace firmar el Consentimiento Informado, al paciente o a sus familiares.
-
-#### ¿Alguna vez has tenido algún problema medico con algún paciente? En caso NO, conoces algún caso?
-
-No, pero conozco un caso.
-
-#### ¿Conoces a alguien que haya tenido algún problema con algún paciente o con la familia del mismo por el resultado de su cirugía?
-
-Si, un ginecologo después de realizar una cesárea por emergencia decide sacar el útero (Histerectomia) por que no se contraía y el sangrado no se detenia, previamente se hablo con los familiares y ellos aceptaron el procedimiento, despúes de 8 horas de la operación la paciente no miccionaba y presentaba fiebre. Al realizarle algunos procedimientos de imagenes, se comprobó laceración y corte de los ureteres por lo que la paciente reingresó a sala de operaciones para unir el trayecto de estos. Previamente el ginecólogo hablo con los familiares y ellos le reprocharon mala practica médica y decidieron denunciar al ginecólogo.
-
-#### ¿Si tuviera algún problema con el resultado de la cirugía de tu paciente, que harías? Buscarías ayuda profesional?
-
-Si, buscaria ayuda profesional. Acudiria al Colegio Médico del Perú a traves de la Defensoria del Médico, ademas pediria asesoramiento legal a la Sociedad de Anestesiologia. 
-
-**Conclusiones**
-
-Despues de entrevistar a la doctora Marlene Pachas Torres, una Médico Anastesióloga del Hospital Arzobispo Loayza, conseguimos información valiosa de como es una evaluación preanestésica y sobre la preparación regurosa antes de cada intervención quirúrgica. Además, nos hablo sobre la importancia que es saber que hacer y donde acudir al momento de enfrentar alguna denuncia por negligencia médica. Por último tambien mostro interes en poder tener acceso a servicios legales con abogados especializados en el area de la medicina.
-Esta entrevista nos ayudo a saber cuales son las necesidades que necesitan nuestros usuarios para unirse a nuestro aplicativo.
+**Screenshot de la Entrevista:**
 
 ![alt text](<../assets/imgs/Entrevista-Marlene.png>)
 
+**URL del Video:** [Microsoft Stream](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202216558_upc_edu_pe/Eeu6qaSz9j1CmTn01snZB_oBZfLdUdxlMXrc-6EaichLgg?e=348iVE&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+
+**Timing de Inicio y Duración:** [Inicio: 06:13, Duración: 21:40]
+
+**Resumen de la Entrevista:**
+
+Marlene Pachas Torres, médico anestesiólogo en el Hospital Arzobispo Loayza, cuenta con una experiencia de 7 años como médico general y 3 años como especialista en anestesiología. En cuanto a su desempeño quirúrgico, Marlene se siente confiada gracias a su rigurosa preparación preoperatoria, que incluye una evaluación completa de la historia clínica y antecedentes de cada paciente, así como la verificación minuciosa de los equipos y fármacos necesarios para la intervención. Además, establece una comunicación clara con el paciente y su familia, obteniendo su consentimiento informado y explicando cualquier riesgo potencial. Aunque no ha experimentado problemas médicos personales, Marlene conoce un caso en el que un colega enfrentó complicaciones postoperatorias graves debido a una histerectomía de emergencia, lo que generó conflictos legales con la familia del paciente. Ante la posibilidad de enfrentar una situación similar, Marlene afirma que buscaría asesoramiento profesional, recurriendo al Colegio Médico del Perú y a la Sociedad de Anestesiología para obtener apoyo y orientación legal. Su enfoque proactivo y compromiso con la seguridad y el bienestar de sus pacientes reflejan su dedicación como profesional de la salud.
+
+
 **Entrevista 3: Sara Rojas (Estudiante de Medicina)**
 
-Intervalo de duración: 21:40 - 29:07
+**Nombre y Apellido:** Sara Rojas
 
-#### Presentación(Nombre, edad, centro de estudios)
+**Edad:** 22 años
 
-Sara Rojas Sojo, 22 años, Universidad San Martín de Porres.
+**Distrito:** Miraflores
 
-#### ¿Cuánto tiempo llevas estudiando medicina?
-
-Aproximadamente 4 años y medio estudiando medicina.
-
-#### ¿Estás desempeñando practicas médicas en algún Hospital? ¿En que hospital?
-
-Sí. Tengo un curso que se llama medicina interna y se parte en tres. Entonces, mayormente es teórico, práctico y simulación. En lo que es teoría, pues básicamente es la información que nos mandan para poder aprender en práctica y lo que es práctica ya es lo que vemos con el paciente en sí en el hospital. Yo estoy en el hospital Guillermo Armenara de Irigoyen, que está por Grau.
-
-#### ¿Has tenido alguna mala experiencia mientras realizabas tus practicas médicas? ¿Conociste a alguien que haya tenido una mala experiencia?
-
-Sí, dependiendo de lo que se refiera la pregunta, porque si es con los doctores no he tenido ningún problema con ellos. Porque los doctores sí han sido exigentes, pero han sido muy buenos. Pero si hablamos de los pacientes, podría decir que al comienzo no he tenido ningún problema. O sea, los pacientes han sido colaboradores y así, ¿no? Pero sin embargo, hay pacientes que tienen problemas neurológicos, entonces, a veces no no se dejan examinar o inspeccionar de una manera tranquila y correcta.
-
-#### ¿Alguna vez has escuchado sobre las negligencias médicas que ocurren en el país? Que opinas sobre eso?
-
-Sí. Mayormente en las noticias veo muchos casos acerca de eso, pero creo que la negligencia médica se basa en varios factores. Sin embargo, creo que de repente la evaluación de los doctores no está bien implementada o de repente no han hecho la parte teórica, Entonces, en base a eso puede ser. ¿No?
-
-Igual la negligencia va a existir. Sin embargo, hay doctores que tienen mucha más información y ellos pueden implementar esto a mayor proporción entonces pueden evitar esta negligencia. Sin embargo, hay otros que no, como ya te comenté.
-
-#### ¿Qué conocimientos tienes sobre la responsabilidad médica y las posibles implicaciones legales que pueden surgir durante la práctica clínica?
-
-Bueno, recientemente como estoy llevando hospitalización, nosotros hemos llevado un curso que ha sido ética médica. Todo lo que es en base a comunicación con el paciente, ¿no? El hecho de saber respetar los derechos de los pacientes, la comunicación, tambien la confidencialidad que tenemos que tener con los pacientes en sí, en no revelar las historias clínicas. Y también preguntar en base de que si está en un chequeo, entonces preguntarle sus antecedentes por si ha tenido algúna operación para poder examinarlo.
-
-
-#### ¿Has recibido alguna formación o orientación específica sobre cómo evitar situaciones que puedan llevar a denuncias por negligencia médica durante tu formación médica? ¿Cómo cuales?
-
-Como sabemos, somos médicos y nosotros tenemos que estudiar siempre. Van a venir hasta enfermedades donde nosotros tenemos que saber cómo actuar en ese momento, ¿no?
-Sin embargo, creo que también sería bueno recibir algún tipo de orientación que creo que siempre hacen los hospitales, mayormente cuando hay una enfermedad como es en este caso del COVID, ¿no? Sin antes ver su historial médico, la anamnesis, los antecedentes patológicos. Entonces, creo que toda esa información es lo que nos puede llegar a nosotros, a los pacientes, para darle la información correcta y necesaria.
-  
-#### ¿Algún profesor de tu facultad les ha comentado sobre si tuvo alguna negligencia? En caso de si, que hizo al respecto?
-
-Hasta el momento no. En realidad, mis doctores no han tenido ningún caso acerca de ello. Pero sí hay casos en que los pacientes más que nada quieren como que les revisen forzosamente, ¿no? Decían, ah, me duele aquí, entonces mayormente tienen que poner más empeño.
-
-Pero no, hasta el momento no, no he tenido algun doctor ni doctores que hayan tenido una negligencia.
-
-#### ¿Te gustaría tener acceso a servicios legales especializados en el campo de la medicina para obtener asesoramiento o defensa en caso de enfrentar una denuncia por negligencia médica en el futuro? ¿Como cuales: asesorías, cursos, talleres, etc?
-
-Nosotros trabajamos con lo que son las personas y si algo sale mal, pues obviamente el paciente no va a estar bien y puede llegar hasta la muerte. Entonces yo creo que sí serviría algún asesoramiento o taller que nos incentive para tener esa información.
-
-**Conclusiones**
-
-De la entrevista con Sara, se observa la importancia de la ética médica y la comunicación efectiva con los pacientes para evitar situaciones que puedan derivar en denuncias por negligencia médica. A su vez, se muestra preocupada por la calidad de la formación recibida en cuanto a evaluación de los doctores y la implementación de los conocimientos teóricos en la práctica clínica. Por último, expresa interés en recibir orientación adicional, como talleres o asesoramientos legales especializados, para mejorar su preparación y enfrentar posibles desafíos legales en la medicina.
+**Screenshot de la Entrevista:**
 
 ![alt text](<../assets/imgs/Entrevista - Sara (Estudiante).png>)
 
+**URL del Video:** [Microsoft Stream](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202216558_upc_edu_pe/Eeu6qaSz9j1CmTn01snZB_oBZfLdUdxlMXrc-6EaichLgg?e=348iVE&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+
+**Timing de Inicio y Duración:** [Inicio: 21:40, Duración: 29:07]
+
+**Resumen de la Entrevista:**
+
+Sara Rojas Sojo, de 22 años y estudiante de la Universidad San Martín de Porres, lleva aproximadamente 4 años y medio estudiando medicina. Actualmente realiza prácticas médicas en el hospital Guillermo Armenara de Irigoyen. Aunque no ha tenido problemas con los doctores durante sus prácticas, ha enfrentado algunas dificultades con pacientes que tienen problemas neurológicos. Sara está al tanto de los casos de negligencia médica que se reportan en las noticias y considera que pueden deberse a una falta de evaluación adecuada por parte de algunos médicos. Recientemente, ha recibido formación en ética médica, que incluye aspectos como la comunicación con los pacientes, el respeto a sus derechos y la confidencialidad de la información médica. Aunque no ha tenido experiencia personal con casos de negligencia, cree que sería útil recibir asesoramiento legal especializado en el campo de la medicina en caso de enfrentar una situación similar en el futuro. Considera que talleres o asesorías que promuevan el manejo adecuado de situaciones delicadas en la práctica médica serían beneficiosos para los estudiantes de medicina.
+
 **Entrevista 4: Patrick Gómez (Estudiante de Medicina)**
 
-Intervalo de duración: 29:07 - 35:10
+**Nombre y Apellido:** Patrick Gómez
 
-#### Presentación(Nombre, edad, centro de estudios)
+**Edad:** 20 años
 
-Patrick Gómez Palomino, 20 años, Universidad Norbert Wiener.
+**Distrito:** San Luis
 
-#### ¿Cuánto tiempo llevas estudiando medicina?
-
-Estoy en mi octavo ciclo, que serían cuatro años.
-
-#### ¿Estás desempeñando practicas médicas en algún Hospital? ¿En que hospital?
-
-Si, desempeño prácticas médicas desde el sexto ciclo.
-Estuve en los hospitales el Jorge Voto Bernales, en El Sabogal y en Luis Negreiros.
-
-#### ¿Has tenido alguna mala experiencia mientras realizabas tus practicas médicas? ¿Conociste a alguien que haya tenido una mala experiencia?
-
-Mala experiencia no. Más que todo los pacientes dejan que los estudiantes podamos asistir en las prácticas médicas como tal.
-Las experiencias podría ser por los doctores que a veces son muy exigentes o muy despotas.
-
-#### ¿Alguna vez has escuchado sobre las negligencias médicas que ocurren en el país? Que opinas sobre eso?
-
-Negencias médicas, no mucho. Bueno, de parte de mis de mis doctores, ¿no?
-
-Pero siempre nos han dejado en claro que hay un hay un documento legal que nos dan, en el cual, nosotros tenemos que llenar y se llama historia clínica. Es un documento legal que si ocurre algo o por cualquier caso fallece el paciente y digamos que la familia quiere presentar algún cargo o un juicio al doctor o al mismo hospital, ese documento es pedido y tiene que ser correctamente foliado y escrito con las palabras objetivas del médico en el lenguaje médico correspondiente. En este se encuentra involucrado, no solo el médico, también los enfermeros, ya que ellos también tienen su cuaderno de notas, de que son de la mañana y la noche, y lo que es la evolución y epigrisis.
-
-#### ¿Qué conocimientos tienes sobre la responsabilidad médica y las posibles implicaciones legales que pueden surgir durante la práctica clínica?
-
-Aparte de lo que me ha mencionado. Fuera de lo que son negligencias, es mucho en lo legal, ¿no? Ya que nosotros tratamos con vidas y no podemos equivocarnos.
-
-Te pongo un ejemplo, un abogado puede perder un juicio, entonces su defensor se va a la carcel y no le pasa nada igual, ¿no? 
-Pero, digamos, en caso de un médico no podemos equivocarnos ni en un diagnóstico, no podemos tirar nada al aire sin haberlo comprobado. Y por eso tenemos mucha responsabilidad con los documentos. No solo la historia clínica, también los documentos que tienen que ser firmados de consentimiento, especialmente los que son de cirugía, ya que en los documentos de cirugía te habla sobre que el paciente está aceptando que puede ocurrir algo en la cirugía o digamos que haya algo que implique en la vida del paciente. 
-Entonces, el médico tiene que hacer todo lo que esté en sus manos para salvar la vida del paciente.
-  
-#### ¿Algún profesor de tu facultad les ha comentado sobre si tuvo alguna negligencia? En caso de si, que hizo al respecto?
-
-Recuerdo una vez que un profesor nos contó que hubo problemas en un parto, sin embargo, no recuerdo los detalles.
-
-#### ¿Te gustaría tener acceso a servicios legales especializados en el campo de la medicina para obtener asesoramiento o defensa en caso de enfrentar una denuncia por negligencia médica en el futuro? ¿Como cuales: asesorías, cursos, talleres, etc?
-
-Bueno, a nosotros, los mismos doctores, desde la formación que llevamos en estos ciclos nos dicen. De tal modo, empezamos con semiología, luego medicina interna 1, medicina interna 2, medicina interna 3, emergencias, medicina 4 y así. Entonces ellos nos dan charlas, pautas, qué cosa hacer, que cosa no hacer, a quién llamar y a quien recurrir. También los doctores nos comentan que no está mal a veces recurrir a un compañero de trabajo para que te pueda dar otro punto de vista objetivo. Entonces si estaría bueno tener más accesos de otras fuentes para poder seguir aprendiendo.
-
-**Conclusiones**
-
-De la entrevista se desprende una clara conciencia sobre la responsabilidad médica y las implicaciones legales que conlleva la práctica clínica. El entrevistado demuestra comprensión sobre la importancia de la documentación adecuada, especialmente en casos de cirugía y diagnóstico, y la necesidad de seguir protocolos rigurosos para evitar negligencias. Además, destaca la importancia del acceso a servicios legales especializados en el campo de la medicina para obtener asesoramiento y defensa en situaciones de denuncia por negligencia médica. Su disposición a seguir aprendiendo y buscar diversas fuentes de conocimiento refleja su compromiso con una práctica médica ética y responsable.
+**Screenshot de la Entrevista:**
 
 ![alt text](<../assets/imgs/Entrevista - Patrick (Estudiante).png>)
 
+**URL del Video:** [Microsoft Stream](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202216558_upc_edu_pe/Eeu6qaSz9j1CmTn01snZB_oBZfLdUdxlMXrc-6EaichLgg?e=348iVE&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+
+**Timing de Inicio y Duración:** [Inicio: 29:07, Duración: 35:10]
+
+**Resumen de la Entrevista:**
+
+Patrick Gómez Palomino, un estudiante de 20 años de la Universidad Norbert Wiener, ha estado estudiando medicina durante aproximadamente cuatro años, encontrándose actualmente en su octavo ciclo académico. Durante su formación, ha participado en prácticas médicas en varios hospitales, incluyendo el Jorge Voto Bernales, El Sabogal y Luis Negreiros. Aunque no ha experimentado incidentes adversos con pacientes durante estas prácticas, ha observado la exigencia de algunos doctores. Aunque no está muy al tanto de los casos de negligencia médica en el país, Patrick reconoce la importancia de la documentación adecuada, como la historia clínica, para respaldar la responsabilidad médica y prevenir consecuencias legales. Destaca la necesidad de cumplir con las normativas legales y éticas en el ejercicio de la medicina. Recuerda una ocasión en la que un profesor mencionó un caso de problemas durante un parto, aunque no puede proporcionar detalles específicos. Además, Patrick considera que sería beneficioso tener acceso a servicios legales especializados en medicina para obtener orientación adicional y continuar aprendiendo sobre responsabilidad y defensa médica. Expresa su interés en recibir charlas y asesoramiento práctico durante su formación, así como en consultar a colegas para obtener diferentes perspectivas sobre situaciones clínicas complejas.
+
 **Entrevista 5: Daniela Chumpitaz (Doctora)**
 
-Intervalo de duración: 35:10 - 37:50
+**Nombre y Apellido:** Daniela Chumpitaz
 
-#### Presentacion (Nombre, lugar en el que trabaja y rol que desempeña)
+**Edad:** 44 años
 
-Daniela Chumpitaz Pachas, trabaja en el Hospital Nacional Azerbispal Luis, Médico Asistencial.
+**Distrito:** Breña
 
-#### ¿Cuando tiempo llevas ejerciendo la carrera de medicina y/o especialidad?
-
-Como Médico en el área de Hospitalización, 4 años.
-
-#### ¿Como te sientes cada vez que tienes que intervenir a alguien quirúrgicamente?
-
-Bueno, me siento segura, bien preparada. De antemano, como siempre, han de tener a un paciente, conociendo pues el historial, su historia clínica, su anamnesis, su examen de laboratorio, ver si tiene algún problema cardíaco, si uso anticoagulantes y siempre coordinar con los profesionales de la salud.
-
-De repente el paciente se nos choca, se pone mal, ya tenemos que haber coordinado, de todos modos, una cama UCI (Unidad de Cuidados Intensivos).
-
-#### ¿Alguna vez has tenido algún problema medico con algún paciente? En caso NO, conoces algún caso?
-
-Hasta el momento no he tenido ningún problema con ningún paciente o un familiar. Por mis pocos años laburando, desconozco que algún colega mio haya tenido problema con algún paciente o familia.
-
-#### ¿Conoces a alguien que haya tenido algún problema con algún paciente o con la familia del mismo por el resultado de su cirugía?
-
-Por mis pocos años laburando, desconozco que algún colega mio haya tenido problema con algún paciente o familia.
-
-#### ¿Si tuviera algún problema con el resultado de la cirugía de tu paciente, que harías? Buscarías ayuda profesional?
-
-Si, buscaría ayuda, siempre dando con en cuenta o comunicando al Colegio Médico, y siempre buscando una asesoría legal o un abogado.
-
-**Conclusiones**
-
-Después de entrevistar a la doctora Daniela Chumpitaz, una Médico Asistencial del Hopsital Nacional Azerbispal Luis, se puede observar que siempre está preparada ante situaciones inesperadas durante la cirugía, y que, si bien no le ha pasado ni ha escuchado de casos donde resultados desafortunados lleven a problemas con los involucrados, igual buscaría la ayuda legal necesaria para resolver esos problemas.
-Esta entrevista nos ayudo a saber cuales son las necesidades que necesitan nuestros usuarios para unirse a nuestro aplicativo.
+**Screenshot de la Entrevista:**
 
 ![alt text](<../assets/imgs/Entrevista - Daniela.PNG>)
+
+**URL del Video:** [Microsoft Stream](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202216558_upc_edu_pe/Eeu6qaSz9j1CmTn01snZB_oBZfLdUdxlMXrc-6EaichLgg?e=348iVE&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+
+**Timing de Inicio y Duración:** [Inicio: 35:10, Duración: 37:50]
+
+**Resumen de la Entrevista:**
+
+Daniela Chumpitaz Pachas, médico asistencial en el Hospital Nacional Azerbispal Luis, lleva 4 años en el ejercicio de la medicina, principalmente en el área de hospitalización. Al enfrentar intervenciones quirúrgicas, describe un proceso meticuloso de preparación, donde se asegura de conocer en detalle el historial médico y condiciones específicas de cada paciente, como antecedentes médicos, uso de medicamentos y posibles complicaciones. Además, destaca la importancia de la coordinación interdisciplinaria con otros profesionales de la salud para garantizar un tratamiento integral. Aunque no ha tenido experiencias negativas con pacientes o familiares hasta el momento, reconoce la posibilidad de enfrentar desafíos en el futuro. Ante esta eventualidad, está dispuesta a buscar ayuda profesional y asesoramiento legal, mencionando su disposición a recurrir al Colegio Médico y a abogados especializados en el ámbito médico para garantizar una adecuada defensa en caso de controversias o problemas con el resultado de alguna cirugía.
 
 ### 2.2.3. Análisis de entrevistas
 
