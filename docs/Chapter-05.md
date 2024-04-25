@@ -291,17 +291,133 @@ documentación y despliegue del Landing Page.
 
 ### 5.2.1.4. Testing Suite Evidence for Sprint Review
 
-![alt text](../assets/imgs/suscripciones-feature.png)
+**Unit Tests**
 
-![alt text](../assets/imgs/Servicios-feature.png)
+Test de visualización de lista de tipos de suscripción
 
-![alt text](../assets/imgs/Nosotros-feature.png)
+- Clase relacionada: SubscriptionService
 
-![alt text](../assets/imgs/Inicio-feature.png)
+- Comportamiento: Verificar que la función para mostrar la lista de tipos de suscripción funciona correctamente.
 
-![alt text](../assets/imgs/creadores-feature.png)
+Test de visualización de servicios
 
-![alt text](../assets/imgs/contacto-feature.png)
+- Clase relacionada: ServiceController
+
+- Comportamiento: Verificar que la sección de servicios se muestra correctamente en la página principal.
+
+Test de visualización de sección de contacto
+
+- Clase relacionada: ContactController
+
+- Comportamiento: Verificar que la sección de contacto se muestra correctamente en la página principal.
+
+Test de visualización de sección nosotros
+
+- Clase relacionada: AboutUsController
+
+- Comportamiento: Verificar que la sección nosotros se muestra correctamente en la página principal.
+
+Test de visualización de sección de inicio
+
+- Clase relacionada: NavigationController
+
+- Comportamiento: Verificar que la barra de navegación se muestra correctamente en la página principal.
+
+<table>
+  <thead>
+    <tr>
+      <th>Repository</th>
+      <th>Branch</th>
+      <th>Commit Id</th>
+      <th>Commit Message</th>
+      <th>Commit Message Body</th>
+      <th>Committed on (Date)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Aplicaciones-Web-Grupo-CodeRush/Landing-page-MedicDefense</td>
+      <td>main</td>
+      <td>95ea6ecec2e5827ae101f01cad61c13dd5daa33c</td>
+      <td>initial commit</td>
+      <td>- Create initial commit for landing page</td>
+      <td>2024-04-06</td>
+    </tr>
+    <tr>
+      <td>Aplicaciones-Web-Grupo-CodeRush/Landing-page-MedicDefense</td>
+      <td>main</td>
+      <td>00462150d5287a4258b542352094d75185dcca68</td>
+      <td>Added "Our Services"</td>
+      <td>- created our services section to landing page</td>
+      <td>2024-04-06</td>
+    </tr>
+    <tr>
+      <td>Aplicaciones-Web-Grupo-CodeRush/Landing-page-MedicDefense</td>
+      <td>main</td>
+      <td>9ce3c181693874c2881eb5611cca452a51c780a2</td>
+      <td>added contact section</td>
+      <td>- created our contact section to landing page</td>
+      <td>2024-04-06</td>
+    </tr>
+    <tr>
+      <td>Aplicaciones-Web-Grupo-CodeRush/Landing-page-MedicDefense</td>
+      <td>main</td>
+      <td>555441bd8dc434640170aae69d2f517df739251a</td>
+      <td>Added "Creators" and "Footer"</td>
+      <td>- Created creators and footer to landing page</td>
+      <td>2024-04-06</td>
+    </tr>
+    <tr>
+      <td>Aplicaciones-Web-Grupo-CodeRush/Landing-page-MedicDefense</td>
+      <td>main</td>
+      <td>7182467edc1fe044277a21634c87ccc3dfcdfe9c</td>
+      <td>Added necessary images for some sections</td>
+      <td>- update necessary images for landing page</td>
+      <td>2024-04-07</td>
+    </tr>
+    <tr>
+      <td>Aplicaciones-Web-Grupo-CodeRush/Landing-page-MedicDefense</td>
+      <td>main</td>
+      <td>2d479db24e63fa3b3e24f141b8bfc56d5efc2883</td>
+      <td>Added -" Nosotros "- section</td>
+      <td>- Created Nosotros to landing page</td>
+      <td>2024-04-07</td>
+    </tr>
+    <tr>
+      <td>Aplicaciones-Web-Grupo-CodeRush/Landing-page-MedicDefense</td>
+      <td>main</td>
+      <td>382027e552d5c3069f9324fd755811540e74b791</td>
+      <td>Added CSS for " Nosotros "</td>
+      <td>- created CSS to Nosotros section in landing page</td>
+      <td>2024-04-07</td>
+    </tr>
+    <tr>
+      <td>Aplicaciones-Web-Grupo-CodeRush/Landing-page-MedicDefense</td>
+      <td>main</td>
+      <td>4d30c10cd54c3843b8627b75bb33ef758f639385</td>
+      <td>Fixed incorrect class names in -" Nosotros "-</td>
+      <td>- Addressed incorrect class names within the 'Nosotros' section, ensuring code consistency and functionality</td>
+      <td>2024-04-07</td>
+    </tr>
+    <tr>
+      <td>Aplicaciones-Web-Grupo-CodeRush/Landing-page-MedicDefense</td>
+      <td>main</td>
+      <td>8b47667d776ce19d6bd3e68689a150c371032beb</td>
+      <td>Added -" Servicios "- section</td>
+      <td>- Implemented the 'Servicios' section, enhancing the landing page with information about services offered</td>
+      <td>2024-04-07</td>
+    </tr>
+    <tr>
+      <td>Aplicaciones-Web-Grupo-CodeRush/Landing-page-MedicDefense</td>
+      <td>main</td>
+      <td>09d031e15e6f291e05a313eb14bec9768183ab1e</td>
+      <td>Added CSS to -" Nuestros Servicios "-</td>
+      <td>- Introduced CSS styling for the 'Nuestros Servicios' section to enhance its visual presentation</td>
+      <td>2024-04-07</td>
+    </tr>
+  </tbody>
+</table>
+
 
 ### 5.2.1.5. Execution Evidence for Sprint Review
 
