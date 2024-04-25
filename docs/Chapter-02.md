@@ -182,6 +182,11 @@ Daniela Chumpitaz Pachas, médico asistencial en el Hospital Nacional Azerbispal
 
 Se procede a recopilar las estadísticas de las respuestas de los entrevistados para representarlas mediante gráficos proporcionados por la herramienta, Google Forms.
 
+![alt text](../assets/imgs/Analisis-med-1.png)
+![alt text](../assets/imgs/Analisis-med-2.png)
+![alt text](../assets/imgs/Analisis-med-3.png)
+![alt text](../assets/imgs/Analisis-med-4.png)
+![alt text](../assets/imgs/Analisis-med-5.png)
 ![alt text](<../assets/imgs/Analisis1-1.PNG>)
 ![alt text](<../assets/imgs/Analisis1-2.PNG>)
 ![alt text](<../assets/imgs/Analisis1-3.PNG>)
@@ -194,6 +199,11 @@ Se puede interpretar que los doctores se sienten seguros de su trabajo al moment
 
 Se procede a recopilar las estadísticas de las respuestas de los entrevistados para representarlas mediante gráficos proporcionados por la herramienta, Google Forms.
 
+![alt text](../assets/imgs/Analisis-est-1.png)
+![alt text](../assets/imgs/Analisis-est-2.png)
+![alt text](../assets/imgs/Analisis-est-3.png)
+![alt text](../assets/imgs/Analisis-est-4.png)
+![alt text](../assets/imgs/Analisis-est-5.png)
 ![alt text](<../assets/imgs/Analisis2-1.PNG>)
 ![alt text](<../assets/imgs/Analisis2-2.PNG>)
 ![alt text](<../assets/imgs/Analisis2-3.PNG>)
