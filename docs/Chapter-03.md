@@ -10,6 +10,8 @@ Luego de realizar el ai-is con sus fases propuestas, para el to-be se realizaron
 
 ## 3.2. User Stories
 
+Los User Stories sirven para describir de manera más detallada las diferentes funciones de la aplicación, adaptándolas a las necesidades y prioridades de los usuarios. Estas historias también capturan el propósito de uso de las personas, brindando una comprensión más completa de cómo se relacionan con la aplicación y qué esperan lograr con ella.
+
 <table>
     <tr>
         <th>Epic / Story ID</th>
