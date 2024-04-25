@@ -63,10 +63,11 @@ Los costos relacionados con la aplicación serían relacionados al costo de las 
 
 #### 1.2.2.1. Lean UX Problem Statements
 
-Nuestro contexto actual es que los médicos profesionales están cada vez en más riesgo de que un imprevisto médico pueda causar una denuncia de negligencia médica, y no tengan el respaldo legal necesario para defenderse.
-
-Para solucionarlo podemos crear una aplicación web que de facilidad a los médicos a encontrar y contactar a abogados especializados que puedan ayudarle con distintos servicios legales como consultas o representación judicial.
-Podrán acceder a estos servicios mediante distintos planes de pago según las necesidades del médico. Sea pago único para que un abogado lo represente legalmente, o una subscripción de precios varios para tener acceso al repertorio de abogados registrados, y poder solicitar una consulta legal.
+El estado actual de las aplicaciones dirigidas al área de medicina se ha concentrado principalmente en identificación de medicamentos, cálculos de dosificación, o más generalmente, compartir información académica sobre enfermedades, biología y demás.
+Lo que estas aplicaciones existentes fallan en tratar es el riesgo creciente para los médicos de no tener respaldo legal contra denuncias de negligencia médica.
+Nuestro servicio tratará este problema al proporcionar una plataforma que permita a los médicos acceder a recursos legales de forma más sencilla y directa.
+Nuestro enfoque inicial será en los médicos anestesiólogos y los estudiantes de medicina.
+Sabremos que tuvimos éxito cuando veamos que el número de denuncias por negligencia médica, o al menos los casos perdidos por los médicos como consecuencia de dichas denuncias, haya reducido.
 
 #### 1.2.2.2. Lean UX Assumptions
 
