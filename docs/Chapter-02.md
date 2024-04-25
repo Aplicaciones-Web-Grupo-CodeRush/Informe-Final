@@ -231,20 +231,20 @@ En resumen, los artefactos a presentar en esta sección están estrechamente rel
 
 ### 2.3.2. User Task Matrix
 
-| Task Matrix                                                       | Estudiante de Medicina   | Médico/a                 |
-|---------------------------------------------------------------|--------------------------|--------------------------|
-| Acceder a recursos educativos en línea                        | Alta                     | Media                    |
-| Participar en prácticas clínicas y adquirir habilidades prácticas | Alta                 | Media                    |
-| Estudiar y comprender implicaciones legales y éticas de la práctica médica | Alta         | Alta                     |
-| Mantenerse actualizado/a en avances médicos y tecnológicos    | Alta                     | Alta                     |
-| Buscar apoyo legal en caso de necesidad                       | Media                    | Alta                     |
-| Colaborar con otros profesionales de la salud                 | Baja                     | Alta                     |
-| Realizar investigaciones médicas                              | Media                    | Alta                     |
-| Asistir a conferencias y eventos académicos                    | Media                    | Alta                     |
-| Participar en actividades extracurriculares relacionadas con la medicina | Alta            | Media                    |
-| Cumplir con requisitos académicos (exámenes, trabajos)        | Alta                     | Media                    |
-| Utilizar tecnología médica avanzada en prácticas clínicas     | Media                    | Alta                     |
-| Gestionar el tiempo de estudio y prácticas                    | Alta                     | Media                    |
+| Tareas                                                        | Estudiante de Medicina <br>Importancia   | Estudiante de Medicina<br>Frecuencia               | Médico/a  <br>Importancia    | Médico/a  <br>Frecuencia               |
+|---------------------------------------------------------------|--------------------------|--------------------------|--------------------------|--------------------------|
+| Acceder a recursos educativos en línea                        | Alta                     | Siempre                  | Media                    | Casi siempre             |
+| Participar en prácticas clínicas y adquirir habilidades prácticas | Alta                 | Siempre                  | Media                    | A veces                  |
+| Estudiar y comprender implicaciones legales y éticas de la práctica médica | Alta         | Siempre                  | Alta                     | Siempre                  |
+| Mantenerse actualizado/a en avances médicos y tecnológicos    | Alta                     | Siempre                  | Alta                     | Siempre                  |
+| Buscar apoyo legal en caso de necesidad                       | Media                    | A veces                  | Alta                     | Siempre                  |
+| Colaborar con otros profesionales de la salud                 | Baja                     | Casi nunca               | Alta                     | Siempre                  |
+| Realizar investigaciones médicas                              | Media                    | A veces                  | Alta                     | Siempre                  |
+| Asistir a conferencias y eventos académicos                   | Media                    | A veces                  | Alta                     | Siempre                  |
+| Participar en actividades extracurriculares relacionadas con la medicina | Alta            | Siempre                  | Media                    | A veces                  |
+| Cumplir con requisitos académicos (exámenes, trabajos)        | Alta                     | Siempre                  | Media                    | A veces                  |
+| Utilizar tecnología médica avanzada en prácticas clínicas     | Media                    | A veces                  | Alta                     | Siempre                  |
+| Gestionar el tiempo de estudio y prácticas                    | Alta                     | Siempre                  | Media                    | A veces                  |
 
 #### **Explicación y análisis**
 
