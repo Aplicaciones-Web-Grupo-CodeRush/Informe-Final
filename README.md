@@ -23,13 +23,43 @@ Relación de Integrantes:
 
 ## Historial de Versiones
 
-| Versión | Fecha      | Autores                                                                                                                                     | Descripción de Modificaciones                                           |
-| ------- | ---------- | ------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------- |
-| 1era    | 12/04/2024 | Cesar Antonio Castilla Pachas, Gabriel Stefano Garcia Rodriguez, Héctor Marcelo Rentería Puga, Diego Flores Avalos, Fabricio Apaza Morales. | Carátula, CapítuloI, Capítulo II, Capítulo III, Capítulo IV, Capítulo V |
-|         |            |                                                                                                                                             |                                                                         |
-|         |            |                                                                                                                                             |                                                                         |
-|         |            |                                                                                                                                             |                                                                         |
-|         |            |                                                                                                                                             |                                                                         |
+<table>
+<tr>
+    <th colspan="3">Version</th>
+    <th colspan="3">Fecha</th>
+    <th colspan="10">Autores</td>
+    <th colspan="5">Descripción de Modificaciones</td>
+  <tr>
+    <td colspan="3">1era</td>
+    <td colspan="3">29/03/2024</td>
+    <td colspan="10">Héctor Marcelo Rentería Puga, Gabriel Stefano Garcia Rodriguez, Cesar Castilla Pachas, Diego Flores Avalos, Fabricio Apaza Morales.</td>
+    <td colspan="5">Carátula, CapítuloI, Capítulo II</td>
+  </tr>
+  <tr>
+    <td colspan="3">2da</td>
+    <td colspan="3">5/04/2024</td>
+    <td colspan="10">Héctor Marcelo Rentería Puga, Gabriel Stefano Garcia Rodriguez, Cesar Castilla Pachas, Diego Flores Avalos, Fabricio Apaza Morales.</td>
+    <td colspan="5">CapítuloIII, Capítulo IV</td>
+  </tr>
+  <tr>
+    <td colspan="3">3ra</td>
+    <td colspan="3">12/04/2024</td>
+    <td colspan="10">Héctor Marcelo Rentería Puga, Gabriel Stefano Garcia Rodriguez, Cesar Castilla Pachas, Diego Flores Avalos, Fabricio Apaza Morales.</td>
+    <td colspan="5">Capítulo V, Desarrollo Landing Page</td>
+  </tr>
+  <tr>
+    <td colspan="3">4ta</td>
+    <td colspan="3">20/04/2024</td>
+    <td colspan="10">Héctor Marcelo Rentería Puga, Gabriel Stefano Garcia Rodriguez, Cesar Castilla Pachas, Diego Flores Avalos, Fabricio Apaza Morales.</td>
+    <td colspan="5">Correccion CapítuloI, Capítulo II, CapítuloIII, Capítulo IV, Capítulo V</td>
+  </tr>
+  <tr>
+    <td colspan="3">5ta</td>
+    <td colspan="3">2/05/2024</td>
+    <td colspan="10">Héctor Marcelo Rentería Puga, Gabriel Stefano Garcia Rodriguez, Cesar Castilla Pachas, Diego Flores Avalos, Fabricio Apaza Morales.</td>
+    <td colspan="5">Capítulo V, Desarrollo Frontend</td>
+  </tr>
+  </table>
 
 ## Project Report Collaboration Insights
 A continuación, se detalla el proceso de elaboración del informe para cada entrega, junto con capturas de pantalla que muestran los análisis de colaboración y commits en GitHub para el repositorio del informe:
@@ -132,7 +162,7 @@ Commits:
 
 # Student Outcome
 
-| Criterio Específico                                                                                                                                  | Acciones Realizadas                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  | Conclusiones                                                                                                                                                                                                                               |
-| ---------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Criterio Específico   | Acciones Realizadas  | Conclusiones   |
+| ----------------------| ---------------------|----------------|
 | Participa en equipos multidisciplinarios con eficacia, eficiencia y objetividad, en el marco de un proyecto en soluciones de ingeniería de software. | **Fabricio Josue Apaza Morales**<br>TB1:Empathy Mapping, As-Is Scenario Mapping, Ubiquitous Language, 3 user stories, To-Be Scenario Mapping, Impact Mapping, Style Guidelines(General Style Guidelines, Web Style Guidelines), Information Architecture(Organization Systems, Labeling Systems, SEO Tags and Meta Tags, Searching Systems, Navigation Systems)<br>**Gabriel Stefano Garcia Rodriguez**<br>TB1: User Personas, User task Matrix, User Journey Mapping, 5 user stories,1 entrevista y registro de entrevista,Domain-Driven Software Architecture, Software Architecture Context Diagram, Software Architecture Container Diagrams, Software Architecture Components Diagrams, Landing Page, Services & Applications Implementation.<br>**Héctor Marcelo Rentería Puga**<br>TB1: Descripción de la StartUp, Antecedentes y Problemática, Lean UX Problem Statements, Análisis de Entrevistas, 3 User Stories, transcripción de 1 entrevista y edición del registro unido de entrevistas, Product Backlog, Web Applications Wireframes, Web Applications Wireflow Diagrams, Web Applications Mock-ups, Web Applications User Flow Diagrams, Web Applications Prototyping, Landing Page, Development Evidence for Sprint Review. <br>**Diego Flores Avalos**<br>TB1: Lean UX Assumptions, Lean UX Hypothesis Statements, Lean UX Canvas, 3 User Stories, Landing Page, Software Object-Oriented Design(Class Diagrams, Class Dictionary). <br>**Cesar Castilla Pachas**<br>TB1: Competidores, Análisis competitivo, Landing Page UI Desing, 3 User Stories, Landing Page, Landing Page wireframe, Landing Page MockUp, Database Diagram. | Nos aseguramos de trabajar de forma coordinada y eficaz, avanzando lo más posible en una cantidad de tiempo límite. Para lograrlo, tuvimos que trabajar como equipo y discutir las decisiones importantes de manera organizada y objetiva. |
 | Conoce al menos un sector empresarial o dominio de aplicación de soluciones de software.                                                             | **Fabricio Josue Apaza Morales**<br>TB1:Empathy Mapping, As-Is Scenario Mapping, Ubiquitous Language, 3 user stories, To-Be Scenario Mapping, Impact Mapping, Style Guidelines(General Style Guidelines, Web Style Guidelines), Information Architecture(Organization Systems, Labeling Systems, SEO Tags and Meta Tags, Searching Systems, Navigation Systems)<br>**Gabriel Stefano Garcia Rodriguez**<br>TB1: User Personas, User task Matrix, User Journey Mapping, 5 user stories,1 entrevista y registro de entrevista,Domain-Driven Software Architecture, Software Architecture Context Diagram, Software Architecture Container Diagrams, Software Architecture Components Diagrams, Landing Page, Services & Applications Implementation.<br>**Héctor Marcelo Rentería Puga**<br>TB1: Descripción de la StartUp, Antecedentes y Problemática, Lean UX Problem Statements, Análisis de Entrevistas, 3 User Stories, transcripción de 1 entrevista y edición del registro unido de entrevistas, Product Backlog, Web Applications Wireframes, Web Applications Wireflow Diagrams, Web Applications Mock-ups, Web Applications User Flow Diagrams, Web Applications Prototyping, Landing Page, Development Evidence for Sprint Review.<br>**Diego Flores Avalos**<br>TB1: Lean UX Assumptions, Lean UX Hypothesis Statements, Lean UX Canvas, 3 User Stories, Landing Page, Software Object-Oriented Design(Class Diagrams, Class Dictionary). <br>**Cesar Castilla Pachas**<br>TB1: Competidores, Análisis competitivo, Landing Page UI Desing, 3 User Stories, Landing Page, Landing Page wireframe, Landing Page MockUp, Database Diagram.  |                                                                                                                                                                                                                                            |
