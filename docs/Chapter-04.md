@@ -511,27 +511,27 @@ https://www.figma.com/proto/dfBnhcXbC6IHSTM0HbAmlv/Untitled?type=design&node-id=
 
 ### 4.6.3. Software Architecture Components Diagrams
 
-Bounded Context Access Diagram
+**Bounded Context Access Diagram**
 
 ![alt text](../assets/imgs/ComponentDiagramAccess.png)
 
-Bounded Context Consultation Diagram
+**Bounded Context Consultation Diagram**
 
 ![alt text](../assets/imgs/ComponentDiagramConsultation.png)
 
-Bounded Context Educational Resource Diagram
+**Bounded Context Educational Resource Diagram**
 
 ![alt text](../assets/imgs/ComponentDiagramEducationalResource.png)
 
-Bounded Context Legal Case Diagram
+**Bounded Context Legal Case Diagram**
 
 ![alt text](../assets/imgs/ComponentDiagramLegalCase.png)
 
-Bounded Context Payment Diagram
+**Bounded Context Payment Diagram**
 
 ![alt text](../assets/imgs/ComponentDiagramPayment.png)
 
-Bounded Context Notification Diagram
+**Bounded Context Notification Diagram**
 
 ![alt text](../assets/imgs/ComponentDiagramNotification.png)
 
