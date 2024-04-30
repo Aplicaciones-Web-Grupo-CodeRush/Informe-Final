@@ -539,7 +539,7 @@ https://www.figma.com/proto/dfBnhcXbC6IHSTM0HbAmlv/Untitled?type=design&node-id=
 
 ### 4.7.1. Class Diagrams
 
-![Class Diagram](../assets/imgs/classdiagram1.png)
+![alt text](../assets/imgs/class_diagram.png)
 
 ### 4.7.2. Class Dictionary
 
@@ -553,13 +553,13 @@ https://www.figma.com/proto/dfBnhcXbC6IHSTM0HbAmlv/Untitled?type=design&node-id=
   </tr>
   <tr>
     <td rowspan="5" colspan="1">1</td>
-    <td rowspan="5" colspan="2">User</td>
+    <td rowspan="5" colspan="2">users</td>
     <td colspan="2">id</td>
     <td colspan="4">Código identificador del usuario</td>
     <td colspan="2">int</td>
     <tr>
-      <td colspan="2">name</td>
-      <td colspan="4">Nombre del usuario</td>
+      <td colspan="2">password</td>
+      <td colspan="4">Contraseña del usuario</td>
       <td colspan="2">string</td>
     </tr>
     <tr>
@@ -568,105 +568,183 @@ https://www.figma.com/proto/dfBnhcXbC6IHSTM0HbAmlv/Untitled?type=design&node-id=
       <td colspan="2">string</td>
     </tr>
     <tr>
-      <td colspan="2">password</td>
-      <td colspan="4">Constraseña del usuario</td>
-      <td colspan="2">string</td>
+      <td colspan="2">loginStatus</td>
+      <td colspan="4">Estado de inicio de sesion</td>
+      <td colspan="2">bool</td>
     </tr>
     <tr>
-      <td colspan="2">type</td>
-      <td colspan="4">Tipo de usuario</td>
-      <td colspan="2">string</td>
+      <td colspan="2">registerDate</td>
+      <td colspan="4">Fecha de registro</td>
+      <td colspan="2">date</td>
     </tr>
   </tr>
   <tr>
-    <td rowspan="4" colspan="1">2</td>
-    <td rowspan="4" colspan="2">Suscription</td>
+    <td rowspan="3" colspan="1">2</td>
+    <td rowspan="3" colspan="2">lawyers</td>
     <td colspan="2">id</td>
-    <td colspan="4">Código identificador de la suscripción</td>
+    <td colspan="4">Código identificador del abogado</td>
     <td colspan="2">int</td>
     <tr>
-      <td colspan="2">typeSuscription</td>
-      <td colspan="4">Tipo de suscripción</td>
+      <td colspan="2">name</td>
+      <td colspan="4">Nombre del abogado</td>
       <td colspan="2">string</td>
     </tr>
     <tr>
-      <td colspan="2">startDate</td>
-      <td colspan="4">Fecha de inicio de la suscripción</td>
-      <td colspan="2">string</td>
-    </tr>
-    <tr>
-      <td colspan="2">endDate</td>
-      <td colspan="4">Fecha de fin de la suscripción</td>
+      <td colspan="2">specialty</td>
+      <td colspan="4">Especialidad del abogado</td>
       <td colspan="2">string</td>
     </tr>
   </tr>
   <tr>
-    <td rowspan="2" colspan="1">3</td>
-    <td rowspan="2" colspan="2">Doctor</td>
+    <td rowspan="3" colspan="1">3</td>
+    <td rowspan="3" colspan="2">doctors</td>
     <td colspan="2">id</td>
     <td colspan="4">Código identificador del doctor</td>
     <td colspan="2">int</td>
     <tr>
-      <td colspan="2">specially</td>
+      <td colspan="2">name</td>
+      <td colspan="4">Nombre del doctor</td>
+      <td colspan="2">string</td>
+    </tr>
+    <tr>
+      <td colspan="2">specialty</td>
       <td colspan="4">Especialidad del doctor</td>
       <td colspan="2">string</td>
     </tr>
   </tr>
   <tr>
-    <td rowspan="3" colspan="1">4</td>
-    <td rowspan="3" colspan="2">Lawyer</td>
+    <td rowspan="2" colspan="1">4</td>
+    <td rowspan="2" colspan="2">admin</td>
     <td colspan="2">id</td>
-    <td colspan="4">Código identificador del abogado</td>
+    <td colspan="4">Código identificador del administrador</td>
     <td colspan="2">int</td>
     <tr>
-      <td colspan="2">specially</td>
-      <td colspan="4">Especialidad del abogado</td>
+      <td colspan="2">username</td>
+      <td colspan="4">Nombre de usuario del administrador</td>
       <td colspan="2">string</td>
-    </tr>
-    <tr>
-      <td colspan="2">costConsultation</td>
-      <td colspan="4">Costo de la consulta</td>
-      <td colspan="2">double</td>
     </tr>
   </tr>
   <tr>
-    <td rowspan="4" colspan="1">5</td>
-    <td rowspan="4" colspan="2">Transaction</td>
+    <td rowspan="3" colspan="1">5</td>
+    <td rowspan="3" colspan="2">medical_students</td>
     <td colspan="2">id</td>
-    <td colspan="4">Código identificador de la transacción</td>
+    <td colspan="4">Código identificador de los estudiantes de medicina</td>
     <td colspan="2">int</td>
+    <tr>
+      <td colspan="2">university</td>
+      <td colspan="4">Universidad de procedencia de los estudiantes</td>
+      <td colspan="2">string</td>
+    </tr>
+    <tr>
+      <td colspan="2">yearsOfStudy</td>
+      <td colspan="4">Año de la carrera de los estudiantes</td>
+      <td colspan="2">int</td>
+    </tr>
+  </tr>
+  <tr>
+    <td rowspan="5" colspan="1">6</td>
+    <td rowspan="5" colspan="2">educational_resources</td>
+    <td colspan="2">id</td>
+    <td colspan="4">Código identificador de los recursos educativos</td>
+    <td colspan="2">int</td>
+    <tr>
+      <td colspan="2">title</td>
+      <td colspan="4">Título del recurso educativo</td>
+      <td colspan="2">string</td>
+    </tr>
     <tr>
       <td colspan="2">type</td>
-      <td colspan="4">Tipo de transacción</td>
+      <td colspan="4">Tipo de recurso educativo</td>
       <td colspan="2">string</td>
     </tr>
     <tr>
-      <td colspan="2">amount</td>
-      <td colspan="4">Monto de la transacción</td>
-      <td colspan="2">float</td>
-    </tr>
+      <td colspan="2">description</td>
+      <td colspan="4">Descripción del recurso educativo</td>
+      <td colspan="2">string</td>
+    </tr> 
     <tr>
-      <td colspan="2">date</td>
-      <td colspan="4">Fecha de la transacción</td>
+      <td colspan="2">author</td>
+      <td colspan="4">Autor del recurso educativo</td>
       <td colspan="2">string</td>
     </tr>
   </tr>
   <tr>
-    <td rowspan="3" colspan="1">6</td>
-    <td rowspan="3" colspan="2">Consultation</td>
+    <td rowspan="3" colspan="1">7</td>
+    <td rowspan="3" colspan="2">consultations</td>
     <td colspan="2">id</td>
-    <td colspan="4">Código identificador de la consulta</td>
+    <td colspan="4">Código identificador de las consultas</td>
     <td colspan="2">int</td>
     <tr>
       <td colspan="2">date</td>
       <td colspan="4">Fecha de la consulta</td>
+      <td colspan="2">date</td>
+    </tr>
+    <tr>
+      <td colspan="2">legalIssue</td>
+      <td colspan="4">Problema legal de la consulta</td>
+      <td colspan="2">string</td>
+    </tr>
+  </tr>
+  <tr>
+    <td rowspan="3" colspan="1">8</td>
+    <td rowspan="3" colspan="2">legal_cases</td>
+    <td colspan="2">id</td>
+    <td colspan="4">Código identificador de los casos legales</td>
+    <td colspan="2">int</td>
+    <tr>
+      <td colspan="2">description</td>
+      <td colspan="4">Descripción de los casos legales</td>
+      <td colspan="2">date</td>
+    </tr>
+    <tr>
+      <td colspan="2">status</td>
+      <td colspan="4">Estado de los casos legales</td>
+      <td colspan="2">string</td>
+    </tr>
+  </tr>
+  <tr>
+    <td rowspan="5" colspan="1">9</td>
+    <td rowspan="5" colspan="2">payments</td>
+    <td colspan="2">id</td>
+    <td colspan="4">Código identificador de las pagos</td>
+    <td colspan="2">int</td>
+    <tr>
+      <td colspan="2">amount</td>
+      <td colspan="4">Monto del pago</td>
+      <td colspan="2">float</td>
+    </tr>
+    <tr>
+      <td colspan="2">date</td>
+      <td colspan="4">Fecha del pago</td>
+      <td colspan="2">date</td>
+    </tr>
+    <tr>
+      <td colspan="2">method</td>
+      <td colspan="4">Método de pago</td>
       <td colspan="2">string</td>
     </tr>
     <tr>
-      <td colspan="2">state</td>
-      <td colspan="4">Estado de la consulta</td>
+      <td colspan="2">consultation</td>
+      <td colspan="4">Consulta relacionada al pago</td>
+      <td colspan="2">consultations</td>
+    </tr>
+  </tr>
+  <tr>
+    <td rowspan="3" colspan="1">10</td>
+    <td rowspan="3" colspan="2">notifications</td>
+    <td colspan="2">id</td>
+    <td colspan="4">Código identificador de las notifiaciones</td>
+    <td colspan="2">int</td>
+    <tr>
+      <td colspan="2">message</td>
+      <td colspan="4">Mensaje de la notifiación</td>
       <td colspan="2">string</td>
-    </tr> 
+    </tr>
+    <tr>
+      <td colspan="2">timeStamp</td>
+      <td colspan="4">Hora de la notifiación</td>
+      <td colspan="2">time</td>
+    </tr>
   </tr>
 </table>
 
@@ -674,4 +752,4 @@ https://www.figma.com/proto/dfBnhcXbC6IHSTM0HbAmlv/Untitled?type=design&node-id=
 
 ### 4.8.1. Database Diagram
 
-![DB Diagram](../assets/imgs/dbdiagram.jpeg)
+![alt text](../assets/imgs/DataBase.png)
