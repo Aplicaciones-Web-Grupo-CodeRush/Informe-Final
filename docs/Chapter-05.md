@@ -461,6 +461,351 @@ Commits:
 Analiticas de Colaboración:
 
 ![alt text](<../assets/imgs/Analiticos Colaboracion.png>)
+
+### 5.2.2. Sprint 2
+
+### 5.2.2.1. Sprint Planning 2
+
+Para este segundo sprint nos enfocaremos en los tasks para la
+elaboración de Frontend Web Application. Nos dividiremos entre nosotros cada
+una de las tareas identificadas para el sprint.
+
+<table>
+<tr>
+    <th colspan="5">Sprint #</th>
+    <th colspan="9">Sprint 2</th>
+  </tr>
+      <tr>
+    <td colspan="13">**Sprint Planning Background**</td>
+  </tr>
+  <tr>
+    <td colspan="5">Date</td>
+    <td colspan="8">2024-04-28</td>
+</tr>
+  <tr>
+    <td colspan="5">Time</td>
+    <td colspan="8">8:40 PM</td>
+  </tr>
+  <tr>
+    <td colspan="5">Location</td>
+    <td colspan="8">Via Discord y Google Meet</td>
+<tr>
+    <td colspan="5">Prepared By</td>
+    <td colspan="8">Gabriel Garcia</td>
+</tr>
+<tr>
+    <td colspan="5">Attendees (to planning meeting)</td>
+    <td colspan="8">Gabriel Garcia, Diego Flores, Fabricio Apaza, Marcelo Renteria, Cesar Castilla</td>
+</tr>
+<tr>
+    <td colspan="5">Sprint n – 2 Review Summary</td>
+    <td colspan="8">En esta seccion se planteo el desarrollo la  primera version del frontend para nuestro proyecto llamado MedicDefense</td>
+</tr>
+<tr>
+    <td colspan="5">Sprint n – 2 Retrospective Summary</td>
+    <td colspan="8">En esta seccion todos los integrantes mencionaron tener aciertos en partes del codigo y en otras partes poder mejorar sus habilidades realizando el FrontEnd Web Application</td>
+</tr>
+<tr>
+    <td colspan="13">**Sprint Goal & User Stories**</td>
+</tr>
+<tr>
+    <td colspan="5">Sprint n Goal</td>
+    <td colspan="8">Avance del FrontEnd Web Application</td>
+</tr>
+<tr>
+    <td colspan="5">Sprint n Velocity</td>
+    <td colspan="8">56 story points</td>
+</tr>
+<tr>
+    <td colspan="5">Sum of Story Points</td>
+    <td colspan="8">60 Story Points</td>
+</tr>
+</table>
+
+### 5.2.2.2. Sprint Backlog 2
+
+<table>
+<tr>
+    <th colspan="3">Sprint #</th>
+    <th colspan="10">Sprint 2</th>
+  </tr>
+      <tr>
+    <td colspan="3">User Story</td>
+    <td colspan="10">Work-Item/Task</td>
+  </tr>
+  <tr>
+    <td colspan="1">Id</td>
+    <td colspan="2">Title</td>
+    <td colspan="1">Id</td>
+    <td colspan="2">Title</td>
+    <td colspan="3">Description</td>
+    <td colspan="1"> Estimation</td>
+    <td colspan="2">Assigned To</td>
+    <td colspan="1">Status(To-do /InProcess /To-Review /Done)</td>
+</tr>
+  <tr>
+    <td colspan="1"></td>
+    <td colspan="2"></td>
+    <td colspan="1">1</td>
+    <td colspan="2"></td>
+    <td colspan="3"></td>
+    <td colspan="1"></td>
+    <td colspan="2"></td>
+    <td colspan="1">To-Do</td>
+  </tr>
+  <tr>
+    <td colspan="1"></td>
+    <td colspan="2"></td>
+    <td colspan="1">2</td>
+    <td colspan="2"></td>
+    <td colspan="3"></td>
+    <td colspan="1"></td>
+    <td colspan="2"></td>
+    <td colspan="1">To-Do</td>
+  </tr>
+  <tr>
+    <td colspan="1"></td>
+    <td colspan="2"></td>
+    <td colspan="1">3</td>
+    <td colspan="2"></td>
+    <td colspan="3"></td>
+    <td colspan="1"></td>
+    <td colspan="2"></td>
+    <td colspan="1">To-Do</td>
+  </tr>
+  <tr>
+    <td colspan="1"></td>
+    <td colspan="2"></td>
+    <td colspan="1">4</td>
+    <td colspan="2"></td>
+    <td colspan="3"></td>
+    <td colspan="1"></td>
+    <td colspan="2"></td>
+    <td colspan="1">To-Do</td>
+  </tr>
+  <tr>
+    <td colspan="1"></td>
+    <td colspan="2"></td>
+    <td colspan="1">5</td>
+    <td colspan="2"></td>
+    <td colspan="3"></td>
+    <td colspan="1"></td>
+    <td colspan="2"></td>
+    <td colspan="1">To-Do</td>
+  </tr>
+
+</table>
+
+### 5.2.2.3. Development Evidence for Sprint Review
+
+<table>
+    <tr>
+        <th colspan="2">Repository</th>
+        <th colspan="2">Branch</th>
+        <th colspan="2">Commit Id</th>
+        <th colspan="2">Commit Message</th>
+        <th colspan="2">Commit Message Body</th>
+        <th colspan="2">Commited on (Date)</th>
+    </tr>
+        <tr>
+        <td colspan="2">Aplicaciones-Web-Grupo-CodeRush/Landing-page-MedicDefense</td>
+        <td colspan="2">Develop</td>
+        <td colspan="2"></td>
+        <td colspan="2"></td>
+        <td colspan="2">-</td>
+        <td colspan="2"></td>
+    </tr>
+        <tr>
+        <td colspan="2">Aplicaciones-Web-Grupo-CodeRush/Landing-page-MedicDefense</td>
+        <td colspan="2">Develop</td>
+        <td colspan="2"></td>
+        <td colspan="2"></td>
+        <td colspan="2">-</td>
+        <td colspan="2"></td>
+    </tr><tr>
+        <td colspan="2">Aplicaciones-Web-Grupo-CodeRush/Landing-page-MedicDefense</td>
+        <td colspan="2">Develop</td>
+        <td colspan="2"></td>
+        <td colspan="2"></td>
+        <td colspan="2">-</td>
+        <td colspan="2"></td>
+    </tr>
+    
+</table>
+
+### 5.2.2.4. Testing Suite Evidence for Sprint Review
+
+<table>
+  <thead>
+    <tr>
+      <th>Repository</th>
+      <th>Branch</th>
+      <th>Commit Id</th>
+      <th>Commit Message</th>
+      <th>Commit Message Body</th>
+      <th>Committed on (Date)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Aplicaciones-Web-Grupo-CodeRush/Landing-page-MedicDefense</td>
+      <td>Develop</td>
+      <td></td>
+      <td></td>
+      <td>-</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Aplicaciones-Web-Grupo-CodeRush/Landing-page-MedicDefense</td>
+      <td>Develop</td>
+      <td></td>
+      <td></td>
+      <td>-</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Aplicaciones-Web-Grupo-CodeRush/Landing-page-MedicDefense</td>
+      <td>Develop</td>
+      <td></td>
+      <td></td>
+      <td>-</td>
+      <td></td>
+    </tr>
+  </tbody>
+</table>
+
+
+### 5.2.2.5. Execution Evidence for Sprint Review
+
+Para esta segunda entrega, nuestro equipo a conseguido elaborar la primera versión de Frontend Web Application del proyecto "MedicDefense". De tal modo, se podrá visualizar la información necesaria de lo que ofrece nuestro proyecto.
+
+**Lista de Abogados y Toolbar:**
+
+_AÑADIR EVIDENCIA
+
+**Perfil Abogado:**
+
+_AÑADIR EVIDENCIA
+
+**Busqueda Abogados:**
+
+_AÑADIR EVIDENCIA
+
+**Filtros Abogados:**
+
+_AÑADIR EVIDENCIA
+
+**Sección Resumen:**
+
+_AÑADIR EVIDENCIA
+
+**Sección Suscripción:**
+
+_AÑADIR EVIDENCIA
+
+**Suscripción Pago:**
+
+_AÑADIR EVIDENCIA
+
+**Sección Perfil Usuario:**
+
+_AÑADIR EVIDENCIA
+
+**Editar Perfil Usuario:**
+
+_AÑADIR EVIDENCIA
+
+
+**Enlace al video de Evidencia:**
+
+_AÑADIR VIDEO DE EVIDENCIA_
+
+### 5.2.2.6. Services Documentation Evidence for Sprint Review
+
+Durante este sprint, se ha desarrollado una Fake API de abogados que proporciona información sobre abogados ficticios. La API incluye detalles como el nombre del abogado, años de experiencia, especialización, casos ganados, tarifa por hora, correo electrónico y número de teléfono.
+
+<table>
+  <tr>
+    <th>Endpoint</th>
+    <th>Acción</th>
+    <th>Verbo HTTP</th>
+    <th>Sintaxis de Llamada</th>
+    <th>Parámetros</th>
+    <th>Ejemplo de Llamada</th>
+    <th>Explicación del Response</th>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>-</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>-</td>
+    <td></td>
+    <td></td>
+  </tr>
+</table>
+
+**Capturas de interaccion:** 
+
+_Añadir Capturas Acà_
+
+**Url del repositorio:**
+
+https://github.com/Aplicaciones-Web-Grupo-CodeRush/front-end-app
+
+**Commits relacionados:**
+
+<table>
+    <tr>
+        <th colspan="2">Repository</th>
+        <th colspan="2">Branch</th>
+        <th colspan="2">Commit Id</th>
+        <th colspan="2">Commit Message</th>
+    </tr>
+        <tr>
+        <td colspan="2">Aplicaciones-Web-Grupo-CodeRush/Landing-page-MedicDefense</td>
+        <td colspan="2">Develop</td>
+        <td colspan="2"></td>
+        <td colspan="2"></td>
+    </tr>
+        <tr>
+        <td colspan="2">Aplicaciones-Web-Grupo-CodeRush/Landing-page-MedicDefense</td>
+        <td colspan="2">Develop</td>
+        <td colspan="2"></td>
+        <td colspan="2"></td>
+    </tr>
+</table>    
+
+### 5.2.2.7. Software Deployment Evidence for Sprint Review
+Para el despliegue de la primera version del Frontend Web Application hemos utilizado la plataforma de terceros llamada Netlify. Esta plataforma nos permite el facil acceso a nuestro repositorio de Github, el cual por medio de ciertas configuraciones podemos tener como resultado el despliegue de nuestra primera version del Frontend Web Application.
+
+_AÑADIR EVIDENCIA DEL SOFWTWARE DEPLOYMENT_
+
+
+### 5.2.2.8. Team Collaboration Insights during Sprint
+
+Para el desarrollo de este segundo sprint, todos los miembros del equipo desarrollaron y colaboraron de manera activa y continua. De tal modo, se muestra como evidencia los insights de cada miembro del equipo.
+
+**Commits:**
+
+_AÑADIR EVIDENCIA DE COMMITS_
+
+**Network Graph:**
+
+_AÑADIR EVIDENCIA NETWORK GRAPH_
+
+
+
+
 ## 5.3. Conclusiones
 
 1. Existe una clara necesidad en el mercado médico de servicios especializados en asesoramiento legal y oportunidades laborales específicas en el campo de la anestesiología. La falta de acceso a expertos legales especializados y recursos para una defensa adecuada crea un ambiente de incertidumbre y estrés para los médicos que enfrentan desafíos legales, lo que afecta negativamente su bienestar emocional, su calidad de atención médica y la confianza del paciente. Esta necesidad presenta una oportunidad para la startup de llenar este vacío en el mercado, proporcionando una plataforma tecnológica que conecte a médicos, estudiantes y profesionales del peritaje en anestesiología con peritos, recursos educativos y oportunidades laborales.
