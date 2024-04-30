@@ -418,31 +418,76 @@ En este apartado, se pueden editar los datos de la cuenta, similar al proceso de
 
 User Task: El usuario abre MedicDefense, ingresa sus datos y registra su cuenta en la aplicación.
 
+Unhappy paths:
+
+- La imagen falló durante la verificación. Puede volver a intentarlo.
+- El nombre de usuario ya está tomado. Puede volver a intentarlo.
+- La contraseña y su confirmación son inválidas. Puede volver a intentarlo.
+- El correo ya estaba registrado. Puede volver a intentarlo.
+
 ![User Goal 1](../assets/imgs/userflow1.png)
 
 **User Flow User Goal 2 (Como médico quiero contactar a un abogado y pagarle sus servicios)**
 
 User Task: El usuario inicia sesión en MedicDefense, selecciona a un abogado, identifica sus canales de contacto y, posteriormente, le paga.
 
-![User Goal 2](../assets/imgs/userflow2.png)
+![User Goal 2a](../assets/imgs/userflowi.png)
+![User Goal 2b](../assets/imgs/userflow2.png)
+
+Unhappy paths:
+
+- El usuario no existe. Puede pasar al proceso de registro o volver a intentarlo.
+- La contraseña es inválida. Puede recuperar la contraseña o volver a intentarlo.
+- El correo enviado para la recuperación de contraseña es inválido.
+- No hay abogados registrados. El usuario no puede hacer nada.
+- Intenta solicitar una consulta sin suscripción. Puede adquirir una suscripción.
+- La información de pago es inválida. Puede volver a intentarlo.
 
 **User Flow User Goal 3 (Como estudiante de medicina quiero solicitar una consulta de un abogado)**
 
 User Task: El usuario inicia sesión en MedicDefense, adquiere una suscripción, selecciona a un abogado y solicita una consulta.
 
-![User Goal 3](../assets/imgs/userflow3.png)
+![User Goal 3a](../assets/imgs/userflowi.png)
+![User Goal 3b](../assets/imgs/userflow3.png)
+
+Unhappy paths:
+
+- El usuario no existe. Puede pasar al proceso de registro o volver a intentarlo.
+- La contraseña es inválida. Puede recuperar la contraseña o volver a intentarlo.
+- El correo enviado para la recuperación de contraseña es inválido.
+- Va al apartado de suscripción a pesar de haber adquirido una. Puede volver al apartado de Abogados.
+- La información de pago es inválida. Puede volver a intentarlo.
 
 **User Flow User Goal 4 (Como médico quiero cancelar mi suscripción según mis gastos)**
 
 User Task: El usuario inicia sesión en MedicDefense, revisa su resumen, abre el detalle de su último servicio y cancela su suscripción.
 
-![User Goal 4](../assets/imgs/userflow4.png)
+![User Goal 4a](../assets/imgs/userflowi.png)
+![User Goal 4b](../assets/imgs/userflow4.png)
+
+Unhappy paths:
+
+- El usuario no existe. Puede pasar al proceso de registro o volver a intentarlo.
+- La contraseña es inválida. Puede recuperar la contraseña o volver a intentarlo.
+- El correo enviado para la recuperación de contraseña es inválido.
+- No hay servicios o consultas registradas. El usuario no puede hacer nada.
+- El usuario no tiene una suscripción que cancelar. El usuario no puede hacer nada.
 
 **User Flow User Goal 5 (Como estudiante de medicina quiero cambiar mis datos registrados)**
 
 User Task: El usuario inicia sesión en MedicDefense, va a su perfil, selecciona la opción de editar perfil, y guarda los cambios.
 
-![User Goal 5](../assets/imgs/userflow5.png)
+![User Goal 5a](../assets/imgs/userflowi.png)
+![User Goal 5b](../assets/imgs/userflow5.png)
+
+Unhappy paths:
+
+- El usuario no existe. Puede pasar al proceso de registro o volver a intentarlo.
+- La contraseña es inválida. Puede recuperar la contraseña o volver a intentarlo.
+- El correo enviado para la recuperación de contraseña es inválido.
+- La imagen falló durante la verificación. Puede volver a intentarlo.
+- La contraseña y su confirmación son inválidas. Puede volver a intentarlo.
+- El DNI es inválido. Puede volver a intentarlo.
 
 ## 4.5. Web Applications Prototyping
 
