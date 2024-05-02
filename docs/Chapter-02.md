@@ -42,6 +42,17 @@ La entrevista se realiza con el objetivo de obtener mayor información acerca de
 
 ### 2.2.1 Diseño de entrevistas  
 
+**Preguntas Generales**
+
+- ¿Cual es su nombre y que edad tiene?
+- Actualmente, ¿Donde vive?
+- En el aspecto profesional, ¿Cómo se ve a ud mismo(a)?
+- Vamos relacionandonos un poco mas al tema tecnologico ¿Cuál es la herramienta tecnologica que mas usa?
+- ¿Cuáles son las aplicaciones que mas ha usado en este ultimo tiempo?
+- ¿Considera que la propaganda que se expone hoy en dia en las apps mas usadas es invasiva?
+- ¿Cuales son los dispositivos que utilizas?
+- ¿Que tipo de navegador utilizas?
+
 **Preguntas para Doctores**
 
 - Presentación (Nombre, lugar en el que trabaja y rol que desempeña)
@@ -50,6 +61,7 @@ La entrevista se realiza con el objetivo de obtener mayor información acerca de
 - ¿Alguna vez has tenido algún problema medico con algún paciente? En caso que no, ¿Conoces algún caso?
 - ¿Conoces a alguien que haya tenido algún problema con algún paciente, o con la familia del mismo por el resultado de su cirugía?
 - Si tuviera algún problema con el resultado de la cirugía de tu paciente, ¿Qué harías? ¿Buscarías ayuda profesional?
+- 
 
 **Preguntas para Estudiantes de Medicina**
 
