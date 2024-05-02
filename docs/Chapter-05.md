@@ -1073,11 +1073,11 @@ Para el desarrollo de este segundo sprint, todos los miembros del equipo desarro
 
 **Commits:**
 
-_AÑADIR EVIDENCIA DE COMMITS_
+![alt text](../assets/imgs/CommitsEvidenceFront.png)
 
 **Network Graph:**
 
-_AÑADIR EVIDENCIA NETWORK GRAPH_
+![alt text](../assets/imgs/NetworkGraphEvidenceFront.png)
 
 
 
