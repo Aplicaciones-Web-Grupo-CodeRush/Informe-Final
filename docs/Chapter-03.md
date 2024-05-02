@@ -237,55 +237,55 @@ Los User Stories sirven para describir de manera más detallada las diferentes f
     <tr>
     <td>HU21</td>
         <td>Base de datos de usuarios</td>
-        <td>Como administrador, quiero implementar una base de datos segura y escalable, para proteger y gestionar eficazmente la información de los usuarios.</td>
-        <td>Scenario: Acceder a datos de usuario para auditorías internas.<br>
-    <br>GIVEN que el administrador necesita verificar la integridad de los datos de los usuarios,<br>
-    <br>WHEN realiza una consulta en la base de datos,<br>
-    <br>THEN la base de datos valida los permisos del administrador,<br>
-    <br>AND proporciona los datos solicitados de manera rápida y segura.</td>
-        <td>EP05</td>
+        <td>Como usuario de la plataforma MedicDefense, quiero que haya una base de datos segura y escalable, para proteger y gestionar eficazmente mi información personal.</td>
+<td>Scenario: Acceder a mis datos para auditorías internas.<br>
+<br>GIVEN que necesito verificar la integridad de mis datos en la plataforma,<br>
+<br>WHEN realizo una solicitud de acceso a mis datos personales,<br>
+<br>THEN la plataforma valida mis credenciales,<br>
+<br>AND me proporciona mis datos solicitados de manera rápida y segura, garantizando la confidencialidad y la integridad de mi información.</td>
+<td>EP05</td>
     </tr>
     <td>HU22</td>
         <td>API para gestión de perfiles</td>
-        <td>Como desarrollador, quiero APIs robustas para crear, editar y eliminar perfiles de usuario.</td>
+        <td>Como usuario de la plataforma MedicDefense, quiero que existan APIs robustas para crear, editar y eliminar perfiles de usuario, para poder gestionar mi información de manera segura y eficiente.</td>
         <td>Scenario: Un administrador necesita actualizar información de un perfil por motivos de seguridad.<br>
-    <br>GIVEN que un perfil de usuario necesita actualización urgente,<br>
-    <br>WHEN el administrador modifica y guarda los cambios en el perfil,<br>
-    <br>AND confirma la operación,<br>
-    <br>THEN la API actualiza los datos en la base de datos,<br>
-    <br>AND notifica al administrador que la actualización fue exitosa.
-    </td>
-        <td>EP06</td>
+    <td>Scenario: Actualizar información de mi perfil por motivos de seguridad.<br>
+<br>GIVEN que necesito actualizar mi perfil urgentemente,<br>
+<br>WHEN modifico y guardo los cambios en mi perfil,<br>
+<br>AND confirmo la operación,<br>
+<br>THEN la API actualiza los datos en la base de datos,<br>
+<br>AND recibo una notificación indicando que la actualización fue exitosa.</td>
+<td>EP06</td>
     </tr>
     <td>HU23</td>
         <td>Logging de Actividades</td>
-        <td>Como administrador, quiero un sistema de logging robusto para registrar la actividad en la plataforma, facilitando la auditoría y la detección temprana de problemas.</td>
+        <td>Como usuario de la plataforma MedicDefense, quiero que exista un sistema de logging robusto para registrar la actividad en la plataforma, facilitando la auditoría y la detección temprana de problemas.</td>
         <td>Scenario: Registrar una actividad crítica para la auditoría de seguridad.<br>
-    <br>GIVEN que se lleva a cabo una acción crítica en la plataforma,<br>
-    <br>WHEN la acción es ejecutada,<br>
-    <br>THEN el sistema registra detalladamente la acción en los logs de seguridad,<br>
-    <br>AND notifica a los administradores de seguridad sobre la actividad registrada.</td>
-        <td>EP05</td>
+<br>GIVEN que se lleva a cabo una acción crítica en la plataforma,<br>
+<br>WHEN la acción es ejecutada,<br>
+<br>THEN el sistema registra detalladamente la acción en los logs de seguridad,<br>
+<br>AND se me notifica sobre la actividad registrada.</td>
+<td>EP05</td>
     </tr>
     <td>HU24</td>
         <td>API para búsqueda por filtros</td>
-        <td>Como desarrollador, quiero crear una API para búsquedas por filtros, para mejorar la accesibilidad de la información.</td>
-        <td>Scenario: Administrar búsquedas avanzadas para encontrar registros específicos de usuarios.<br>
-    <br>GIVEN que el administrador necesita encontrar perfiles específicos basados en criterios complejos,<br>
-    <br>WHEN utiliza la API de búsqueda por filtros en la interfaz de administración,<br>
-    <br>THEN la API proporciona resultados precisos y rápidos, ayudando al administrador a gestionar eficientemente la información.</td>
-        <td>EP06</td>
+        <td>Como usuario de la plataforma MedicDefense, quiero que exista una API para búsquedas por filtros, para mejorar la accesibilidad de la información y facilitar la búsqueda de perfiles específicos.</td>
+        <td>Scenario: Buscar perfiles específicos basados en criterios complejos.<br>
+<br>GIVEN que necesito encontrar perfiles específicos basados en criterios complejos,<br>
+<br>WHEN utilizo la API de búsqueda por filtros en la interfaz de la plataforma,<br>
+<br>THEN la API proporciona resultados precisos y rápidos, ayudándome a gestionar eficientemente la información.</td>
+<td>EP06</td>
     </tr>
     <td>HU25</td>
         <td>Servicio de notificaciones</td>
-        <td>Como desarrollador, quiero implementar un servicio de notificaciones, para mantener a los usuarios informados.</td>
-        <td>Scenario: Notificar a los usuarios sobre una actualización de seguridad importante.<br>
-    <br>GIVEN que se ha emitido una actualización de seguridad,<br>
-    <br>WHEN el sistema procesa la actualización,<br>
-    <br>AND identifica los usuarios afectados,<br>
-    <br>THEN el servicio de notificaciones envía automáticamente alertas,<br>
-    <br>AND los usuarios reciben las notificaciones en tiempo real.</td>
-        <td>EP06</td>
+        <td>Como usuario de la plataforma MedicDefense, quiero que exista un servicio de notificaciones, para mantenerme informado sobre actualizaciones importantes y eventos relevantes en la plataforma.</td>
+        <td>Scenario: Recibir notificaciones sobre una actualización de seguridad importante.<br>
+<br>GIVEN que se ha emitido una actualización de seguridad,<br>
+<br>WHEN el sistema procesa la actualización,<br>
+<br>AND identifica que soy un usuario afectado,<br>
+<br>THEN el servicio de notificaciones me envía automáticamente una alerta,<br>
+<br>AND recibo la notificación en tiempo real.</td>
+<td>EP06</td>
     </tr>
     <td>HU26</td>
         <td>Soporte para múltiples navegadores</td>
@@ -299,111 +299,108 @@ Los User Stories sirven para describir de manera más detallada las diferentes f
     <tr>
     <td>HU27</td>
     <td>Configuración de la base de datos</td>
-    <td>Como desarrollador, necesito diseñar y configurar la estructura de la base de datos para almacenar la información de los abogados, incluyendo campos como nombre, especialidad y ubicación.</td>
-    <td>Scenario: Configuración de la base de datos<br><br>GIVEN el desarrollador necesita configurar la base de datos para almacenar la información de los abogados<br><br>WHEN define la estructura de la tabla 'abogados' con los campos requeridos como nombre, especialidad y ubicación,<br><br>THEN la base de datos está configurada correctamente para almacenar la información de los abogados.</td>
-    <td>EP06</td>
+    <td>Como usuario de la plataforma MedicDefense, confío en que los desarrolladores diseñarán y configurarán correctamente la estructura de la base de datos para almacenar la información de los abogados, lo que garantizará un servicio óptimo.</td>
+<td>Scenario: Configuración de la base de datos<br><br>GIVEN que los desarrolladores necesitan configurar la base de datos para almacenar la información de los abogados,<br><br>WHEN definen la estructura de la tabla 'abogados' con los campos requeridos como nombre, especialidad y ubicación,<br><br>THEN la base de datos estará configurada correctamente para almacenar la información de los abogados.</td>
+<td>EP06</td>
   </tr>
   <tr>
     <td>HU28</td>
     <td>Desarrollo del frontend para la lista de abogados</td>
-    <td>Como desarrollador, necesito crear componentes en el frontend para mostrar la lista de abogados y diseñar la interfaz de usuario utilizando la biblioteca Angular.</td>
-    <td>Scenario: Desarrollo del frontend para la lista de abogados<br><br>GIVEN el desarrollador necesita mostrar la lista de abogados en el frontend<br><br>WHEN crea componentes en el frontend para mostrar la lista de abogados,<br><br>THEN la lista de abogados se muestra correctamente en la interfaz de usuario.</td>
-    <td>EP06</td>
+    <td>Como usuario de la plataforma MedicDefense, espero que los desarrolladores creen componentes en el frontend para mostrar la lista de abogados de manera clara y que la interfaz de usuario sea fácil de usar.</td>
+<td>Scenario: Desarrollo del frontend para la lista de abogados<br><br>GIVEN que necesito ver la lista de abogados en el frontend,<br><br>WHEN se crean componentes en el frontend para mostrar la lista de abogados,<br><br>THEN la lista de abogados se muestra correctamente en la interfaz de usuario.</td>
+<td>EP06</td>
   </tr>
   <tr>
     <td>HU29</td>
     <td>Integración del toolbar</td>
-    <td>Como desarrollador, necesito implementar un toolbar en el frontend y conectarlo con las diferentes opciones de la aplicación, asegurando una navegación fluida entre las secciones.</td>
-    <td>Scenario: Integración del toolbar<br><br>GIVEN el desarrollador necesita integrar un toolbar en el frontend<br><br>WHEN conecta el toolbar con las diferentes opciones de la aplicación,<br><br>THEN la navegación entre las secciones es fluida y sin problemas.</td>
-    <td>EP06</td>
+    <td>Como usuario de la plataforma MedicDefense, espero que los desarrolladores implementen un toolbar en el frontend que me permita navegar fácilmente entre las diferentes secciones de la aplicación.</td>
+<td>Scenario: Integración del toolbar<br><br>GIVEN que necesito acceder a diferentes opciones de la aplicación,<br><br>WHEN el toolbar se conecta con las diferentes opciones de la aplicación,<br><br>THEN la navegación entre las secciones es fluida y sin problemas.</td>
+<td>EP06</td>
   </tr>
   <tr>
     <td>HU30</td>
     <td>Estilizado y diseño responsivo</td>
-    <td>Como desarrollador, necesito aplicar estilos CSS para garantizar un diseño atractivo y responsivo en todas las páginas de la aplicación, utilizando frameworks como Bootstrap o Material-UI.</td>
-    <td>Scenario: Estilizado y diseño responsivo<br><br>GIVEN el desarrollador necesita aplicar estilos CSS para garantizar un diseño atractivo y responsivo<br><br>WHEN aplica estilos CSS utilizando frameworks como Bootstrap o Material-UI,<br><br>THEN el diseño de la aplicación es atractivo y compatible con diferentes tamaños de pantalla y dispositivos.</td>
-    <td>EP06</td>
+    <td>Como usuario de la plataforma MedicDefense, espero que los desarrolladores apliquen estilos CSS que garanticen un diseño atractivo y responsivo en todas las páginas de la aplicación, para una experiencia de usuario óptima.</td>
+<td>Scenario: Estilizado y diseño responsivo<br><br>GIVEN que necesito una experiencia visual atractiva y compatible con diferentes dispositivos,<br><br>WHEN se aplican estilos CSS utilizando frameworks como Bootstrap o Material-UI,<br><br>THEN el diseño de la aplicación es atractivo y compatible con diferentes tamaños de pantalla y dispositivos.</td>
+<td>EP06</td>
   </tr>
   <tr>
     <td>HU31</td>
     <td>Implementación de la funcionalidad de búsqueda de abogados</td>
-    <td>Como desarrollador, necesito agregar una función de búsqueda en la página de lista de abogados para que los usuarios puedan buscar abogados por nombre o especialidad.</td>
-    <td>Scenario: Búsqueda de abogados<br><br>GIVEN el usuario necesita buscar un abogado específico<br><br>WHEN utiliza la función de búsqueda en la página de lista de abogados y proporciona un término de búsqueda,<br><br>THEN se muestran los resultados relevantes que coinciden con el término de búsqueda.</td>
-    <td>EP06</td>
+    <td>Como usuario de la plataforma MedicDefense, espero que los desarrolladores agreguen una función de búsqueda en la página de lista de abogados para que pueda encontrar abogados por nombre o especialidad de manera fácil y rápida.</td>
+<td>Scenario: Búsqueda de abogados<br><br>GIVEN que necesito buscar un abogado específico,<br><br>WHEN utilizo la función de búsqueda en la página de lista de abogados y proporciono un término de búsqueda,<br><br>THEN se muestran los resultados relevantes que coinciden con el término de búsqueda.</td>
+<td>EP06</td>
   </tr>
   <tr>
     <td>HU32</td>
     <td>Implementación de la paginación de resultados</td>
-    <td>Como desarrollador, necesito agregar funcionalidad de paginación en la página de lista de abogados para manejar grandes cantidades de resultados y mejorar la experiencia del usuario.</td>
-    <td>Scenario: Paginación de resultados<br><br>GIVEN el usuario necesita navegar por una larga lista de abogados<br><br>WHEN se muestra una lista de abogados con múltiples páginas de resultados,<br><br>THEN el usuario puede navegar fácilmente entre las páginas utilizando los controles de paginación.</td>
-    <td>EP06</td>
+    <td>Como usuario de la plataforma MedicDefense, espero que los desarrolladores agreguen funcionalidad de paginación en la página de lista de abogados para que pueda navegar fácilmente por una larga lista de abogados.</td>
+<td>Scenario: Paginación de resultados<br><br>GIVEN que necesito navegar por una larga lista de abogados,<br><br>WHEN se muestra una lista de abogados con múltiples páginas de resultados,<br><br>THEN puedo navegar fácilmente entre las páginas utilizando los controles de paginación.</td>
+<td>EP06</td>
   </tr>
     <tr>
     <td>HU33</td>
     <td>Implementar card que se superpone para mostrar perfiles de abogados</td>
-    <td>Como desarrollador quiero implementar un card que se superpone para mostrar los perfiles completos de los abogados seleccionados.</td>
-    <td>Scenario: Visualización del perfil completo de un abogado en un card que se superpone<br><br>GIVEN la necesidad de mostrar información detallada de los abogados de manera legible y organizada,<br><br>WHEN se desarrolla un card que se superpone para contener la información del perfil del abogado,<br><br>THEN se asegura una presentación clara y consistente de la información del abogado.</td>
-    <td>EP06</td>
+    <td>Implementar card que se superpone para mostrar perfiles de abogados</td>
+<td>Como usuario de la plataforma MedicDefense, espero que los desarrolladores implementen un card que se superpone para mostrar los perfiles completos de los abogados seleccionados de manera clara y organizada.</td>
+<td>Scenario: Visualización del perfil completo de un abogado en un card que se superpone<br><br>GIVEN que necesito ver la información detallada de un abogado,<br><br>WHEN se selecciona un abogado y se abre su perfil completo en el card que se superpone,<br><br>THEN se muestra claramente la información detallada del abogado seleccionado.</td>
+<td>EP06</td>
     </tr>
     <tr>
     <td>HU34</td>
     <td>Implementar método para cargar información de abogado en el card que se superpone</td>
-    <td>Como desarrollador quiero implementar un método para cargar dinámicamente la información completa de un abogado seleccionado, para proporcionar a los usuarios una experiencia fluida y sin problemas al explorar perfiles de abogados.</td>
-    <td>Scenario: Carga dinámica de información del abogado en el card que se superpone<br><br>GIVEN la necesidad de cargar información detallada de un abogado seleccionado en el card que se superpone,<br><br>WHEN se selecciona un abogado y se abre su perfil completo en el card que se superpone,<br><br>THEN se carga dinámicamente la información detallada del abogado seleccionado en el card que se superpone.</td>
-    <td>EP06</td>
+    <td>Como usuario de la plataforma MedicDefense, espero que los desarrolladores implementen un método para cargar dinámicamente la información completa de un abogado seleccionado en el card que se superpone, para una experiencia de usuario fluida y sin problemas al explorar perfiles de abogados.</td>
+<td>Scenario: Carga dinámica de información del abogado en el card que se superpone<br><br>GIVEN que necesito ver la información detallada de un abogado seleccionado,<br><br>WHEN se selecciona un abogado y se abre su perfil completo en el card que se superpone,<br><br>THEN se carga dinámicamente la información detallada del abogado seleccionado en el card que se superpone.</td>
+<td>EP06</td>
     </tr>
     <tr>
     <td>HU35</td>
     <td>Implementación de la Entidad de Usuario</td>
-    <td>Como desarrollador, quiero crear la entidad de usuario con todos los atributos necesarios para representar a médicos y estudiantes en la plataforma.
-</td>
-    <td>Scenario: Creación de la entidad de usuario<br><br>GIVEN el desarrollador necesita representar a los usuarios en el sistema,<br><br>WHEN define y crea la entidad de usuario con atributos como ID, nombre, especialidad, correo electrónico, contraseña, etc,<br><br>THEN la entidad está disponible en el sistema para ser utilizada en otras funcionalidades de la plataforma.</td>
-    <td>EP01</td>
+    <td>Como usuario de la plataforma MedicDefense, espero que los desarrolladores creen la entidad de usuario con todos los atributos necesarios para representar a médicos y estudiantes de medicina, lo que asegurará una gestión adecuada de la información.</td>
+<td>Scenario: Creación de la entidad de usuario<br><br>GIVEN que los desarrolladores necesitan representar a los usuarios en el sistema,<br><br>WHEN definen y crean la entidad de usuario con atributos como ID, nombre, especialidad, correo electrónico, contraseña, etc.,<br><br>THEN la entidad está disponible en el sistema para ser utilizada en otras funcionalidades de la plataforma.</td>
+<td>EP01</td>
     </tr>
     <tr>
     <td>HU36</td>
     <td>Diseño de la Sección de Perfil de Usuario</td>
-    <td>Como desarrollador, quiero crear una sección de perfil para usuarios que muestre claramente la información del médico o estudiante de medicina.
-</td>
-    <td>Scenario: Diseño del perfil de usuario<br><br>GIVEN el desarrollador necesita mostrar información del usuario de manera organizada,<br><br>WHEN diseña la sección de perfil de usuario incluyendo campos como nombre, especialidad, y datos de contacto,<br><br>THEN la sección de perfil se muestra de forma atractiva y es fácil de navegar para el usuario.</td>
-    <td>EP01</td>
+    <td>Como usuario de la plataforma MedicDefense, espero que los desarrolladores diseñen la sección de perfil para que muestre claramente mi información de médico o estudiante de medicina de manera organizada y fácil de entender.</td>
+<td>Scenario: Diseño del perfil de usuario<br><br>GIVEN que necesito ver mi información de usuario de manera organizada,<br><br>WHEN diseño la sección de perfil de usuario incluyendo campos como nombre, especialidad, y datos de contacto,<br><br>THEN la sección de perfil se muestra de forma atractiva y es fácil de navegar para mí.</td>
+<td>EP01</td>
     </tr>
     <tr>
     <td>HU37</td>
     <td>Diseño de la Interfaz de Edición de Perfil de Usuario</td>
-    <td>Como desarrollador, quiero diseñar la interfaz de edición de perfil para que los usuarios visualicen de manera clara los campos que pueden modificar en su perfil.
-</td>
-    <td>Scenario: Diseño de la interfaz de edición de perfil<br><br>GIVEN un usuario desea ver su perfil para posibles actualizaciones,<br><br>WHEN accede a la opción 'Editar Perfil' en la plataforma,<br><br>THEN se muestra una interfaz con los campos de su perfil actual, como nombre, especialidad, correo electrónico, entre otros, listos para ser editados.</td>
-    <td>EP01</td>
+    <td>Como usuario de la plataforma MedicDefense, espero que los desarrolladores diseñen la interfaz de edición de perfil para que pueda ver claramente los campos que puedo modificar en mi perfil y realizar cambios fácilmente.</td>
+<td>Scenario: Diseño de la interfaz de edición de perfil<br><br>GIVEN que deseo actualizar mi perfil,<br><br>WHEN accedo a la opción 'Editar Perfil' en la plataforma,<br><br>THEN se muestra una interfaz con los campos de mi perfil actual listos para ser editados.</td>
+<td>EP01</td>
     </tr>
     <tr>
     <td>HU38</td>
     <td>Diseño de la Interfaz de Edición de Filtros</td>
-    <td>Como desarrollador, quiero diseñar la interfaz de filtros para que los usuarios visualicen de manera clara los campos que pueden seleccionar.
-</td>
-    <td>Scenario: Diseño de la interfaz de filtros<br><br>GIVEN un usuario desea buscar algo aplicando cierto filtro,<br><br>WHEN accede a la opción 'Filtro' en la plataforma,<br><br>THEN se muestra una interfaz con todas las opciones de filtros que estan disponibles.</td>
-    <td>EP01</td>
+    <td>Como usuario de la plataforma MedicDefense, espero que los desarrolladores diseñen la interfaz de filtros para que pueda ver claramente las opciones de filtro disponibles y seleccionarlas fácilmente según mis necesidades.</td>
+<td>Scenario: Diseño de la interfaz de filtros<br><br>GIVEN que necesito buscar algo aplicando cierto filtro,<br><br>WHEN accedo a la opción 'Filtro' en la plataforma,<br><br>THEN se muestra una interfaz con todas las opciones de filtros disponibles.</td>
+<td>EP01</td>
     </tr>
     <tr>
     <td>HU39</td>
     <td>Diseño de la sección Suscripciones</td>
-    <td>Como desarrollador, quiero implementar la sección de suscripción para obtener ayuda legal en caso de cometer alguna negligencia médica, para estar protegido legalmente.</td>
-    <td>Scenario: Suscripción para ayuda legal<br><br>GIVEN soy un médico autenticado en la plataforma,<br><br>WHEN selecciono la opción de suscripción para obtener ayuda legal,<br><br>THEN se me presenta una lista de planes de suscripción disponibles.</td>
-    <td>EP06</td>
+    <td>Como usuario de la plataforma MedicDefense, espero que los desarrolladores implementen la sección de suscripción para que pueda obtener ayuda legal en caso de necesitarlo, lo que me brindará seguridad y tranquilidad.</td>
+<td>Scenario: Suscripción para ayuda legal<br><br>GIVEN que soy un usuario autenticado en la plataforma,<br><br>WHEN selecciono la opción de suscripción para obtener ayuda legal,<br><br>THEN se me presenta una lista de planes de suscripción disponibles.</td>
+<td>EP06</td>
     </tr>
     <tr>
     <td>HU40</td>
     <td>Diseño de la interfaz Suscripciones</td>
-    <td>Como desarrollador, quiero implementar una interfaz donde se puede ver los detalles de la suscripción actual, para ver el plan seleccionado.</td>
-    <td>Scenario: Ver detalles de la suscripción<br><br>GIVEN estoy en la sección de suscripciones,<br><br>WHEN selecciono la opción "adquirir",<br><br>THEN se me presenta un apartado donde se ve los detalles de la suscripción.</td>
-    <td>EP06</td>
+    <td>Como usuario de la plataforma MedicDefense, espero que los desarrolladores implementen una interfaz donde pueda ver claramente los detalles de mi suscripción actual y el plan seleccionado.</td>
+<td>Scenario: Ver detalles de la suscripción<br><br>GIVEN que estoy en la sección de suscripciones,<br><br>WHEN selecciono la opción "adquirir",<br><br>THEN se me presenta un apartado donde puedo ver los detalles de mi suscripción.</td>
+<td>EP06</td>
     </tr>
     <tr>
     <td>HU41</td>
     <td>Diseño de la interfaz de pago Suscripciones</td>
-    <td>Como desarollador, quiero implementar una interfaz donde se pueda ingresar los detalles de una tarjeta de crédito y el monto a pagar, para completar el proceso de pago de la suscripción</td>
-    <td>Scenario: Ingreso de detalles de pago<br><br>GIVEN soy un usuario,<br><br>WHEN selecciono la opción "adquirir",<br><br>THEN se me presenta una interfaz para poner los detalles de pago como tarjeta y monto a pagar.</td>
-    <td>EP06</td>
+    <td>Como usuario de la plataforma MedicDefense, espero que los desarrolladores implementen una interfaz donde pueda ingresar fácilmente los detalles de mi tarjeta de crédito y el monto a pagar para completar el proceso de pago de la suscripción de manera segura y sin complicaciones.</td>
+<td>Scenario: Ingreso de detalles de pago<br><br>GIVEN que soy un usuario,<br><br>WHEN selecciono la opción "adquirir",<br><br>THEN se me presenta una interfaz para ingresar los detalles de pago como tarjeta y monto a pagar.</td>
+<td>EP06</td>
     </tr>
 </table>
 
