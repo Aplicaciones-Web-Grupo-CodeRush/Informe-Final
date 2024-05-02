@@ -559,56 +559,165 @@ una de las tareas identificadas para el sprint.
     <td colspan="1">Status(To-do /InProcess /To-Review /Done)</td>
 </tr>
   <tr>
-    <td colspan="1"></td>
-    <td colspan="2"></td>
+    <td colspan="1">26</td>
+    <td colspan="2">Soporte para múltiples navegadores</td>
     <td colspan="1">1</td>
-    <td colspan="2"></td>
-    <td colspan="3"></td>
-    <td colspan="1"></td>
-    <td colspan="2"></td>
-    <td colspan="1">To-Do</td>
-  </tr>
-  <tr>
-    <td colspan="1"></td>
-    <td colspan="2"></td>
-    <td colspan="1">2</td>
-    <td colspan="2"></td>
-    <td colspan="3"></td>
-    <td colspan="1"></td>
-    <td colspan="2"></td>
-    <td colspan="1">To-Do</td>
-  </tr>
-  <tr>
-    <td colspan="1"></td>
-    <td colspan="2"></td>
-    <td colspan="1">3</td>
-    <td colspan="2"></td>
-    <td colspan="3"></td>
-    <td colspan="1"></td>
-    <td colspan="2"></td>
-    <td colspan="1">To-Do</td>
-  </tr>
-  <tr>
-    <td colspan="1"></td>
-    <td colspan="2"></td>
-    <td colspan="1">4</td>
-    <td colspan="2"></td>
-    <td colspan="3"></td>
-    <td colspan="1"></td>
-    <td colspan="2"></td>
-    <td colspan="1">To-Do</td>
-  </tr>
-  <tr>
-    <td colspan="1"></td>
-    <td colspan="2"></td>
+    <td colspan="2">Añadir soporte para múltiples navegadores</td>
+    <td colspan="3">Como desarrollador, quiero garantizar la compatibilidad en múltiples navegadores, para una experiencia de usuario uniforme.</td>
     <td colspan="1">5</td>
-    <td colspan="2"></td>
-    <td colspan="3"></td>
-    <td colspan="1"></td>
-    <td colspan="2"></td>
-    <td colspan="1">To-Do</td>
+    <td colspan="2">Gabriel</td>
+    <td colspan="1">Done</td>
   </tr>
-
+  <tr>
+    <td colspan="1">27</td>
+    <td colspan="2">Configuración de la base de datos</td>
+    <td colspan="1">2</td>
+    <td colspan="2">Configurar la base de datos como Fake-Api</td>
+    <td colspan="3">Como usuario de la plataforma, confío en que se configure la base de datos de manera adecuada para garantizar la integridad y seguridad de la información de los abogados.</td>
+    <td colspan="1">3</td>
+    <td colspan="2">Gabriel</td>
+    <td colspan="1">Done</td>
+  </tr>
+  <tr>
+    <td colspan="1">28</td>
+    <td colspan="2">Desarrollo del frontend para la lista de abogados</td>
+    <td colspan="1">3</td>
+    <td colspan="2">Añadir visualización de la lista de abogados</td>
+    <td colspan="3">Como usuario de la plataforma, espero que se desarrolle el frontend para mostrar la lista de abogados de forma clara y que la interfaz sea amigable para facilitar la búsqueda.</td>
+    <td colspan="1">3</td>
+    <td colspan="2">Gabriel</td>
+    <td colspan="1">Done</td>
+  </tr>
+  <tr>
+    <td colspan="1">30</td>
+    <td colspan="2">Integración del toolbar	</td>
+    <td colspan="1">4</td>
+    <td colspan="2">Añadir visualización del Toolbar</td>
+    <td colspan="3">Como usuario de la plataforma, deseo tener un toolbar integrado que facilite la navegación entre las diferentes secciones de la aplicación.</td>
+    <td colspan="1">3</td>
+    <td colspan="2">Gabriel</td>
+    <td colspan="1">Done</td>
+  </tr>
+  <tr>
+    <td colspan="1">31</td>
+    <td colspan="2">Implementación de la funcionalidad de búsqueda de abogados</td>
+    <td colspan="1">5</td>
+    <td colspan="2">Añadir Implementación de la funcionalidad de búsqueda de abogados</td>
+    <td colspan="3">Como usuario de la plataforma, deseo tener una función de búsqueda en la página de lista de abogados para encontrar fácilmente profesionales por nombre o especialidad.	</td>
+    <td colspan="1">3</td>
+    <td colspan="2">Gabriel</td>
+    <td colspan="1">Done</td>
+  </tr>
+  <tr>
+    <td colspan="1">32</td>
+    <td colspan="2">Implementación de la paginación de resultados</td>
+    <td colspan="1">6</td>
+    <td colspan="2">Añadir Implementación de la paginación de resultados</td>
+    <td colspan="3">Como usuario de la plataforma, quiero que se agregue funcionalidad de paginación en la página de lista de abogados para facilitar la navegación cuando hay muchos resultados.	</td>
+    <td colspan="1">3</td>
+    <td colspan="2">Gabriel</td>
+    <td colspan="1">Done</td>
+  </tr>
+  <tr>
+    <td colspan="1">06</td>
+    <td colspan="2">Perfil de abogado médico</td>
+    <td colspan="1">7</td>
+    <td colspan="2">Visualizar Perfil de abogado médico	</td>
+    <td colspan="3">Como usuario, quiero poder acceder al perfil completo de un abogado específico al hacer clic en el botón "Perfil".	</td>
+    <td colspan="1">2</td>
+    <td colspan="2">Fabricio</td>
+    <td colspan="1">Done</td>
+  </tr>
+  <tr>
+    <td colspan="1">33</td>
+    <td colspan="2">Implementar card que se superpone para mostrar perfiles de abogados</td>
+    <td colspan="1">8</td>
+    <td colspan="2">Añadir Implementacion de card que se superpone para mostrar perfiles de abogados</td>
+    <td colspan="3">Como desarrollador quiero implementar un card que se superpone para mostrar los perfiles completos de los abogados seleccionados.	</td>
+    <td colspan="1">3</td>
+    <td colspan="2">Fabricio</td>
+    <td colspan="1">Done</td>
+  </tr>
+  <tr>
+    <td colspan="1">34</td>
+    <td colspan="2">Implementar método para cargar información de abogado en el card que se superpone	</td>
+    <td colspan="1">9</td>
+    <td colspan="2">Añadir implementación de método para cargar información de abogado en el card que se superpone	</td>
+    <td colspan="3">Como usuario de la plataforma, quiero que se implemente un método para cargar de manera fluida la información completa de un abogado seleccionado cuando visualizo su perfil.	</td>
+    <td colspan="1">3</td>
+    <td colspan="2">Fabricio</td>
+    <td colspan="1">Done</td>
+  </tr>
+  <tr>
+    <td colspan="1">35</td>
+    <td colspan="2">Implementación de la Entidad de Usuario	</td>
+    <td colspan="1">10</td>
+    <td colspan="2">Añadir implementacion de la entidad de usuario</td>
+    <td colspan="3">Como usuario de la plataforma, espero que se implemente una entidad de usuario para garantizar la gestión adecuada de mi información personal en el sistema.	</td>
+    <td colspan="1">2</td>
+    <td colspan="2">Cesar</td>
+    <td colspan="1">Done</td>
+  </tr>
+  <tr>
+    <td colspan="1">36</td>
+    <td colspan="2">Diseño de la Sección de Perfil de Usuario</td>
+    <td colspan="1">11</td>
+    <td colspan="2">Añadir Diseño de la Sección de Perfil de Usuario </td>
+    <td colspan="3">Como usuario de la plataforma, quiero una sección de perfil que me permita gestionar mi información personal de manera eficiente.	</td>
+    <td colspan="1">3</td>
+    <td colspan="2">Cesar</td>
+    <td colspan="1">Done</td>
+  </tr>
+  <tr>
+    <td colspan="1">37</td>
+    <td colspan="2">Diseño de la Interfaz de Edición de Perfil de Usuario	</td>
+    <td colspan="1">12</td>
+    <td colspan="2">Añadir Diseño de la Interfaz de Edición de Perfil de Usuario	</td>
+    <td colspan="3">Como usuario de la plataforma, quiero una interfaz de edición de perfil intuitiva que me permita modificar fácilmente los campos de mi perfil.	</td>
+    <td colspan="1">5</td>
+    <td colspan="2">Cesar</td>
+    <td colspan="1">Done</td>
+  </tr>
+  <tr>
+    <td colspan="1">39</td>
+    <td colspan="2">Diseño de la sección Suscripciones</td>
+    <td colspan="1">13</td>
+    <td colspan="2">Añadir Diseño de la sección Suscripciones</td>
+    <td colspan="3">Como desarrollador, quiero implementar la sección de suscripción para obtener ayuda legal en caso de cometer alguna negligencia médica, para estar protegido legalmente.	</td>
+    <td colspan="1">3</td>
+    <td colspan="2">Diego</td>
+    <td colspan="1">Done</td>
+  </tr>
+  <tr>
+    <td colspan="1">40</td>
+    <td colspan="2">Diseño de la interfaz Suscripciones</td>
+    <td colspan="1">14</td>
+    <td colspan="2">Añadir Diseño de la interfaz Suscripciones</td>
+    <td colspan="3">Como usuario de la plataforma, quiero una sección de suscripción que me brinde la posibilidad de obtener ayuda legal en caso de cometer alguna negligencia médica, para sentirme protegido legalmente.	</td>
+    <td colspan="1">2</td>
+    <td colspan="2">Diego</td>
+    <td colspan="1">Done</td>
+  </tr>
+  <tr>
+    <td colspan="1">41</td>
+    <td colspan="2">Diseño de la interfaz de pago Suscripciones</td>
+    <td colspan="1">15</td>
+    <td colspan="2">Añadir Diseño de la interfaz de pago Suscripciones</td>
+    <td colspan="3">Como usuario de la plataforma, quiero una interfaz donde pueda ver claramente los detalles de mi suscripción actual, para tener acceso rápido a la información sobre mi plan seleccionado.</td>
+    <td colspan="1">3</td>
+    <td colspan="2">Diego</td>
+    <td colspan="1">Done</td>
+  </tr>
+  <tr>
+    <td colspan="1">03</td>
+    <td colspan="2">Visualizar actividades del Usuario</td>
+    <td colspan="1">16</td>
+    <td colspan="2">Añadir Visualización de actividades del Usuario</td>
+    <td colspan="3">Como usuario de la plataforma de MedicDefense,quiero visualizar la lista de las actividades que realizo para tener un control y orden en las acciones que realizo.	</td>
+    <td colspan="1">3</td>
+    <td colspan="2">Marcelo</td>
+    <td colspan="1">Done</td>
+  </tr>
 </table>
 
 ### 5.2.2.3. Development Evidence for Sprint Review
@@ -625,68 +734,177 @@ una de las tareas identificadas para el sprint.
         <tr>
         <td colspan="2">Aplicaciones-Web-Grupo-CodeRush/Landing-page-MedicDefense</td>
         <td colspan="2">Develop</td>
-        <td colspan="2"></td>
-        <td colspan="2"></td>
+        <td colspan="2">5a902ceb2b8fc480cb3c3fad05cb4ea6d1656ac1</td>
+        <td colspan="2">feat: added lawyers.entity
+</td>
         <td colspan="2">-</td>
-        <td colspan="2"></td>
+        <td colspan="2">1/05/24</td>
     </tr>
         <tr>
         <td colspan="2">Aplicaciones-Web-Grupo-CodeRush/Landing-page-MedicDefense</td>
         <td colspan="2">Develop</td>
-        <td colspan="2"></td>
-        <td colspan="2"></td>
+        <td colspan="2">1a3a5a54820e5c0c10687b280f43c6988d564f62</td>
+        <td colspan="2">feat(lawyerlist): added lawyer-list component.</td>
         <td colspan="2">-</td>
-        <td colspan="2"></td>
-    </tr><tr>
+        <td colspan="2">1/05/24</td>
+    </tr>
+    <tr>
         <td colspan="2">Aplicaciones-Web-Grupo-CodeRush/Landing-page-MedicDefense</td>
         <td colspan="2">Develop</td>
-        <td colspan="2"></td>
-        <td colspan="2"></td>
+        <td colspan="2">c3520a7f63f736d4bb629967a64435b20026786b</td>
+        <td colspan="2">feat(main-view): implemented main view within navigation.</td>
         <td colspan="2">-</td>
-        <td colspan="2"></td>
+        <td colspan="2">1/05/24</td>
     </tr>
-    
+    <tr>
+        <td colspan="2">Aplicaciones-Web-Grupo-CodeRush/Landing-page-MedicDefense</td>
+        <td colspan="2">Develop</td>
+        <td colspan="2">7926d1c6de5f70e87e9d8d37976fc53cd1970897</td>
+        <td colspan="2">feat(lawyer-list): added dependencies with lawyer profile</td>
+        <td colspan="2">-</td>
+        <td colspan="2">1/05/24</td>
+    </tr>
+    <tr>
+        <td colspan="2">Aplicaciones-Web-Grupo-CodeRush/Landing-page-MedicDefense</td>
+        <td colspan="2">Develop</td>
+        <td colspan="2">b6c5ad6556800b554a9b404695d1deceffa969ae</td>
+        <td colspan="2">feat(lawyer-profile): implemented lawyer profile view with navigation</td>
+        <td colspan="2">-</td>
+        <td colspan="2">1/05/24</td>
+    </tr>
+    <tr>
+        <td colspan="2">Aplicaciones-Web-Grupo-CodeRush/Landing-page-MedicDefense</td>
+        <td colspan="2">Develop</td>
+        <td colspan="2">c711a4b78d12f212e76d120aaa76cff23238cd84</td>
+        <td colspan="2">feat(subscription): added subscription component.</td>
+        <td colspan="2">-</td>
+        <td colspan="2">1/05/24</td>
+    </tr>
+    <tr>
+        <td colspan="2">Aplicaciones-Web-Grupo-CodeRush/Landing-page-MedicDefense</td>
+        <td colspan="2">Develop</td>
+        <td colspan="2">e3bc57c85021126f22eccbe676016e8bc495c462</td>
+        <td colspan="2">feat(subscription-pay): added subscription pay component.</td>
+        <td colspan="2">-</td>
+        <td colspan="2">1/05/24</td>
+    </tr>
+    <tr>
+        <td colspan="2">Aplicaciones-Web-Grupo-CodeRush/Landing-page-MedicDefense</td>
+        <td colspan="2">Develop</td>
+        <td colspan="2">ac223cb670df90559da08d292bf2c2b2931b208a</td>
+        <td colspan="2">feat(profile-user): added profile-user component</td>
+        <td colspan="2">-</td>
+        <td colspan="2">1/05/24</td>
+    </tr>
+    <tr>
+        <td colspan="2">Aplicaciones-Web-Grupo-CodeRush/Landing-page-MedicDefense</td>
+        <td colspan="2">Develop</td>
+        <td colspan="2">19dfb1110d3a2fa352ac182190aa86c6b9ae5476</td>
+        <td colspan="2">feat: add profile user component</td>
+        <td colspan="2">-</td>
+        <td colspan="2">1/05/24</td>
+    </tr>
+    <tr>
+        <td colspan="2">Aplicaciones-Web-Grupo-CodeRush/Landing-page-MedicDefense</td>
+        <td colspan="2">Develop</td>
+        <td colspan="2">8460d76f1dbca5da71c88d2a8f4f8b391d695929</td>
+        <td colspan="2">feat(review): Added review list component.</td>
+        <td colspan="2">-</td>
+        <td colspan="2">1/05/24</td>
+    </tr>
 </table>
 
 ### 5.2.2.4. Testing Suite Evidence for Sprint Review
-
 <table>
-  <thead>
     <tr>
-      <th>Repository</th>
-      <th>Branch</th>
-      <th>Commit Id</th>
-      <th>Commit Message</th>
-      <th>Commit Message Body</th>
-      <th>Committed on (Date)</th>
+        <th colspan="2">Repository</th>
+        <th colspan="2">Branch</th>
+        <th colspan="2">Commit Id</th>
+        <th colspan="2">Commit Message</th>
+        <th colspan="2">Commit Message Body</th>
+        <th colspan="2">Commited on (Date)</th>
     </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>Aplicaciones-Web-Grupo-CodeRush/Landing-page-MedicDefense</td>
-      <td>Develop</td>
-      <td></td>
-      <td></td>
-      <td>-</td>
-      <td></td>
+        <tr>
+        <td colspan="2">Aplicaciones-Web-Grupo-CodeRush/Landing-page-MedicDefense</td>
+        <td colspan="2">Develop</td>
+        <td colspan="2">5a902ceb2b8fc480cb3c3fad05cb4ea6d1656ac1</td>
+        <td colspan="2">feat: added lawyers.entity
+</td>
+        <td colspan="2">-</td>
+        <td colspan="2">1/05/24</td>
     </tr>
-    <tr>
-      <td>Aplicaciones-Web-Grupo-CodeRush/Landing-page-MedicDefense</td>
-      <td>Develop</td>
-      <td></td>
-      <td></td>
-      <td>-</td>
-      <td></td>
+        <tr>
+        <td colspan="2">Aplicaciones-Web-Grupo-CodeRush/Landing-page-MedicDefense</td>
+        <td colspan="2">Develop</td>
+        <td colspan="2">1a3a5a54820e5c0c10687b280f43c6988d564f62</td>
+        <td colspan="2">feat(lawyerlist): added lawyer-list component.</td>
+        <td colspan="2">-</td>
+        <td colspan="2">1/05/24</td>
     </tr>
     <tr>
-      <td>Aplicaciones-Web-Grupo-CodeRush/Landing-page-MedicDefense</td>
-      <td>Develop</td>
-      <td></td>
-      <td></td>
-      <td>-</td>
-      <td></td>
+        <td colspan="2">Aplicaciones-Web-Grupo-CodeRush/Landing-page-MedicDefense</td>
+        <td colspan="2">Develop</td>
+        <td colspan="2">c3520a7f63f736d4bb629967a64435b20026786b</td>
+        <td colspan="2">feat(main-view): implemented main view within navigation.</td>
+        <td colspan="2">-</td>
+        <td colspan="2">1/05/24</td>
     </tr>
-  </tbody>
+    <tr>
+        <td colspan="2">Aplicaciones-Web-Grupo-CodeRush/Landing-page-MedicDefense</td>
+        <td colspan="2">Develop</td>
+        <td colspan="2">7926d1c6de5f70e87e9d8d37976fc53cd1970897</td>
+        <td colspan="2">feat(lawyer-list): added dependencies with lawyer profile</td>
+        <td colspan="2">-</td>
+        <td colspan="2">1/05/24</td>
+    </tr>
+    <tr>
+        <td colspan="2">Aplicaciones-Web-Grupo-CodeRush/Landing-page-MedicDefense</td>
+        <td colspan="2">Develop</td>
+        <td colspan="2">b6c5ad6556800b554a9b404695d1deceffa969ae</td>
+        <td colspan="2">feat(lawyer-profile): implemented lawyer profile view with navigation</td>
+        <td colspan="2">-</td>
+        <td colspan="2">1/05/24</td>
+    </tr>
+    <tr>
+        <td colspan="2">Aplicaciones-Web-Grupo-CodeRush/Landing-page-MedicDefense</td>
+        <td colspan="2">Develop</td>
+        <td colspan="2">c711a4b78d12f212e76d120aaa76cff23238cd84</td>
+        <td colspan="2">feat(subscription): added subscription component.</td>
+        <td colspan="2">-</td>
+        <td colspan="2">1/05/24</td>
+    </tr>
+    <tr>
+        <td colspan="2">Aplicaciones-Web-Grupo-CodeRush/Landing-page-MedicDefense</td>
+        <td colspan="2">Develop</td>
+        <td colspan="2">e3bc57c85021126f22eccbe676016e8bc495c462</td>
+        <td colspan="2">feat(subscription-pay): added subscription pay component.</td>
+        <td colspan="2">-</td>
+        <td colspan="2">1/05/24</td>
+    </tr>
+    <tr>
+        <td colspan="2">Aplicaciones-Web-Grupo-CodeRush/Landing-page-MedicDefense</td>
+        <td colspan="2">Develop</td>
+        <td colspan="2">ac223cb670df90559da08d292bf2c2b2931b208a</td>
+        <td colspan="2">feat(profile-user): added profile-user component</td>
+        <td colspan="2">-</td>
+        <td colspan="2">1/05/24</td>
+    </tr>
+    <tr>
+        <td colspan="2">Aplicaciones-Web-Grupo-CodeRush/Landing-page-MedicDefense</td>
+        <td colspan="2">Develop</td>
+        <td colspan="2">19dfb1110d3a2fa352ac182190aa86c6b9ae5476</td>
+        <td colspan="2">feat: add profile user component</td>
+        <td colspan="2">-</td>
+        <td colspan="2">1/05/24</td>
+    </tr>
+    <tr>
+        <td colspan="2">Aplicaciones-Web-Grupo-CodeRush/Landing-page-MedicDefense</td>
+        <td colspan="2">Develop</td>
+        <td colspan="2">8460d76f1dbca5da71c88d2a8f4f8b391d695929</td>
+        <td colspan="2">feat(review): Added review list component.</td>
+        <td colspan="2">-</td>
+        <td colspan="2">1/05/24</td>
+    </tr>
 </table>
 
 
