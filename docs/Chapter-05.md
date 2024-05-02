@@ -750,32 +750,66 @@ Durante este sprint, se ha desarrollado una Fake API de abogados que proporciona
     <th>Explicación del Response</th>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>/lawyers</td>
+    <td>Listar</td>
+    <td>GET</td>
+    <td>/api/lawyers</td>
     <td>-</td>
-    <td></td>
-    <td></td>
+    <td>GET /api/lawyers</td>
+    <td>200 OK: Devuelve una lista de todos los abogados.</td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>/lawyers</td>
+    <td>Obtener	</td>
+    <td>GET</td>
+    <td>/api/lawyers/{id}</td>
+    <td>ID del abogado</td>
+    <td>GET /api/lawyers/1</td>
+    <td>200 OK: Devuelve los detalles del abogado con el ID especificado.</td>
+  </tr>
+  <tr>
+    <td>/users</td>
+    <td>Obtener</td>
+    <td>GET</td>
+    <td>/api/users/{id}</td>
+    <td>Id de usuario</td>
+    <td>GET /api/users/1</td>
+    <td>200 OK: Devuelve los detalles del user con el ID especificado.</td>
+  </tr>
+  <tr>
+    <td>/reviews</td>
+    <td>Listar</td>
+    <td>GET</td>
+    <td>/api/reviews</td>
     <td>-</td>
-    <td></td>
-    <td></td>
+    <td>GET /api/reviews</td>
+    <td>200 OK: Devuelve una lista de todos los reviews.</td>
   </tr>
 </table>
 
 **Capturas de interaccion:** 
 
-_Añadir Capturas Acà_
+Edpoint Lawyers:
+
+![alt text](../assets/imgs/apilawyers.png)
+
+Endpoint Users:
+
+![alt text](../assets/imgs/apiusers.png)
+
+Endpoint Reviews:
+
+![alt text](../assets/imgs/apireviews.png)
 
 **Url del repositorio:**
 
-https://github.com/Aplicaciones-Web-Grupo-CodeRush/front-end-app
+Enlace al repositorio del Fake-Api: https://github.com/Aplicaciones-Web-Grupo-CodeRush/Consultation
+
+Enlace del Endpoint de Lawyers: https://my-json-server.typicode.com/Aplicaciones-Web-Grupo-CodeRush/Consultation/lawyers
+
+Enlace del Endpoint de Users: https://my-json-server.typicode.com/Aplicaciones-Web-Grupo-CodeRush/Consultation/users
+
+Enlace del Endpoint de Reviews: https://my-json-server.typicode.com/Aplicaciones-Web-Grupo-CodeRush/Consultation/reviews
 
 **Commits relacionados:**
 
@@ -789,14 +823,29 @@ https://github.com/Aplicaciones-Web-Grupo-CodeRush/front-end-app
         <tr>
         <td colspan="2">Aplicaciones-Web-Grupo-CodeRush/Landing-page-MedicDefense</td>
         <td colspan="2">Develop</td>
-        <td colspan="2"></td>
-        <td colspan="2"></td>
+        <td colspan="2">4a874c69127c181a451c8fef31dd114ba04f7baf</td>
+        <td colspan="2">feat: Lawyers Database.</td>
     </tr>
         <tr>
         <td colspan="2">Aplicaciones-Web-Grupo-CodeRush/Landing-page-MedicDefense</td>
         <td colspan="2">Develop</td>
-        <td colspan="2"></td>
-        <td colspan="2"></td>
+        <td colspan="2">4310676715ba26e7d7cd15213779fb0460e76803</td>
+        <td colspan="2">feat: Users Database.
+</td>
+    </tr>
+    </tr>
+        <tr>
+        <td colspan="2">Aplicaciones-Web-Grupo-CodeRush/Landing-page-MedicDefense</td>
+        <td colspan="2">Develop</td>
+        <td colspan="2">e84c20b205e07a15c2ed28275007dd5a7d07c6e8</td>
+        <td colspan="2">feat: Added Reviews database.</td>
+    </tr>
+    </tr>
+        <tr>
+        <td colspan="2">Aplicaciones-Web-Grupo-CodeRush/Landing-page-MedicDefense</td>
+        <td colspan="2">Develop</td>
+        <td colspan="2">2c6e78ac8351076f81bb30cd9e0db34bdad85547</td>
+        <td colspan="2">feat: Users Database</td>
     </tr>
 </table>    
 
