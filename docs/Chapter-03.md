@@ -642,14 +642,14 @@ En esta sección, se plantearon metas de negocio utilizando los criterios SMART 
         <td>31</td>
         <td>US21</td>
         <td>Base de datos de usuarios</td>
-        <td>Como usuario de la plataforma MedicDefense, quiero implementar una base de datos segura y escalable, para proteger y gestionar eficazmente la información de los usuarios.</td>
+        <td>Como usuario de la plataforma MedicDefense, quiero que implementen una base de datos segura y escalable, para proteger y gestionar eficazmente la información de los usuarios.</td>
         <td>3</td>
     </tr>
         <tr>
         <td>32</td>
         <td>US22</td>
         <td>API para gestión de perfiles</td>
-        <td>Como usuario de la plataforma MedicDefense, quiero APIs robustas para crear, editar y eliminar perfiles de usuario..</td>
+        <td>Como usuario de la plataforma MedicDefense, quiero APIs robustas para crear, editar y eliminar perfiles de usuario.</td>
         <td>3</td>
     </tr>
         <tr>
@@ -663,14 +663,14 @@ En esta sección, se plantearon metas de negocio utilizando los criterios SMART 
         <td>34</td>
         <td>US24</td>
         <td>API para búsqueda por filtros</td>
-        <td>Como usuario de la plataforma MedicDefense, quiero crear una API para búsquedas por filtros, para mejorar la accesibilidad de la información.</td>
+        <td>Como usuario de la plataforma MedicDefense, quiero que creen una API para búsquedas por filtros, para mejorar la accesibilidad de la información.</td>
         <td>3</td>
     </tr>
     <tr>
         <td>35</td>
         <td>US25</td>
         <td>Servicio de notificaciones</td>
-        <td>Como usuario de la plataforma MedicDefense, quiero implementar un servicio de notificaciones, para mantenerme informado.</td>
+        <td>Como usuario de la plataforma MedicDefense, quiero que implementen un servicio de notificaciones, para mantenerme informado.</td>
         <td>5</td>
     </tr>
      <tr>
