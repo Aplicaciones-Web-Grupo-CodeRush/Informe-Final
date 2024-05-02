@@ -77,10 +77,11 @@ A continuación, se detalla el proceso de elaboración del informe para cada ent
 
 A continuacion, se presentará la evidencia que muestra los análisis de colaboración y commits en el repositorio del informe realizados por los miembros del equipo durante las entregas realizadas:
 
-Analisis de Colaboración:
+**Commits:**
+![alt text](assets/imgs/CommitsEvidence.png)
 
-Commits:
-
+**Analisis de Colaboración:**
+![alt text](assets/imgs/ContributorsEvidence.png)
 
 # Índice
 
