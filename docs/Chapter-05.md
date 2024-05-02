@@ -439,17 +439,17 @@ Test de visualización de sección de inicio
 Para esta primera entrega, nuestro equipo a conseguido elaborar la Landing Page del proyecto "MedicDefense". De tal modo, se podrá visualizar la información necesaria de lo que ofrece nuestro proyecto de acorde al Sprint desarrollado.
 
 **Sección de inicio**: Se implementó el Header de nuestra Landing Page.
-![alt text](../assets/imgs/header.png)
+![alt text](../assets/imgs/header.PNG)
 **Sección de Nosotros**: Se implementó la sección de nosotros para describir un poco sobre quienes somos.
-![alt text](../assets/imgs/nosotros.png)
+![alt text](../assets/imgs/nosotros.PNG)
 **Sección de Servicios**: Se implementó la sección de los servicios ofrecidos.
-![alt text](../assets/imgs/servicios.png)
+![alt text](../assets/imgs/servicios.PNG)
 **Sección de Planes**: Se implementó la sección de ver los tipos de suscripción.
-![alt text](../assets/imgs/planes.png)
+![alt text](../assets/imgs/planes.PNG)
 **Sección de contacto**: Se añadió la sección de contacto para facilitar la comunicación con los usuarios.
-![alt text](../assets/imgs/contactanos.png)
+![alt text](../assets/imgs/contactanos.PNG)
 **Sección de Creadores**: Se agregaron secciones de información sobre los creadores del proyecto y un footer para la navegación y contacto.
-![alt text](../assets/imgs/footer.png)
+![alt text](../assets/imgs/footer.PNG)
 
 Video Explicativo: https://upcedupe-my.sharepoint.com/:v:/g/personal/u201922146_upc_edu_pe/EQ4snKHPWYhHowHKJbvQWzIBLOZSsgR9XA3dIKyP3StIEw?e=IiwaMH&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
 
@@ -935,6 +935,10 @@ Para esta segunda entrega, nuestro equipo a conseguido elaborar la primera versi
 **Sección Perfil Usuario:**
 
 ![alt text](../assets/imgs/SecciónPerfil.png)
+
+**Sección Resumen:**
+
+![alt text](../assets/imgs/DetallesResumen.PNG)
 
 
 **Enlace al video de Evidencia:**
