@@ -539,7 +539,23 @@ https://www.figma.com/proto/dfBnhcXbC6IHSTM0HbAmlv/Untitled?type=design&node-id=
 
 ### 4.7.1. Class Diagrams
 
-![alt text](../assets/imgs/class_diagram.png)
+Bounded Context Access Diagram
+![accesDiagram](../assets/imgs/accesDiagram.png)
+
+Bounded Context Consultation Diagram
+![consultDiagram](../assets/imgs/consultDiagram.png)
+
+Bounded Context Educational Resource Diagram
+![resourceDiagram](../assets/imgs/resourceDiagram.png)
+
+Bounded Context Legal Case Diagram
+![legaCaseDiagram](../assets/imgs/caseDiagram.png)
+
+Bounded Context Notification Diagram
+![notificationDiagram](../assets/imgs/notificationDiagram.png)
+
+Bounded Context Payment Diagram
+![paymentDiagram](../assets/imgs/paymentDiagram.png)
 
 ### 4.7.2. Class Dictionary
 
