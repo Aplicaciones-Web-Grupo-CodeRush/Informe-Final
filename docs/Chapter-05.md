@@ -803,7 +803,9 @@ https://github.com/Aplicaciones-Web-Grupo-CodeRush/front-end-app
 ### 5.2.2.7. Software Deployment Evidence for Sprint Review
 Para el despliegue de la primera version del Frontend Web Application hemos utilizado la plataforma de terceros llamada Netlify. Esta plataforma nos permite el facil acceso a nuestro repositorio de Github, el cual por medio de ciertas configuraciones podemos tener como resultado el despliegue de nuestra primera version del Frontend Web Application.
 
-_AÑADIR EVIDENCIA DEL SOFWTWARE DEPLOYMENT_
+![alt text](../assets/imgs/netlify1.png)
+
+![alt text](../assets/imgs/netlify2.png)
 
 
 ### 5.2.2.8. Team Collaboration Insights during Sprint
