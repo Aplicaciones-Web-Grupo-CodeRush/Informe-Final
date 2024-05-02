@@ -696,39 +696,27 @@ Para esta segunda entrega, nuestro equipo a conseguido elaborar la primera versi
 
 **Lista de Abogados y Toolbar:**
 
-_AÑADIR EVIDENCIA
+![alt text](../assets/imgs/ListaAbogados.png)
 
 **Perfil Abogado:**
 
-_AÑADIR EVIDENCIA
+![alt text](../assets/imgs/PerfilAbogados.png)
 
 **Busqueda Abogados:**
 
-_AÑADIR EVIDENCIA
-
-**Filtros Abogados:**
-
-_AÑADIR EVIDENCIA
-
-**Sección Resumen:**
-
-_AÑADIR EVIDENCIA
+![alt text](../assets/imgs/BusquedaAbogado.png)
 
 **Sección Suscripción:**
 
-_AÑADIR EVIDENCIA
+![alt text](../assets/imgs/SecciónSuscripcion.png)
 
 **Suscripción Pago:**
 
-_AÑADIR EVIDENCIA
+![alt text](../assets/imgs/SeccionPago.png)
 
 **Sección Perfil Usuario:**
 
-_AÑADIR EVIDENCIA
-
-**Editar Perfil Usuario:**
-
-_AÑADIR EVIDENCIA
+![alt text](../assets/imgs/SecciónPerfil.png)
 
 
 **Enlace al video de Evidencia:**
