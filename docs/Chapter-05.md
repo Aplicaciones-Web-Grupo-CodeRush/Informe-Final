@@ -942,9 +942,7 @@ Para esta segunda entrega, nuestro equipo a conseguido elaborar la primera versi
 ![alt text](../assets/imgs/DetallesResumen.PNG)
 
 
-**Enlace al video de Evidencia:**
-
-_AÑADIR VIDEO DE EVIDENCIA_
+**Enlace al video de Evidencia:** https://upcedupe-my.sharepoint.com/:v:/g/personal/u201922146_upc_edu_pe/EaHLohGbAkZFhhbRy31NFhMBFDwinPOpdOT29ApoGxUt9A?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=8xeAhH
 
 ### 5.2.2.6. Services Documentation Evidence for Sprint Review
 
