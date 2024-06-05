@@ -1107,7 +1107,7 @@ Para el desarrollo de este segundo sprint, todos los miembros del equipo desarro
 </tr>
 <tr>
     <td colspan="5">Attendees (to planning meeting)</td>
-    <td colspan="8">Gabriel Garcia, Diego Flores, Fabricio Apaza, Marcelo Renteria, Cesar Castilla, Carlos Avellaneda</td>
+    <td colspan="8">Gabriel Garcia, Diego Flores, Fabricio Apaza, Marcelo Renteria, Cesar Castilla</td>
 </tr>
 <tr>
     <td colspan="5">Sprint n – 3 Review Summary</td>
@@ -1115,7 +1115,7 @@ Para el desarrollo de este segundo sprint, todos los miembros del equipo desarro
 </tr>
 <tr>
     <td colspan="5">Sprint n – 3 Retrospective Summary</td>
-    <td colspan="8">En esta seccion todos los integrantes mencionaron tener aciertos en algunas partes del codigo desarrollado. Sin embargo, se pudo hacer un concenso, y a la vez, mejorar sus habilidades realizando el Web Services</td>
+    <td colspan="8">En esta seccion todos los integrantes mencionaron tener aciertos en algunas partes del codigo desarrollado. Sin embargo, se pudo hacer un concenso, y a la vez, mejoramos nuestras habilidades realizando el Web Services</td>
 </tr>
 <tr>
     <td colspan="13">Sprint Goal & User Stories</td>
