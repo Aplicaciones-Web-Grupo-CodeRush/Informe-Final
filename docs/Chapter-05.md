@@ -1297,60 +1297,7 @@ Para el desarrollo de este segundo sprint, todos los miembros del equipo desarro
 
 ### 5.2.3.4. Testing Suite Evidence for Sprint Review
 
-<table>
-  <thead>
-    <tr>
-      <th>Repository</th>
-      <th>Branch</th>
-      <th>Commit Id</th>
-      <th>Commit Message</th>
-      <th>Commit Message Body</th>
-      <th>Committed on (Date)</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>Aplicaciones-web-Grupo-CodeRush/Backend-MedicDefense</td>
-      <td></td>
-      <td>ef480ccd255b89447523f90e8efc7a947a490001</td>
-      <td>Merge Bounded Context of Consultation</td>
-      <td>-</td>
-      <td>05/06/2024</td>
-    </tr>
-    <tr>
-      <td>Aplicaciones-web-Grupo-CodeRush/Backend-MedicDefense</td>
-      <td></td>
-      <td>b268969f824061e227a7d9c98ed91b53f0b11d66</td>
-      <td>Merge Bounded Context of Educational</td>
-      <td>-</td>
-      <td>05/06/2024</td>
-    </tr>
-    <tr>
-      <td>Aplicaciones-web-Grupo-CodeRush/Backend-MedicDefense</td>
-      <td></td>
-      <td>6e6603067d73c88a7e96dd0ecec0a71fd2f683aa</td>
-      <td>Merge Bounded Context of Payment</td>
-      <td>-</td>
-      <td>05/06/2024</td>
-    </tr>
-    <tr>
-      <td>Aplicaciones-web-Grupo-CodeRush/Backend-MedicDefense</td>
-      <td></td>
-      <td>4b47b3d13182b9ad5f00b1eb2603b3e9fb5c3fe1</td>
-      <td>Merge Bounded Context of Communication</td>
-      <td>-</td>
-      <td>05/06/2024</td>
-    </tr>
-     <tr>
-      <td>Aplicaciones-web-Grupo-CodeRush/Backend-MedicDefense</td>
-      <td></td>
-      <td>df35dfbd4c1b012e244eb905bb03d8cde62e29f7</td>
-      <td>Merge Bounded Context of Legal Case</td>
-      <td>-</td>
-      <td>05/06/2024</td>
-    </tr>
-  </tbody>
-</table>
+
 
 ### 5.2.3.5. Execution Evidence for Sprint Review
 Para esta tercera entrega, nuestro equipo a conseguido elaborar la primera versión del Web Services del proyecto "MedicDefense".
@@ -1530,7 +1477,7 @@ Commits relacionados:
 ### 5.2.3.7. Software Deployment Evidence for Sprint Review
 Para el desarrollo de la primera version de Web Services, hemos utilizado la plataforma Github para poder almacenar el avance realizado.
 
-
+![alt text](<../assets/imgs/Deployment evidence.png>)
 
 ### 5.2.3.8. Team Collaboration Insights during Sprint
 Para el desarrollo de este tercer sprint, todos los miembros del equipo desarrollaron y colaboraron de manera activa y continua. De tal modo, se muestra como evidencia los insights de cada miembro del equipo.
@@ -1547,18 +1494,127 @@ Para el desarrollo de este tercer sprint, todos los miembros del equipo desarrol
 
 ### 5.3.1. Diseño de Entrevistas
 
+Para el diseño de entrevistas hemos optado por mostrar nuestra Landing Page y nuestro proceso del Frontend a nuestros segmentos objetivos, con tal de tener una retroalimentación por parte de ellos y ver los puntos positivos y negativos. De tal modo, se realizaron ciertas preguntas de acorde a lo solicitado:
+
+- ¿Que opinas acerca de nuestra propuesta?
+- ¿Acudirias a nosotros si pasaras por una situacion similar? ¿Por que si o por que no?
+- ¿Que opinas acerca de la interfaz de nuestra plataforma? 
+- ¿Tienes alguna sugerencia sobre nuestra plataforma en la que crees que debamos mejorar?
+- ¿Que funciones crees que podriamos implementar en el futuro?
+
 ### 5.3.2. Registro de Entrevistas
+
+En el proceso de investigación para nuestro proyecto, se llevaron a cabo entrevistas del público objetivo. Cada entrevista se documentó en video y se registraron los siguientes detalles:
+
+Enlace de la entrevista:
+
+**Entrevista 3: Patrick Gómez (Estudiante de Medicina)**
+
+**Nombre y Apellido:** Patrick Gómez
+
+**Edad:** 20 años
+
+**Distrito:** San Luis
+
+**Screenshot de la Entrevista:**
+![alt text](<../assets/imgs/Entrevista Fabricio.png>)
+
+**Timelapse:** [Inicio: , Fin: ]
+
 
 ### 5.3.3. Evaluaciones según heurísticas
 
+**UX Heuristics & Principles Evaluation**
+
+**SITE o APP A EVALUAR:** Medic Defense
+
+**TAREAS A EVALUAR:**
+
+El alcance de esta evaluación incluye la revisión de la usabilidad de las siguientes tareas:
+
+1. Ver la lista de abogados con información relevante (precios, años de experiencia, especialización).
+1. Utilizar los filtros para encontrar abogados específicos.
+1. Realizar una búsqueda de abogados.
+1. Ver el resumen de los casos legales y consultas.
+1. Seleccionar y revisar los planes de suscripción.
+1. Realizar el pago de la suscripción.
+1. Acceder y actualizar el perfil de usuario (médico/estudiante).
+1. Usar el botón para acceder a la página de inicio (landing page).
+
+No están incluidas en esta versión de la evaluación las siguientes tareas:
+
+1. Acceder a recursos educacionales.
+1. Registrar nuevos usuarios.
+1. Guardar información del usuario.
+1. Implementación de la lógica backend al frontend.
+
+**ESCALA DE SEVERIDAD:**
+
+Los errores serán puntuados tomando en cuenta la siguiente escala de severidad
+
+|Nivel|Descripción|
+| :- | :- |
+|1|Problema superficial: puede ser fácilmente superador por el usuario ó ocurre con muy poco frecuencia. No necesita ser arreglado a no ser que exista disponibilidad de tiempo.|
+|2|Problema menor: puede ocurrir un poco más frecuentemente o es un poco más difícil de superar para el usuario. Se le debería asignar una prioridad baja resolverlo de cara al siguiente reléase|
+|3|Problema mayor: ocurre frecuentemente o los usuarios no son capaces de resolverlos. Es importante que sean corregidos y se les debe asignar una prioridad alta.|
+|4|Problema muy grave: un error de gran impacto que impide al usuario continuar con el uso de la herramienta. Es imperativo que sea corregido antes del lanzamiento.|
+
+
+## **Entrevista 4: Patrick Gómez (Estudiante de Medicina)**
+
+**TABLA RESUMEN:**
+
+|#|Problema|Escala de Serveridad|Heurística/Principio violada(o)|
+| :- | :-: | :-: | :-: |
+|1|Falta información sobre leyes médicas o material educativo medico|2|Information Architecture: Is it findable?|
+|2|Hay botones que no funcionan o llevan a ningun lado |4|Information Architecture: Is it usable?|
+|3|No se muestra la informacion primordial de los abogados como la licencia médica o algo que valide su status como abogado médico |3|Usability: Información y ayuda|
+
+**DESCRIPCIÓN DE PROBLEMAS:**
+
+**PROBLEMA #1:** Falta información sobre leyes médicas o material educativo medico
+
+**Severidad:** 2
+
+**Heurística violada:** Information Architecture: Is it findable?
+
+**Problema:** Los usuarios no tienen una forma clara de conocer la información sobre leyes medicas o material educativo.
+
+**Recomendación:** Incluir una sección con información detallada sobre leyes medicas, como videos de presentación, entrevistas o materiales informativos.
+
+![alt text](../assets/imgs/Nor1.png)
+
+**PROBLEMA #2:** Hay botones que no funcionan o llevan a ningun lado
+
+**Severidad:** 4
+
+**Heurística violada:** Information Architecture: Is it usable?
+
+**Problema:** Los usuarios al momento de interactuar con el Landing Page y el frontend encuentrar botones el cual no tienen ninguna funcionalidad.
+
+**Recomendación:** Agregar funcionalidades en los botones, el cual lleven a otro apartado o cumplan una función.
+
+![alt text](../assets/imgs/Nor2.png)
+
+**PROBLEMA #3:** No se muestra la informacion primordial de los abogados como la licencia médica o algo que valide su status como abogado médico
+
+**Severidad:** 3
+
+**Heurística violada:** Usabilidad - Información y ayuda
+
+**Problema:** Los usuarios no pueden ver la información primordial de los abogados como su licencia médica, lo que limita la cantidad de información disponible para tomar una decisión informada y personalizada.
+
+**Recomendación:** Añadir información detallada que verifique el status del abogado.
+
+![alt text](../assets/imgs/No3.png)
 
 ## 5.4 Video About-the-Product
 **Captura del About-the-Product**
-![alt text](../assets/imgs/about-the-product-captura.png)
+![alt text](<../assets/imgs/about the product web.png>)
 
-**Enlace del video en Microsoft Stream**: https://upcedupe-my.sharepoint.com/:v:/g/personal/u201922146_upc_edu_pe/EZe_EhcxKgdEkprwnSB2xkYBzAVx31Rxmv5W6OdQyMIGvQ?e=gNhYwA&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+**Enlace del video en Microsoft Stream**: https://upcedupe-my.sharepoint.com/:v:/g/personal/u201922146_upc_edu_pe/EXbtIwFoJ_FOgb1eD3qJ9r8B1IKDQIRbvcNYg3HEhxQ-ag?e=fni2hH&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
 
-**Enlace del video en Youtube**: https://www.youtube.com/watch?v=sFzDCzFW6g4
+**Enlace del video en Youtube**: https://youtu.be/ukTGXZUL5e8
 
 ## 5.5 Video About-the-Team
 
@@ -1569,21 +1625,21 @@ Para el desarrollo de este tercer sprint, todos los miembros del equipo desarrol
 
 **Enlace del video en Youtube**: 
 
-**Timelapse Total:** [Inicio:00:00, Fin: 19:36]
+**Timelapse Total:** [Inicio:00:00, Fin: ]
 
-**Timelapse :** [Inicio: 00:00, Fin: 02:13]
+**Timelapse :** [Inicio: , Fin: ]
 
-**Timelapse :** [Inicio: 02:13, Fin: 04:10]
+**Timelapse :** [Inicio: , Fin: ]
 
-**Timelapse :** [Inicio: 04:10, Fin: 07:58]
+**Timelapse :** [Inicio: , Fin: ]
 
-**Timelapse :** [Inicio: 07:58, Fin: 11:35]
+**Timelapse :** [Inicio: , Fin: ]
 
-**Timelapse :** [Inicio: 11:35, Fin: 15:12]
+**Timelapse :** [Inicio: , Fin: ]
 
-**Timelapse :** [Inicio: 15:12, Fin: 18:31]
+**Timelapse :** [Inicio: , Fin: ]
 
-**Timelapse Reunión + Voz en Off:** [Inicio: 18:31, Fin: 19:36]
+**Timelapse Reunión + Voz en Off:** [Inicio: , Fin: ]
 
 ## 5.3. Conclusiones
 
