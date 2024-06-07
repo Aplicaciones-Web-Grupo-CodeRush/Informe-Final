@@ -1134,6 +1134,456 @@ Para el desarrollo de este segundo sprint, todos los miembros del equipo desarro
 </tr>
 </table>
 
+### 5.2.3.2. Sprint Backlog 3
+
+<table>
+<tr>
+    <th colspan="3">Sprint #</th>
+    <th colspan="10">Sprint 3</th>
+  </tr>
+      <tr>
+    <td colspan="3">User Story</td>
+    <td colspan="10">Work-Item/Task</td>
+  </tr>
+  <tr>
+    <td colspan="1">Id</td>
+    <td colspan="2">Title</td>
+    <td colspan="1">Id</td>
+    <td colspan="2">Title</td>
+    <td colspan="3">Description</td>
+    <td colspan="1"> Estimation</td>
+    <td colspan="2">Assigned To</td>
+    <td colspan="1">Status(To-do /InProcess /To-Review /Done)</td>
+</tr>
+  <tr>
+    <td colspan="1">46</td>
+    <td colspan="2">Creación y gestión de recursos de casos legales</td>
+    <td colspan="1">1</td>
+    <td colspan="2">Creación y gestión de recursos de casos legales</td>
+    <td colspan="3">Como desarrollador backend, quiero implementar la creación y gestión de casos legales para que los administradores puedan gestionar los casos legales.</td>
+    <td colspan="1">5</td>
+    <td colspan="2">Fabricio</td>
+    <td colspan="1">Done</td>
+  </tr>
+  <tr>
+    <td colspan="1">40</td>
+    <td colspan="2">Creación y Gestión de Recursos Educativos</td>
+    <td colspan="1">2</td>
+    <td colspan="2">Creación y Gestión de Recursos Educativos</td>
+    <td colspan="3">Como desarrollador backend, quiero implementar la creación y gestión de recursos educativos en la base de datos para que los administradores puedan añadir, actualizar y eliminar recursos.</td>
+    <td colspan="1">5</td>
+    <td colspan="2">Gabriel</td>
+    <td colspan="1">Done</td>
+<tr>
+<tr>
+    <td colspan="1">41</td>
+    <td colspan="2">Implementación de Categorías de Recursos</td>
+    <td colspan="1">3</td>
+    <td colspan="2">Implementación de Categorías de Recursos</td>
+    <td colspan="3">Como desarrollador backend, quiero implementar la funcionalidad para gestionar categorías y etiquetas de recursos educativos para organizar los recursos de manera eficiente.</td>
+    <td colspan="1">3</td>
+    <td colspan="2">Gabriel</td>
+    <td colspan="1">Done</td>
+<tr>
+<tr>
+    <td colspan="1">42</td>
+    <td colspan="2">Funcionalidad de Búsqueda Avanzada de Recursos Educativos</td>
+    <td colspan="1">4</td>
+    <td colspan="2">Funcionalidad de Búsqueda Avanzada de Recursos Educativos</td>
+    <td colspan="3">Como desarrollador backend, quiero implementar una funcionalidad de búsqueda avanzada para que los usuarios puedan buscar recursos educativos por diferentes criterios.</td>
+    <td colspan="1">5</td>
+    <td colspan="2">Gabriel</td>
+    <td colspan="1">Done</td>
+<tr>
+<tr>
+    <td colspan="1">43</td>
+    <td colspan="2">Obtener todas las notificaciones</td>
+    <td colspan="1">5</td>
+    <td colspan="2">Obtener todas las notificaciones</td>
+    <td colspan="3">Como desarrollador backend, quiero implementar un endpoint GET para obtener todas las notificaciones para permitir a los usuarios recuperar la lista completa de notificaciones almacenadas en el sistema.</td>
+    <td colspan="1">5</td>
+    <td colspan="2">Diego</td>
+    <td colspan="1">Done</td>
+<tr>
+<tr>
+    <td colspan="1">44</td>
+    <td colspan="2">Crear una nueva notificación</td>
+    <td colspan="1">6</td>
+    <td colspan="2">Crear una nueva notificación</td>
+    <td colspan="3">Como desarrollador backend, quiero implementar un endpoint POST para crear una nueva notificación para permitir a los usuarios enviar nuevas notificaciones que se almacenarán en el sistema.</td>
+    <td colspan="1">5</td>
+    <td colspan="2">Diego</td>
+    <td colspan="1">Done</td>
+<tr>
+<tr>
+    <td colspan="1">45</td>
+    <td colspan="2">Obtener una notificación por ID</td>
+    <td colspan="1">7</td>
+    <td colspan="2">Obtener una notificación por ID</td>
+    <td colspan="3">Como desarrollador backend, quiero implementar un endpoint GET para obtener una notificación específica por su ID para permitir a los usuarios recuperar los detalles de una notificación particular basada en su identificador único.</td>
+    <td colspan="1">5</td>
+    <td colspan="2">Diego</td>
+    <td colspan="1">Done</td>
+<tr>
+<tr>
+    <td colspan="1">18</td>
+    <td colspan="2">Integración de pagos</td>
+    <td colspan="1">8</td>
+    <td colspan="2">Integración de pagos</td>
+    <td colspan="3">Como administrador, quiero integrar un sistema de pagos seguro para gestionar las suscripciones y compras en la plataforma.</td>
+    <td colspan="1">8</td>
+    <td colspan="2">Marcelo</td>
+    <td colspan="1">Done</td>
+<tr>
+
+</table>
+
+### 5.2.3.3. Development Evidence for Sprint Review
+
+<table>
+  <thead>
+    <tr>
+      <th>Repository</th>
+      <th>Branch</th>
+      <th>Commit Id</th>
+      <th>Commit Message</th>
+      <th>Commit Message Body</th>
+      <th>Committed on (Date)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Aplicaciones-web-Grupo-CodeRush/Backend-MedicDefense</td>
+      <td></td>
+      <td>ef480ccd255b89447523f90e8efc7a947a490001</td>
+      <td>Merge Bounded Context of Consultation</td>
+      <td>-</td>
+      <td>05/06/2024</td>
+    </tr>
+    <tr>
+      <td>Aplicaciones-web-Grupo-CodeRush/Backend-MedicDefense</td>
+      <td></td>
+      <td>b268969f824061e227a7d9c98ed91b53f0b11d66</td>
+      <td>Merge Bounded Context of Educational</td>
+      <td>-</td>
+      <td>05/06/2024</td>
+    </tr>
+    <tr>
+      <td>Aplicaciones-web-Grupo-CodeRush/Backend-MedicDefense</td>
+      <td></td>
+      <td>6e6603067d73c88a7e96dd0ecec0a71fd2f683aa</td>
+      <td>Merge Bounded Context of Payment</td>
+      <td>-</td>
+      <td>05/06/2024</td>
+    </tr>
+    <tr>
+      <td>Aplicaciones-web-Grupo-CodeRush/Backend-MedicDefense</td>
+      <td></td>
+      <td>4b47b3d13182b9ad5f00b1eb2603b3e9fb5c3fe1</td>
+      <td>Merge Bounded Context of Communication</td>
+      <td>-</td>
+      <td>05/06/2024</td>
+    </tr>
+     <tr>
+      <td>Aplicaciones-web-Grupo-CodeRush/Backend-MedicDefense</td>
+      <td></td>
+      <td>df35dfbd4c1b012e244eb905bb03d8cde62e29f7</td>
+      <td>Merge Bounded Context of Legal Case</td>
+      <td>-</td>
+      <td>05/06/2024</td>
+    </tr>
+  </tbody>
+</table>
+
+### 5.2.3.4. Testing Suite Evidence for Sprint Review
+
+<table>
+  <thead>
+    <tr>
+      <th>Repository</th>
+      <th>Branch</th>
+      <th>Commit Id</th>
+      <th>Commit Message</th>
+      <th>Commit Message Body</th>
+      <th>Committed on (Date)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Aplicaciones-web-Grupo-CodeRush/Backend-MedicDefense</td>
+      <td></td>
+      <td>ef480ccd255b89447523f90e8efc7a947a490001</td>
+      <td>Merge Bounded Context of Consultation</td>
+      <td>-</td>
+      <td>05/06/2024</td>
+    </tr>
+    <tr>
+      <td>Aplicaciones-web-Grupo-CodeRush/Backend-MedicDefense</td>
+      <td></td>
+      <td>b268969f824061e227a7d9c98ed91b53f0b11d66</td>
+      <td>Merge Bounded Context of Educational</td>
+      <td>-</td>
+      <td>05/06/2024</td>
+    </tr>
+    <tr>
+      <td>Aplicaciones-web-Grupo-CodeRush/Backend-MedicDefense</td>
+      <td></td>
+      <td>6e6603067d73c88a7e96dd0ecec0a71fd2f683aa</td>
+      <td>Merge Bounded Context of Payment</td>
+      <td>-</td>
+      <td>05/06/2024</td>
+    </tr>
+    <tr>
+      <td>Aplicaciones-web-Grupo-CodeRush/Backend-MedicDefense</td>
+      <td></td>
+      <td>4b47b3d13182b9ad5f00b1eb2603b3e9fb5c3fe1</td>
+      <td>Merge Bounded Context of Communication</td>
+      <td>-</td>
+      <td>05/06/2024</td>
+    </tr>
+     <tr>
+      <td>Aplicaciones-web-Grupo-CodeRush/Backend-MedicDefense</td>
+      <td></td>
+      <td>df35dfbd4c1b012e244eb905bb03d8cde62e29f7</td>
+      <td>Merge Bounded Context of Legal Case</td>
+      <td>-</td>
+      <td>05/06/2024</td>
+    </tr>
+  </tbody>
+</table>
+
+### 5.2.3.5. Execution Evidence for Sprint Review
+Para esta tercera entrega, nuestro equipo a conseguido elaborar la primera versión del Web Services del proyecto "MedicDefense".
+
+
+### 5.2.3.6. Services Documentation Evidence for Sprint Review
+
+Durante este sprint, se ha desarrollado el back-end de una API de abogados utilizando Java, JPA (Java Persistence API), y siguiendo los principios de Domain-Driven Design (DDD). La API proporciona información sobre abogados ficticios, incluyendo detalles como el nombre del abogado, años de experiencia, especialización, casos ganados, tarifa por hora, correo electrónico y número de teléfono, utilizando la convención de nomenclatura snake_case para los campos. Además, la API también proporciona información sobre recursos educativos (educational_resources), pagos (payments), casos legales (legal_cases) y consultas (consultations).
+
+<table>
+  <tr>
+    <th>Endpoint</th>
+    <th>Acción</th>
+    <th>Verbo HTTP</th>
+    <th>Sintaxis de Llamada</th>
+    <th>Parámetros</th>
+    <th>Ejemplo de Llamada</th>
+    <th>Explicación del Response</th>
+  </tr>
+  <tr>
+    <td>/api/v1/lawyers</td>
+    <td>Listar</td>
+    <td>GET</td>
+    <td>/api/lawyers</td>
+    <td>-</td>
+    <td>GET /api/lawyers</td>
+    <td>200 OK: Devuelve una lista de todos los abogados.</td>
+  </tr>
+  <tr>
+    <td>/api/v1/lawyers/{id}</td>
+    <td>Obtener</td>
+    <td>GET</td>
+    <td>/api/lawyers/{id}</td>
+    <td>ID del abogado</td>
+    <td>GET /api/lawyers/1</td>
+    <td>200 OK: Devuelve los detalles del abogado con el ID especificado.</td>
+  </tr>
+  <tr>
+    <td>/api/v1/legal-consultations/{legalConsultaationId}</td>
+    <td>Obtener</td>
+    <td>GET</td>
+    <td>/api/v1/legal-consultations/{legalConsultaationId}</td>
+    <td>ID del legal consultation</td>
+    <td>GET /api/legal-consultations/{legalConsultaationId}</td>
+    <td>200 OK: Devuelve los detalles de los legal consultations.</td>
+  </tr>
+  <tr>
+    <td>/api/v1/legal-consultations/{legalConsultaationId}</td>
+    <td>Recibir</td>
+    <td>POST</td>
+    <td>/api/v1/legal-consultations/{legalConsultaationId}</td>
+    <td>ID del legal consultations</td>
+    <td>POST/api/legal-consultations/{legalConsultaationId}</td>
+    <td>200 OK: Devuelve los detalles del abogado con el ID especificado.</td>
+  </tr>
+  <tr>
+    <td>/api/v1/legal-consultations/{legalConsultaationId}</td>
+    <td>Eliminar</td>
+    <td>Delete</td>
+    <td>/api/v1/legal-consultations/{legalConsultaationId}</td>
+    <td>ID del legaal consultations</td>
+    <td>Delete /api/lawyers/1</td>
+    <td>200 OK: Devuelve los detalles del abogado con el ID especificado.</td>
+  </tr>
+  <tr>
+    <td>/api/v1/notifications/{notificationId}</td>
+    <td>Obtener</td>
+    <td>GET</td>
+    <td>/api/v1/notifications/{notificationId}</td>
+    <td>ID del notification</td>
+    <td>GET /api/notifications/1</td>
+    <td>200 OK: Devuelve los detalles del abogado con el ID especificado.</td>
+  </tr>
+  <tr>
+    <td>/api/v1/notifications/{notificationId}</td>
+    <td>Recibir</td>
+    <td>POST</td>
+    <td>/api/v1/notifications/{notificationId}</td>
+    <td>ID de la notificacion</td>
+    <td>POST /api/v1/notifications/1</td>
+    <td>200 OK: Devuelve los detalles del abogado con el ID especificado.</td>
+  </tr>
+  <tr>
+    <td>/api/v1/legalcases/{Id}</td>
+    <td>Recibir</td>
+    <td>POST</td>
+    <td>/api/v1/legalcases/{Id}</td>
+    <td>ID del legal cases</td>
+    <td>POST /api/v1/legalcases/1</td>
+    <td>200 OK: Devuelve los detalles del abogado con el ID especificado.</td>
+  </tr>
+  <tr>
+    <td>/api/v1/payment/{id}</td>
+    <td>Obtener</td>
+    <td>GET</td>
+    <td>/api/v1/payment/{id}</td>
+    <td>ID del payment</td>
+    <td>POST /api/v1/payment/1</td>
+    <td>200 OK: Devuelve los detalles del abogado con el ID especificado.</td>
+  </tr>
+  <tr>
+    <td>/api/v1/educaational-resources/{id}</td>
+    <td>Recibir</td>
+    <td>POST</td>
+    <td>/api/v1/educaational-resources/{notificationId}</td>
+    <td>ID del educational resource</td>
+    <td>GET /api/v1/educaational-resources/1</td>
+    <td>200 OK: Devuelve los detalles del abogado con el ID especificado.</td>
+  </tr>
+
+</table>
+
+Capturas de interaccion:
+
+- Visualización de los endpoints:
+
+
+
+- Controller del bounded context Notification
+
+
+
+- Controller del bounded context Consultation
+
+
+- Controller del bounded context legal case
+
+
+
+- Controller del bounded context payment
+
+
+
+Url del repositorio: https://github.com/Aplicaciones-Web-Grupo-CodeRush/backend-medicdefense
+
+Commits relacionados: 
+
+<table>
+    <tr>
+        <th colspan="2">Repository</th>
+        <th colspan="2">Branch</th>
+        <th colspan="2">Commit Id</th>
+        <th colspan="2">Commit Message</th>
+    </tr>
+        <tr>
+        <td colspan="2">Aplicaciones-web-Grupo-CodeRush/Backend-MedicDefense</td>
+        <td colspan="2"></td>
+        <td colspan="2">ef480ccd255b89447523f90e8efc7a947a490001</td>
+        <td colspan="2">Merge pull request</td>
+    </tr>
+        <tr>
+        <td colspan="2">Aplicaciones-web-Grupo-CodeRush/Backend-MedicDefense</td>
+        <td colspan="2"></td>
+        <td colspan="2">b268969f824061e227a7d9c98ed91b53f0b11d66</td>
+        <td colspan="2">Merge pull request</td>
+    </tr>
+    <tr>
+        <td colspan="2">Aplicaciones-web-Grupo-CodeRush/Backend-MedicDefense</td>
+        <td colspan="2"></td>
+        <td colspan="2">6e6603067d73c88a7e96dd0ecec0a71fd2f683aa</td>
+        <td colspan="2">Merge pull request</td>
+    </tr>
+    <tr>
+        <td colspan="2">Aplicaciones-web-Grupo-CodeRush/Backend-MedicDefense</td>
+        <td colspan="2"></td>
+        <td colspan="2">4b47b3d13182b9ad5f00b1eb2603b3e9fb5c3fe1</td>
+        <td colspan="2">Merge pull request</td>
+    </tr>
+    <tr>
+        <td colspan="2">Aplicaciones-web-Grupo-CodeRush/Backend-MedicDefense</td>
+        <td colspan="2"></td>
+        <td colspan="2">df35dfbd4c1b012e244eb905bb03d8cde62e29f7</td>
+        <td colspan="2">Merge pull request</td>
+    </tr>
+</table>    
+
+### 5.2.3.7. Software Deployment Evidence for Sprint Review
+Para el desarrollo de la primera version de Web Services, hemos utilizado la plataforma Github para poder almacenar el avance realizado.
+
+
+
+### 5.2.3.8. Team Collaboration Insights during Sprint
+Para el desarrollo de este tercer sprint, todos los miembros del equipo desarrollaron y colaboraron de manera activa y continua. De tal modo, se muestra como evidencia los insights de cada miembro del equipo.
+
+**Commits:**
+
+
+
+**Analiticas de Colaboración:**
+
+
+
+## 5.3 Validation Interviews
+
+### 5.3.1. Diseño de Entrevistas
+
+### 5.3.2. Registro de Entrevistas
+
+### 5.3.3. Evaluaciones según heurísticas
+
+
+## 5.4 Video About-the-Product
+**Captura del About-the-Product**
+![alt text](../assets/imgs/about-the-product-captura.png)
+
+**Enlace del video en Microsoft Stream**: https://upcedupe-my.sharepoint.com/:v:/g/personal/u201922146_upc_edu_pe/EZe_EhcxKgdEkprwnSB2xkYBzAVx31Rxmv5W6OdQyMIGvQ?e=gNhYwA&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+
+**Enlace del video en Youtube**: https://www.youtube.com/watch?v=sFzDCzFW6g4
+
+## 5.5 Video About-the-Team
+
+**Captura del About-the-Team**
+
+
+**Enlace del video en Microsoft Stream**: 
+
+**Enlace del video en Youtube**: 
+
+**Timelapse Total:** [Inicio:00:00, Fin: 19:36]
+
+**Timelapse :** [Inicio: 00:00, Fin: 02:13]
+
+**Timelapse :** [Inicio: 02:13, Fin: 04:10]
+
+**Timelapse :** [Inicio: 04:10, Fin: 07:58]
+
+**Timelapse :** [Inicio: 07:58, Fin: 11:35]
+
+**Timelapse :** [Inicio: 11:35, Fin: 15:12]
+
+**Timelapse :** [Inicio: 15:12, Fin: 18:31]
+
+**Timelapse Reunión + Voz en Off:** [Inicio: 18:31, Fin: 19:36]
 
 ## 5.3. Conclusiones
 
