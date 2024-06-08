@@ -1667,27 +1667,24 @@ Los errores serán puntuados tomando en cuenta la siguiente escala de severidad
 ## 5.5 Video About-the-Team
 
 **Captura del About-the-Team**
+![alt text](<../assets/imgs/about team web.png>)
 
 
-**Enlace del video en Microsoft Stream**: 
+**Enlace del video en Microsoft Stream**: https://upcedupe-my.sharepoint.com/:v:/g/personal/u201922146_upc_edu_pe/EYETyHbALlNHlf6sj4Yvhn4BcdjGLNhfpkr5CWt_5sA4JQ?e=Legbn4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
 
-**Enlace del video en Youtube**: 
+**Enlace del video en Youtube**: https://www.youtube.com/watch?v=5PnwmZ10wow
 
-**Timelapse Total:** [Inicio:00:00, Fin: ]
+**Timelapse Total:** [Inicio:00:00, Fin: 10:18]
 
-**Timelapse :** [Inicio: , Fin: ]
+**Timelapse Gabriel Garcia:** [Inicio: 00:00, Fin: 02:35]
 
-**Timelapse :** [Inicio: , Fin: ]
+**Timelapse Marcelo Renteria:** [Inicio: 02:35, Fin: 03:41]
 
-**Timelapse :** [Inicio: , Fin: ]
+**Timelapse Diego Flores:** [Inicio: 03:41, Fin: 07:13]
 
-**Timelapse :** [Inicio: , Fin: ]
+**Timelapse Cesar:** [Inicio: 07:13, Fin: 08:54]
 
-**Timelapse :** [Inicio: , Fin: ]
-
-**Timelapse :** [Inicio: , Fin: ]
-
-**Timelapse Reunión + Voz en Off:** [Inicio: , Fin: ]
+**Timelapse Fabricio Apaza:** [Inicio: 08:54, Fin: 10:18]
 
 ## 5.3. Conclusiones
 
