@@ -29,7 +29,7 @@ Para gestionar las modificaciones en nuestro proyecto, emplearemos GitHub como p
 - Repositorio del Landing Page: https://github.com/Aplicaciones-Web-Grupo-CodeRush/Landing-page-MedicDefense
 - Enlace del Landing Page: https://aplicaciones-web-grupo-coderush.github.io/Landing-page-MedicDefense/
 - Repositorio del Front-End: https://github.com/Aplicaciones-Web-Grupo-CodeRush/front-end-app
--Enlace del FrontEndWebApp: https://app-web-medicdefense.netlify.app/
+  -Enlace del FrontEndWebApp: https://app-web-medicdefense.netlify.app/
 
 Para estructurar nuestro control de versiones, implementaremos el modelo GitFlow como nuestro flujo de trabajo estándar. Esto implicará la creación de las siguientes ramas, además de la rama principal (main):
 
@@ -42,27 +42,33 @@ Además, seguiremos el estándar establecido por Conventional Commits para asegu
 
 ### 5.1.3. Source Code Style Guide & Conventions
 
- A continuación, se detallan las referencias y convenciones que adoptaremos para programar en los diferentes lenguajes utilizados en nuestro proyecto:
+A continuación, se detallan las referencias y convenciones que adoptaremos para programar en los diferentes lenguajes utilizados en nuestro proyecto:
 
 Utilizaremos las siguientes referencias para establecer nuestras convenciones.
+
 1. **HTML**:
+
 - "HTML Style Guide and Coding Conventions"
 - "Google HTML/CSS Style Guide"
 
 2. **CSS**:
+
 - "Google HTML/CSS Style Guide"
 
 3. **JavaScript**:
+
 - "Google JavaScript Style Guide"
 - "MDN JavaScript guidelines"
 - "W3C JavaScript Style Guide"
 - "Vue Style Guide".
 
-4. **C#**: 
+4. **C#**:
+
 - "C# Coding Conventions"
 - "Microsoft ASP.NET Core Coding Guidelines".
 
 5. **Gherkin**:
+
 - "Gherkin Conventions for Readable Specifications".
 
 Es importante destacar que todas las convenciones y referencias mencionadas están en inglés, siguiendo las prácticas comunes en el desarrollo de software. De tal modo que, al seguir estas referencias nos ayudará a mantener un código claro, coherente y fácilmente comprensible para todo el equipo de desarrollo.
@@ -72,37 +78,50 @@ Es importante destacar que todas las convenciones y referencias mencionadas est�
 Para desplegar nuestra landing page en la plataforma de GitHub, seguimos los siguientes pasos:
 
 1. Creación del Repositorio Remoto en GitHub:
+
 - Creamos un nuevo repositorio en GitHub de nuestro proyecto, el cual se utilizará para el desarrollo y deployment.
+
 2. Inicialización del Repositorio:
-- Se utilza el comando "*git init*" para inicializar el repositorio.
+
+- Se utilza el comando "_git init_" para inicializar el repositorio.
+
 3. Subida de Archivos al Repositorio Remoto:
+
 - Añadimos los archivos de nuestra landing page al repositorio local.
-- Subimos los archivos al repositorio de GitHub con el comando "*git push -u origin master*" o sino utilizando Github Desktop.
+- Subimos los archivos al repositorio de GitHub con el comando "_git push -u origin master_" o sino utilizando Github Desktop.
+
 4. Configuración de GitHub Pages:
+
 - Accedemos a la sección de configuración del repositorio en GitHub y entramos al apartado de Github Pages.
 - Seleccionamos la rama de GitHub Pages (main) como fuente para el deployment de nuestra Landing Page
+
 5. Despliegue:
+
 - Accedemos a la URL proporcionada por GitHub Pages para verificar que nuestra landing page se haya desplegado correctamente.
 
 De tal modo, nuestra Landing Page estará inicializada utilizando Github Pages y podrá ser visible para cualquier usuario que tenga el enlace.
 Enlace del Landing Page: https://aplicaciones-web-grupo-coderush.github.io/Landing-page-MedicDefense/
 
 Para desplegar el primer avance del FrontEnd Web Application se utilizó la plataforma Netlify.
+
 1. Selecciona GitHub como proveedor de Git y autorizamos a Netlify para acceder a tus repositorios.
 
 2. Elegimos el repositorio que contiene el proyecto de Angular.
 
 3. Configura las opciones de compilación:
+
 - Comando de compilación: ng build --prod
 - Directorio de publicación: dist/frontendApp
 - Hacemos clic en "Deploy site" para iniciar el proceso de despliegue.
 
-4. Netlify compilará y desplegará automáticamente el proyecto Angular. 
+4. Netlify compilará y desplegará automáticamente el proyecto Angular.
+
 - Una vez que el despliegue esté completo, nos proporcionará una URL para el sitio.
 
 Enlace de la primera version del Frontend App: https://app-web-medicdefense.netlify.app/
 
 ## 5.2. Landing Page, Services & Applications Implementation
+
 En esta sección se explicará y evidenciará el proceso de implementación, pruebas,
 documentación y despliegue del Landing Page.
 
@@ -433,7 +452,6 @@ Test de visualización de sección de inicio
     </tr>
   </tbody>
 </table>
-
 
 ### 5.2.1.5. Execution Evidence for Sprint Review
 
@@ -816,6 +834,7 @@ una de las tareas identificadas para el sprint.
 </table>
 
 ### 5.2.2.4. Testing Suite Evidence for Sprint Review
+
 <table>
     <tr>
         <th colspan="2">Repository</th>
@@ -908,7 +927,6 @@ una de las tareas identificadas para el sprint.
     </tr>
 </table>
 
-
 ### 5.2.2.5. Execution Evidence for Sprint Review
 
 Para esta segunda entrega, nuestro equipo a conseguido elaborar la primera versión de Frontend Web Application del proyecto "MedicDefense". De tal modo, se podrá visualizar la información necesaria de lo que ofrece nuestro proyecto.
@@ -940,7 +958,6 @@ Para esta segunda entrega, nuestro equipo a conseguido elaborar la primera versi
 **Sección Resumen:**
 
 ![alt text](../assets/imgs/DetallesResumen.PNG)
-
 
 **Enlace al video de Evidencia:** https://upcedupe-my.sharepoint.com/:v:/g/personal/u201922146_upc_edu_pe/EaHLohGbAkZFhhbRy31NFhMBFDwinPOpdOT29ApoGxUt9A?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=8xeAhH
 
@@ -996,7 +1013,7 @@ Durante este sprint, se ha desarrollado una Fake API de abogados que proporciona
   </tr>
 </table>
 
-**Capturas de interaccion:** 
+**Capturas de interaccion:**
 
 Edpoint Lawyers:
 
@@ -1056,15 +1073,15 @@ Enlace del Endpoint de Reviews: https://my-json-server.typicode.com/Aplicaciones
         <td colspan="2">2c6e78ac8351076f81bb30cd9e0db34bdad85547</td>
         <td colspan="2">feat: Users Database</td>
     </tr>
-</table>    
+</table>
 
 ### 5.2.2.7. Software Deployment Evidence for Sprint Review
+
 Para el despliegue de la primera version del Frontend Web Application hemos utilizado la plataforma de terceros llamada Netlify. Esta plataforma nos permite el facil acceso a nuestro repositorio de Github, el cual por medio de ciertas configuraciones podemos tener como resultado el despliegue de nuestra primera version del Frontend Web Application.
 
 ![alt text](../assets/imgs/netlify1.png)
 
 ![alt text](../assets/imgs/netlify2.png)
-
 
 ### 5.2.2.8. Team Collaboration Insights during Sprint
 
@@ -1367,6 +1384,7 @@ Para el desarrollo de este segundo sprint, todos los miembros del equipo desarro
 </table>
 
 ### 5.2.3.5. Execution Evidence for Sprint Review
+
 Para esta tercera entrega, nuestro equipo a conseguido elaborar la primera versión del Web Services del proyecto "MedicDefense".
 
 ![alt text](<../assets/imgs/deployment evidence app web.png>)
@@ -1500,26 +1518,27 @@ Capturas de interaccion:
 
 - Visualización de los endpoints:
 
-
+![alt text](../assets/imgs/swagger.png)
 
 - Controller del bounded context Notification
 
-
+![alt text](../assets/imgs/bc-notification.png)
 
 - Controller del bounded context Consultation
 
+![alt text](../assets/imgs/bc-consultation.png)
+
+- Controller del bounded context educational resource
+
+![alt text](../assets/imgs/bc-education-resource.png)
 
 - Controller del bounded context legal case
 
-
-
-- Controller del bounded context payment
-
-
+![alt text](../assets/imgs/bc-legal-case.png)
 
 Url del repositorio: https://github.com/Aplicaciones-Web-Grupo-CodeRush/backend-medicdefense
 
-Commits relacionados: 
+Commits relacionados:
 
 <table>
     <tr>
@@ -1558,23 +1577,23 @@ Commits relacionados:
         <td colspan="2">df35dfbd4c1b012e244eb905bb03d8cde62e29f7</td>
         <td colspan="2">Merge pull request</td>
     </tr>
-</table>    
+</table>
 
 ### 5.2.3.7. Software Deployment Evidence for Sprint Review
+
 Para el desarrollo de la primera version de Web Services, hemos utilizado la plataforma Github para poder almacenar el avance realizado.
 
 ![alt text](<../assets/imgs/Deployment evidence.png>)
 
 ### 5.2.3.8. Team Collaboration Insights during Sprint
+
 Para el desarrollo de este tercer sprint, todos los miembros del equipo desarrollaron y colaboraron de manera activa y continua. De tal modo, se muestra como evidencia los insights de cada miembro del equipo.
 
 **Commits:**
 ![alt text](<../assets/imgs/commits sprint 3.png>)
 
-
 **Analiticas de Colaboración:**
 ![alt text](<../assets/imgs/network graph sprint 3.png>)
-
 
 ## 5.3 Validation Interviews
 
@@ -1584,7 +1603,7 @@ Para el diseño de entrevistas hemos optado por mostrar nuestra Landing Page y n
 
 - ¿Que opinas acerca de nuestra propuesta?
 - ¿Acudirias a nosotros si pasaras por una situacion similar? ¿Por que si o por que no?
-- ¿Que opinas acerca de la interfaz de nuestra plataforma? 
+- ¿Que opinas acerca de la interfaz de nuestra plataforma?
 - ¿Tienes alguna sugerencia sobre nuestra plataforma en la que crees que debamos mejorar?
 - ¿Que funciones crees que podriamos implementar en el futuro?
 
@@ -1606,7 +1625,6 @@ Enlace de la entrevista: https://upcedupe-my.sharepoint.com/:v:/g/personal/u2019
 ![alt text](<../assets/imgs/Entrevista Fabricio.png>)
 
 **Timelapse:** [Inicio: 00:00, Fin: 12:52]
-
 
 ### 5.3.3. Evaluaciones según heurísticas
 
@@ -1638,23 +1656,22 @@ No están incluidas en esta versión de la evaluación las siguientes tareas:
 
 Los errores serán puntuados tomando en cuenta la siguiente escala de severidad
 
-|Nivel|Descripción|
-| :- | :- |
-|1|Problema superficial: puede ser fácilmente superador por el usuario ó ocurre con muy poco frecuencia. No necesita ser arreglado a no ser que exista disponibilidad de tiempo.|
-|2|Problema menor: puede ocurrir un poco más frecuentemente o es un poco más difícil de superar para el usuario. Se le debería asignar una prioridad baja resolverlo de cara al siguiente reléase|
-|3|Problema mayor: ocurre frecuentemente o los usuarios no son capaces de resolverlos. Es importante que sean corregidos y se les debe asignar una prioridad alta.|
-|4|Problema muy grave: un error de gran impacto que impide al usuario continuar con el uso de la herramienta. Es imperativo que sea corregido antes del lanzamiento.|
-
+| Nivel | Descripción                                                                                                                                                                                    |
+| :---- | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1     | Problema superficial: puede ser fácilmente superador por el usuario ó ocurre con muy poco frecuencia. No necesita ser arreglado a no ser que exista disponibilidad de tiempo.                  |
+| 2     | Problema menor: puede ocurrir un poco más frecuentemente o es un poco más difícil de superar para el usuario. Se le debería asignar una prioridad baja resolverlo de cara al siguiente reléase |
+| 3     | Problema mayor: ocurre frecuentemente o los usuarios no son capaces de resolverlos. Es importante que sean corregidos y se les debe asignar una prioridad alta.                                |
+| 4     | Problema muy grave: un error de gran impacto que impide al usuario continuar con el uso de la herramienta. Es imperativo que sea corregido antes del lanzamiento.                              |
 
 ## **Entrevista 4: Patrick Gómez (Estudiante de Medicina)**
 
 **TABLA RESUMEN:**
 
-|#|Problema|Escala de Serveridad|Heurística/Principio violada(o)|
-| :- | :-: | :-: | :-: |
-|1|Falta información sobre leyes médicas o material educativo medico|2|Information Architecture: Is it findable?|
-|2|Hay botones que no funcionan o llevan a ningun lado |4|Information Architecture: Is it usable?|
-|3|No se muestra la informacion primordial de los abogados como la licencia médica o algo que valide su status como abogado médico |3|Usability: Información y ayuda|
+| #   |                                                            Problema                                                             | Escala de Serveridad |      Heurística/Principio violada(o)      |
+| :-- | :-----------------------------------------------------------------------------------------------------------------------------: | :------------------: | :---------------------------------------: |
+| 1   |                                Falta información sobre leyes médicas o material educativo medico                                |          2           | Information Architecture: Is it findable? |
+| 2   |                                       Hay botones que no funcionan o llevan a ningun lado                                       |          4           |  Information Architecture: Is it usable?  |
+| 3   | No se muestra la informacion primordial de los abogados como la licencia médica o algo que valide su status como abogado médico |          3           |      Usability: Información y ayuda       |
 
 **DESCRIPCIÓN DE PROBLEMAS:**
 
@@ -1695,6 +1712,7 @@ Los errores serán puntuados tomando en cuenta la siguiente escala de severidad
 ![alt text](../assets/imgs/No3.png)
 
 ## 5.4 Video About-the-Product
+
 **Captura del About-the-Product**
 ![alt text](<../assets/imgs/about the product web.png>)
 
@@ -1706,7 +1724,6 @@ Los errores serán puntuados tomando en cuenta la siguiente escala de severidad
 
 **Captura del About-the-Team**
 ![alt text](<../assets/imgs/about team web.png>)
-
 
 **Enlace del video en Microsoft Stream**: https://upcedupe-my.sharepoint.com/:v:/g/personal/u201922146_upc_edu_pe/EYETyHbALlNHlf6sj4Yvhn4BcdjGLNhfpkr5CWt_5sA4JQ?e=Legbn4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
 
@@ -1733,8 +1750,8 @@ Los errores serán puntuados tomando en cuenta la siguiente escala de severidad
 ## 5.4 Anexos
 
 **Vídeo de Exposición:**
-*TB1:*
-https://upcedupe-my.sharepoint.com/:v:/g/personal/u201922146_upc_edu_pe/EToKgX1-b79Gl24DN7O6NvcB9bgYmvifhVFbTGhN1dOhqQ?e=vIhEvy&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D 
+_TB1:_
+https://upcedupe-my.sharepoint.com/:v:/g/personal/u201922146_upc_edu_pe/EToKgX1-b79Gl24DN7O6NvcB9bgYmvifhVFbTGhN1dOhqQ?e=vIhEvy&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
 
 ## 5.5 Bibliografia
 
