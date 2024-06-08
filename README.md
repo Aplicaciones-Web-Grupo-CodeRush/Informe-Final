@@ -59,6 +59,12 @@ Relación de Integrantes:
     <td colspan="10">Héctor Marcelo Rentería Puga, Gabriel Stefano Garcia Rodriguez, Cesar Castilla Pachas, Diego Flores Avalos, Fabricio Apaza Morales.</td>
     <td colspan="5">Capítulo V, Desarrollo Frontend</td>
   </tr>
+ <tr>
+    <td colspan="3">6ta</td>
+    <td colspan="3">7/06/2024</td>
+    <td colspan="10">Héctor Marcelo Rentería Puga, Gabriel Stefano Garcia Rodriguez, Cesar Castilla Pachas, Diego Flores Avalos, Fabricio Apaza Morales.</td>
+    <td colspan="5">Capítulo V, Desarrollo Backend</td>
+  </tr>
   </table>
 
 ## Project Report Collaboration Insights
