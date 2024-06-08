@@ -1301,7 +1301,7 @@ Para el desarrollo de este segundo sprint, todos los miembros del equipo desarro
   <tbody>
     <tr>
       <td>Aplicaciones-web-Grupo-CodeRush/Backend-MedicDefense</td>
-      <td></td>
+      <td>/Cesar-Castilla</td>
       <td>3e287a71e1ff6549c81e4a3b9b0fd86617a78b32</td>
       <td>Merge Bounded Context of Consultation</td>
       <td>-</td>
@@ -1309,7 +1309,7 @@ Para el desarrollo de este segundo sprint, todos los miembros del equipo desarro
     </tr>
     <tr>
       <td>Aplicaciones-web-Grupo-CodeRush/Backend-MedicDefense</td>
-      <td></td>
+      <td>/Gabriel-Garcia</td>
       <td>55a25e832e95ba643de160ce8cf4660d4870b989</td>
       <td>Merge Bounded Context of Educational</td>
       <td>-</td>
@@ -1317,7 +1317,7 @@ Para el desarrollo de este segundo sprint, todos los miembros del equipo desarro
     </tr>
     <tr>
       <td>Aplicaciones-web-Grupo-CodeRush/Backend-MedicDefense</td>
-      <td></td>
+      <td>/Diego-Flores</td>
       <td>52350acaf305a805995854aae4700b75fdbd5d74</td>
       <td>Merge Bounded Context of Communication</td>
       <td>-</td>
@@ -1325,9 +1325,17 @@ Para el desarrollo de este segundo sprint, todos los miembros del equipo desarro
     </tr>
      <tr>
       <td>Aplicaciones-web-Grupo-CodeRush/Backend-MedicDefense</td>
-      <td></td>
+      <td>/Fabricio-Apaza</td>
       <td>de50f842bd92a11fa7c8a39fa3b06f5e16dd5c1e</td>
       <td>Merge Bounded Context of Legal Case</td>
+      <td>-</td>
+      <td>05/06/2024</td>
+    </tr>
+    <tr>
+      <td>Aplicaciones-web-Grupo-CodeRush/Backend-MedicDefense</td>
+      <td>/Marcelo-Renteria</td>
+      <td>bd918ffe1dfe06d6fc7abc74757a1c83b62c86ef</td>
+      <td>Merge Bounded Context of Payment</td>
       <td>-</td>
       <td>05/06/2024</td>
     </tr>
@@ -1350,7 +1358,7 @@ Para el desarrollo de este segundo sprint, todos los miembros del equipo desarro
   <tbody>
     <tr>
       <td>Aplicaciones-web-Grupo-CodeRush/Backend-MedicDefense</td>
-      <td></td>
+      <td>/Cesar-Castilla</td>
       <td>3e287a71e1ff6549c81e4a3b9b0fd86617a78b32</td>
       <td>Merge Bounded Context of Consultation</td>
       <td>-</td>
@@ -1358,7 +1366,7 @@ Para el desarrollo de este segundo sprint, todos los miembros del equipo desarro
     </tr>
     <tr>
       <td>Aplicaciones-web-Grupo-CodeRush/Backend-MedicDefense</td>
-      <td></td>
+      <td>/Gabriel-Garcia</td>
       <td>55a25e832e95ba643de160ce8cf4660d4870b989</td>
       <td>Merge Bounded Context of Educational</td>
       <td>-</td>
@@ -1366,7 +1374,7 @@ Para el desarrollo de este segundo sprint, todos los miembros del equipo desarro
     </tr>
     <tr>
       <td>Aplicaciones-web-Grupo-CodeRush/Backend-MedicDefense</td>
-      <td></td>
+      <td>/Diego-Flores</td>
       <td>52350acaf305a805995854aae4700b75fdbd5d74</td>
       <td>Merge Bounded Context of Communication</td>
       <td>-</td>
@@ -1374,9 +1382,17 @@ Para el desarrollo de este segundo sprint, todos los miembros del equipo desarro
     </tr>
      <tr>
       <td>Aplicaciones-web-Grupo-CodeRush/Backend-MedicDefense</td>
-      <td></td>
+      <td>/Fabricio-Apaza</td>
       <td>de50f842bd92a11fa7c8a39fa3b06f5e16dd5c1e</td>
       <td>Merge Bounded Context of Legal Case</td>
+      <td>-</td>
+      <td>05/06/2024</td>
+    </tr>
+    <tr>
+      <td>Aplicaciones-web-Grupo-CodeRush/Backend-MedicDefense</td>
+      <td>/Marcelo-Renteria</td>
+      <td>bd918ffe1dfe06d6fc7abc74757a1c83b62c86ef</td>
+      <td>Merge Bounded Context of Payment</td>
       <td>-</td>
       <td>05/06/2024</td>
     </tr>
