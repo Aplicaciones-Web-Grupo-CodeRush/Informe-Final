@@ -1569,11 +1569,11 @@ Para el desarrollo de la primera version de Web Services, hemos utilizado la pla
 Para el desarrollo de este tercer sprint, todos los miembros del equipo desarrollaron y colaboraron de manera activa y continua. De tal modo, se muestra como evidencia los insights de cada miembro del equipo.
 
 **Commits:**
-
+![alt text](<../assets/imgs/commits sprint 3.png>)
 
 
 **Analiticas de Colaboración:**
-
+![alt text](<../assets/imgs/network graph sprint 3.png>)
 
 
 ## 5.3 Validation Interviews
