@@ -1156,7 +1156,7 @@ Para el desarrollo de este segundo sprint, todos los miembros del equipo desarro
     <td colspan="1">Status(To-do /InProcess /To-Review /Done)</td>
 </tr>
   <tr>
-    <td colspan="1">46</td>
+    <td colspan="1">51</td>
     <td colspan="2">Creación y gestión de recursos de casos legales</td>
     <td colspan="1">1</td>
     <td colspan="2">Creación y gestión de recursos de casos legales</td>
@@ -1166,7 +1166,7 @@ Para el desarrollo de este segundo sprint, todos los miembros del equipo desarro
     <td colspan="1">Done</td>
   </tr>
   <tr>
-    <td colspan="1">40</td>
+    <td colspan="1">45</td>
     <td colspan="2">Creación y Gestión de Recursos Educativos</td>
     <td colspan="1">2</td>
     <td colspan="2">Creación y Gestión de Recursos Educativos</td>
@@ -1176,7 +1176,7 @@ Para el desarrollo de este segundo sprint, todos los miembros del equipo desarro
     <td colspan="1">Done</td>
 <tr>
 <tr>
-    <td colspan="1">41</td>
+    <td colspan="1">46</td>
     <td colspan="2">Implementación de Categorías de Recursos</td>
     <td colspan="1">3</td>
     <td colspan="2">Implementación de Categorías de Recursos</td>
@@ -1186,7 +1186,7 @@ Para el desarrollo de este segundo sprint, todos los miembros del equipo desarro
     <td colspan="1">Done</td>
 <tr>
 <tr>
-    <td colspan="1">42</td>
+    <td colspan="1">47</td>
     <td colspan="2">Funcionalidad de Búsqueda Avanzada de Recursos Educativos</td>
     <td colspan="1">4</td>
     <td colspan="2">Funcionalidad de Búsqueda Avanzada de Recursos Educativos</td>
@@ -1196,7 +1196,7 @@ Para el desarrollo de este segundo sprint, todos los miembros del equipo desarro
     <td colspan="1">Done</td>
 <tr>
 <tr>
-    <td colspan="1">43</td>
+    <td colspan="1">48</td>
     <td colspan="2">Obtener todas las notificaciones</td>
     <td colspan="1">5</td>
     <td colspan="2">Obtener todas las notificaciones</td>
@@ -1206,7 +1206,7 @@ Para el desarrollo de este segundo sprint, todos los miembros del equipo desarro
     <td colspan="1">Done</td>
 <tr>
 <tr>
-    <td colspan="1">44</td>
+    <td colspan="1">49</td>
     <td colspan="2">Crear una nueva notificación</td>
     <td colspan="1">6</td>
     <td colspan="2">Crear una nueva notificación</td>
@@ -1216,7 +1216,7 @@ Para el desarrollo de este segundo sprint, todos los miembros del equipo desarro
     <td colspan="1">Done</td>
 <tr>
 <tr>
-    <td colspan="1">45</td>
+    <td colspan="1">50</td>
     <td colspan="2">Obtener una notificación por ID</td>
     <td colspan="1">7</td>
     <td colspan="2">Obtener una notificación por ID</td>
@@ -1235,7 +1235,7 @@ Para el desarrollo de este segundo sprint, todos los miembros del equipo desarro
     <td colspan="2">Marcelo</td>
     <td colspan="1">Done</td>
 <tr>
-tr>
+<tr>
     <td colspan="1">43</td>
     <td colspan="2">Backend de pagos</td>
     <td colspan="1">9</td>
@@ -1243,6 +1243,26 @@ tr>
     <td colspan="3">Como desarrollador del sistema MedicDefense, quiero tener un servicio centralizado para la gestión de pagos, de modo que pueda manejar almacenar los datos relevantes en los diferentes repositorios, asegurando la integración con el sistema de localización y la base de datos relacional.</td>
     <td colspan="1">5</td>
     <td colspan="2">Marcelo</td>
+    <td colspan="1">Done</td>
+<tr>
+<tr>
+    <td colspan="1">42</td>
+    <td colspan="2">Gestión de Consultas Médicas</td>
+    <td colspan="1">10</td>
+    <td colspan="2">Gestión de Consultas Médicas</td>
+    <td colspan="3">Como administrador del sistema MedicDefense, quiero tener un servicio centralizado para la gestión de consultas médicas, de modo que pueda manejar eficientemente la creación, actualización, y almacenamiento de datos de consultas médicas en los diferentes repositorios, asegurando la integración con el sistema de localización y la base de datos relacional.</td>
+    <td colspan="1">3</td>
+    <td colspan="2">Cesar</td>
+    <td colspan="1">Done</td>
+<tr>
+<tr>
+    <td colspan="1">44</td>
+    <td colspan="2">Integración MySQL</td>
+    <td colspan="1">11</td>
+    <td colspan="2">Integración MySQL</td>
+    <td colspan="3">Como administrador del sistema MedicDefense, quiero que mis sistemas de backend se puedan conectar con una base de datos MySQL para tener la información importante en una base de datos relacional.</td>
+    <td colspan="1">2</td>
+    <td colspan="2">Cesar</td>
     <td colspan="1">Done</td>
 <tr>
 
