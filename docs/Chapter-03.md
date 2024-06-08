@@ -434,6 +434,55 @@ Los User Stories sirven para describir de manera más detallada las diferentes f
 <td>Scenario: Integración con los servicios específicos<br><br>GIVEN que un administrador autenticado accede a los sistemas del backend.<br><br>WHEN hace una operación de inserción, eliminación, actualización o de recolección.<br><br>AND la operación es válida.<br><br>THEN el sistema debe conectar con la base de datos en MySQL.<br><br>AND efectuar la operación apropiadamente.</td>
 <td>EP05</td>
     </tr>
+     <tr>
+    <td>HU45</td>
+    <td>Creación y Gestión de Recursos Educativos</td>
+    <td>Como desarrollador backend, quiero implementar la creación y gestión de recursos educativos en la base de datos para que los administradores puedan añadir, actualizar y eliminar recursos.</td>
+<td>Scenario: Crear Recurso Educativo<br><br>GIVEN que un administrador autenticado accede al sistema de gestión de recursos educativos.<br><br>WHEN proporciona detalles válidos al sistema.<br><br>AND los datos proporcionados cumplen con los requisitos de validación.<br><br>THEN el sistema debe almacenar el nuevo recurso educativo en el repositorio correspondiente.<br><br>AND confirmar dicha operación.</td>
+<td>EP05</td>
+    </tr>
+     <tr>
+    <td>HU46</td>
+    <td>Implementación de Categorías de Recursos</td>
+    <td>Como desarrollador backend, quiero implementar la funcionalidad para gestionar categorías y etiquetas de recursos educativos para organizar los recursos de manera eficiente.</td>
+<td>Scenario: Conexión exitosa<br><br>GIVEN que un administrador autenticado accede al sistema de información de pago.<br><br>WHEN seleccione una Categoría al sistema.<br><br>AND esta sea válida.<br><br>THEN el sistema debe organizar los recursos educacionales según la categoría.<br><br>AND confirmar dicha operación.</td>
+<td>EP05</td>
+    </tr>
+     <tr>
+    <td>HU47</td>
+    <td>Funcionalidad de Búsqueda Avanzada de Recursos Educativos</td>
+    <td>Como desarrollador backend, quiero implementar una funcionalidad de búsqueda avanzada para que los usuarios puedan buscar recursos educativos por diferentes criterios.</td>
+<td>Scenario: Buscar recursos educativos<br><br>GIVEN que un administrador autenticado accede al sistema de información de pago.<br><br>WHEN proporciona detalles válidos al sistema.<br><br>AND selecciona "Buscar".<br><br>THEN el sistema debe presentar los recursos educativos.<br><br>AND filtrarlos según criterios avanzados.</td>
+<td>EP05</td>
+    </tr>
+     <tr>
+    <td>HU48</td>
+    <td>Obtener todas las notificaciones</td>
+    <td>Como desarrollador backend, quiero implementar un endpoint GET para obtener todas las notificaciones para permitir a los usuarios recuperar la lista completa de notificaciones almacenadas en el sistema.</td>
+<td>Scenario: Obtener notificaciones<br><br>GIVEN que un administrador autenticado accede al sistema de información de pago.<br><br>WHEN entre al endpoint GET.<br><br>THEN el sistema debe presentar todas las notificaciones en el sistema.</td>
+<td>EP05</td>
+    </tr>
+     <tr>
+    <td>HU49</td>
+    <td>Crear una nueva notificación</td>
+    <td>Como desarrollador backend, quiero implementar un endpoint POST para crear una nueva notificación para permitir a los usuarios enviar nuevas notificaciones que se almacenarán en el sistema.</td>
+<td>Scenario: Almacenar notificación<br><br>GIVEN que un administrador autenticado accede al sistema de gestión de notificaciones.<br><br>WHEN proporciona detalles válidos al sistema.<br><br>AND selecciona "Publicar".<br><br>THEN el sistema debe almacenar la nueva información de notificación en el repositorio correspondiente.<br><br>AND confirmar dicha operación.</td>
+<td>EP05</td>
+    </tr>
+    <tr>
+    <td>HU50</td>
+    <td>Obtener una notificación por ID</td>
+    <td>Como desarrollador backend, quiero implementar un endpoint GET para obtener una notificación específica por su ID para permitir a los usuarios recuperar los detalles de una notificación particular basada en su identificador único.</td>
+<td>Scenario: Obtener notificación<br><br>GIVEN que un administrador autenticado accede al sistema de información de pago.<br><br>WHEN haga una operación GET.<br><br>AND especifique un Id.<br><br>THEN el sistema debe mostrar la notificación con el Id correspondiente.<br><br>AND confirmar dicha operación.</td>
+<td>EP05</td>
+    </tr>
+    <tr>
+    <td>HU51</td>
+    <td>Creación y gestión de recursos de casos legales</td>
+    <td>Como desarrollador backend, quiero implementar la creación y gestión de casos legales para que los administradores puedan gestionar los casos legales.</td>
+<td>Scenario: Crear Caso Legal<br><br>GIVEN que un administrador autenticado accede al sistema de gestión de casos legales.<br><br>WHEN proporciona detalles válidos al sistema.<br><br>AND los datos proporcionados cumplen con los requisitos de validación.<br><br>THEN el sistema debe almacenar el nuevo caso legal en el repositorio correspondiente.<br><br>AND confirmar dicha operación.</td>
+<td>EP05</td>
+    </tr>
 </table>
 
 ## 3.3. Impact Mapping
@@ -695,71 +744,120 @@ En esta sección, se plantearon metas de negocio utilizando los criterios SMART 
         <td>Como usuario de la plataforma MedicDefense, quiero APIs robustas para crear, editar y eliminar perfiles de usuario.</td>
         <td>3</td>
     </tr>
-        <tr>
+    <tr>
         <td>35</td>
+        <td>US45</td>
+        <td>Creación y Gestión de Recursos Educativos</td>
+        <td>Como desarrollador backend, quiero implementar la creación y gestión de recursos educativos en la base de datos para que los administradores puedan añadir, actualizar y eliminar recursos. </td>
+        <td>3</td>
+    </tr>
+    <tr>
+        <td>36</td>
+        <td>US46</td>
+        <td>Implementación de Categorías de Recursos</td>
+        <td>Como desarrollador backend, quiero implementar la funcionalidad para gestionar categorías y etiquetas de recursos educativos para organizar los recursos de manera eficiente. </td>
+        <td>3</td>
+    </tr>
+    <tr>
+        <td>37</td>
+        <td>US47</td>
+        <td>Funcionalidad de Búsqueda Avanzada de Recursos Educativos</td>
+        <td>Como desarrollador backend, quiero implementar una funcionalidad de búsqueda avanzada para que los usuarios puedan buscar recursos educativos por diferentes criterios. </td>
+        <td>3</td>
+    </tr>
+    <tr>
+        <td>38</td>
+        <td>US48</td>
+        <td>Obtener todas las notificaciones</td>
+        <td>Como desarrollador backend, quiero implementar un endpoint GET para obtener todas las notificaciones para permitir a los usuarios recuperar la lista completa de notificaciones almacenadas en el sistema. </td>
+        <td>2</td>
+    </tr>
+    <tr>
+        <td>39</td>
+        <td>US49</td>
+        <td>Crear una nueva notificación</td>
+        <td>Como desarrollador backend, quiero implementar un endpoint POST para crear una nueva notificación para permitir a los usuarios enviar nuevas notificaciones que se almacenarán en el sistema. </td>
+        <td>2</td>
+    </tr>
+    <tr>
+        <td>40</td>
+        <td>US50</td>
+        <td>Obtener una notificación por ID</td>
+        <td>Como desarrollador backend, quiero implementar un endpoint GET para obtener una notificación específica por su ID para permitir a los usuarios recuperar los detalles de una notificación particular basada en su identificador único. </td>
+        <td>2</td>
+    </tr>
+    <tr>
+        <td>41</td>
+        <td>US51</td>
+        <td>Creación y gestión de recursos de casos legales</td>
+        <td>Como desarrollador backend, quiero implementar la creación y gestión de casos legales para que los administradores puedan gestionar los casos legales. </td>
+        <td>4</td>
+    </tr>
+        <tr>
+        <td>42</td>
         <td>US23</td>
         <td>Logging de Actividades</td>
         <td>Como usuario de la plataforma MedicDefense, quiero un sistema de logging robusto para registrar la actividad en la plataforma, facilitando la auditoría y la detección temprana de problemas.</td>
         <td>3</td>
     </tr>
         <tr>
-        <td>36</td>
+        <td>43</td>
         <td>US24</td>
         <td>API para búsqueda por filtros</td>
         <td>Como usuario de la plataforma MedicDefense, quiero que creen una API para búsquedas por filtros, para mejorar la accesibilidad de la información.</td>
         <td>3</td>
     </tr>
         <tr>
-        <td>37</td>
+        <td>44</td>
         <td>US42</td>
         <td>Gestión de Consultas Médicas</td>
         <td>Como administrador del sistema MedicDefense, quiero tener un servicio centralizado para la gestión de consultas médicas, de modo que pueda manejar eficientemente la creación, actualización, y almacenamiento de datos de consultas médicas en los diferentes repositorios, asegurando la integración con el sistema de localización y la base de datos relacional. </td>
         <td>3</td>
     </tr>
     <tr>
-        <td>38</td>
+        <td>45</td>
         <td>US25</td>
         <td>Servicio de notificaciones</td>
         <td>Como usuario de la plataforma MedicDefense, quiero que implementen un servicio de notificaciones, para mantenerme informado.</td>
         <td>5</td>
     </tr>
      <tr>
-        <td>39</td>
+        <td>46</td>
         <td>US07</td>
         <td>Notificaciones de las consultas programadas</td>
         <td>Como usuario de la plataforma, quiero recibir notificaciones sobre las consultas programadas con los abogados para recordarme la fecha y hora de la cita.</td>
         <td>3</td>
     </tr>
     <tr>
-        <td>40</td>
+        <td>47</td>
         <td>US08</td>
         <td>Seguimiento de casos legales</td>
         <td>Como usuario de la plataforma, quiero tener la capacidad de realizar un seguimiento de los casos legales en los que estoy involucrado para ver el progreso realizado por el abogado asignado.</td>
         <td>2</td>
     </tr>
     <tr>
-        <td>41</td>
+        <td>48</td>
         <td>US09</td>
         <td>Calificación y reseñas para los Médicos Abogados</td>
         <td>Como usuario de la plataforma MedicDefense, quiero poder calificar y dejar reseñas sobre cómo fue mi experiencia que tuve con un médico abogado después de una consulta, para ayudar a otros usuarios a tomar decisiones informadas.</td>
         <td>2</td>
     </tr>
     <tr>
-        <td>42</td>
+        <td>49</td>
         <td>US13</td>
         <td>Verificación de Certificado Médico</td>
         <td>Como usuario de la plataforma MedicDefense, quiero que se verifique mi licencia médica para asegurar que sean los médicos quienes se beneficien de los servicios. </td>
         <td>1</td>
     </tr>
     <tr>
-        <td>43</td>
+        <td>50</td>
         <td>US14</td>
         <td>Editar Perfil</td>
         <td>Como usuario de la plataforma MedicDefense, quiero la opción de editar los datos de mi perfil para reflejar cambios en mis datos registrados. </td>
         <td>2</td>
     </tr>
     <tr>
-        <td>44</td>
+        <td>51</td>
         <td>US15</td>
         <td>Canales de contacto</td>
         <td>Como usuario de la plataforma MedicDefense, quiero que se muestren los canales de contacto de los abogados para poder contactarlos antes de efectuar un pago. </td>
