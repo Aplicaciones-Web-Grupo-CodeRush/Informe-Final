@@ -1592,7 +1592,7 @@ Para el diseño de entrevistas hemos optado por mostrar nuestra Landing Page y n
 
 En el proceso de investigación para nuestro proyecto, se llevaron a cabo entrevistas del público objetivo. Cada entrevista se documentó en video y se registraron los siguientes detalles:
 
-Enlace de la entrevista:
+Enlace de la entrevista: https://upcedupe-my.sharepoint.com/:v:/g/personal/u201922146_upc_edu_pe/EYwzLjzYvLhEnd5BVRKbqsEBon-HM6IdnsETKWB1lFXuVw?e=cRkSfc&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
 
 **Entrevista 3: Patrick Gómez (Estudiante de Medicina)**
 
@@ -1605,7 +1605,7 @@ Enlace de la entrevista:
 **Screenshot de la Entrevista:**
 ![alt text](<../assets/imgs/Entrevista Fabricio.png>)
 
-**Timelapse:** [Inicio: , Fin: ]
+**Timelapse:** [Inicio: 00:00, Fin: 12:52]
 
 
 ### 5.3.3. Evaluaciones según heurísticas
