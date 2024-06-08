@@ -1369,6 +1369,7 @@ Para el desarrollo de este segundo sprint, todos los miembros del equipo desarro
 ### 5.2.3.5. Execution Evidence for Sprint Review
 Para esta tercera entrega, nuestro equipo a conseguido elaborar la primera versión del Web Services del proyecto "MedicDefense".
 
+![alt text](<../assets/imgs/deployment evidence app web.png>)
 
 ### 5.2.3.6. Services Documentation Evidence for Sprint Review
 
