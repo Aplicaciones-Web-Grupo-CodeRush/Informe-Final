@@ -1235,6 +1235,16 @@ Para el desarrollo de este segundo sprint, todos los miembros del equipo desarro
     <td colspan="2">Marcelo</td>
     <td colspan="1">Done</td>
 <tr>
+tr>
+    <td colspan="1">43</td>
+    <td colspan="2">Backend de pagos</td>
+    <td colspan="1">9</td>
+    <td colspan="2">Backend de pagos</td>
+    <td colspan="3">Como desarrollador del sistema MedicDefense, quiero tener un servicio centralizado para la gestión de pagos, de modo que pueda manejar almacenar los datos relevantes en los diferentes repositorios, asegurando la integración con el sistema de localización y la base de datos relacional.</td>
+    <td colspan="1">5</td>
+    <td colspan="2">Marcelo</td>
+    <td colspan="1">Done</td>
+<tr>
 
 </table>
 
@@ -1390,13 +1400,31 @@ Durante este sprint, se ha desarrollado el back-end de una API de abogados utili
     <td>200 OK: Devuelve los detalles del abogado con el ID especificado.</td>
   </tr>
   <tr>
-    <td>/api/v1/payment/{id}</td>
+    <td>/api/v1/payments/{paymentId}</td>
     <td>Obtener</td>
     <td>GET</td>
-    <td>/api/v1/payment/{id}</td>
+    <td>/api/v1/payments/{paymentId}</td>
     <td>ID del payment</td>
-    <td>POST /api/v1/payment/1</td>
-    <td>200 OK: Devuelve los detalles del abogado con el ID especificado.</td>
+    <td>POST /api/v1/payments/1</td>
+    <td>200 OK: Devuelve los detalles del pago con el ID especificado.</td>
+  </tr>
+ <tr>
+    <td>/api/v1/cards/{cardId}</td>
+    <td>Obtener</td>
+    <td>GET</td>
+    <td>/api/v1/cards/{cardId}</td>
+    <td>ID de la tarjeta</td>
+    <td>POST /api/v1/cards/1</td>
+    <td>200 OK: Devuelve los detalles de la tarjeta con el ID especificado.</td>
+  </tr>
+ <tr>
+    <td>/api/v1/prices/{priceId}</td>
+    <td>Obtener</td>
+    <td>GET</td>
+    <td>/api/v1/payments/{priceId}</td>
+    <td>ID del precio</td>
+    <td>POST /api/v1/prices/1</td>
+    <td>200 OK: Devuelve los detalles de precio con el ID especificado.</td>
   </tr>
   <tr>
     <td>/api/v1/educaational-resources/{id}</td>
