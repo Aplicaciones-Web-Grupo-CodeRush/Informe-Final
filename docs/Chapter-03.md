@@ -375,70 +375,70 @@ Los User Stories sirven para describir de manera más detallada las diferentes f
     <td>US36</td>
     <td>Diseño de la Sección de Perfil de Usuario</td>
     <td>Como desarrollador de la plataforma MedicDefense, quiero diseñar la sección de perfil para que muestre claramente la información de médico o estudiante de medicina de manera organizada y fácil de entender.</td>
-<td>Scenario: Diseño del perfil de usuario<br><br>GIVEN un usuario necesita ver su información de usuario de manera organizada,<br><br>WHEN el desarrollador diseña la sección de perfil de usuario incluyendo campos como nombre, especialidad, y datos de contacto,<br><br>THEN la sección de perfil se muestra de forma atractiva y es fácil de navegar.</td>
+<td>Scenario: Diseño del perfil de usuario<br><br>GIVEN se necesita ver información de usuario de manera organizada,<br><br>WHEN el desarrollador diseña la sección de perfil de usuario incluyendo campos como nombre, especialidad, y datos de contacto,<br><br>THEN la sección de perfil se muestra de forma atractiva y es fácil de navegar.</td>
 <td>EP01</td>
     </tr>
     <tr>
     <td>US37</td>
     <td>Diseño de la Interfaz de Edición de Perfil de Usuario</td>
     <td>Como desarrollador de la plataforma MedicDefense, quiero diseñar la interfaz de edición de perfil para que se pueda ver claramente los campos que modificar en el perfil y realizar cambios fácilmente.</td>
-<td>Scenario: Diseño de la interfaz de edición de perfil<br><br>GIVEN un usuario desea actualizar su perfil,<br><br>WHEN se creen componentes en el frontend para implementar los campos de edición de datos<br><br>THEN se muestra una interfaz con los campos de su perfil actual listos para ser editados.</td>
+<td>Scenario: Diseño de la interfaz de edición de perfil<br><br>GIVEN se necesita actualizar un perfil,<br><br>WHEN se creen componentes en el frontend para implementar los campos de edición de datos<br><br>THEN se muestra una interfaz con los campos de su perfil actual listos para ser editados.</td>
 <td>EP01</td>
     </tr>
     <tr>
     <td>US38</td>
     <td>Diseño de la Interfaz de Edición de Filtros</td>
     <td>Como desarrollador de la plataforma MedicDefense, quiero diseñar la interfaz de filtros para que se pueda ver claramente las opciones de filtro disponibles y seleccionarlas fácilmente según las necesidades del usuario.</td>
-<td>Scenario: Diseño de la interfaz de filtros<br><br>GIVEN un usuario necesita buscar algo aplicando cierto filtro,<br><br>WHEN se creen componentes en el frontend para implementar los filtros de busqueda<br><br>THEN se muestra una interfaz con todas las opciones de filtros disponibles.</td>
+<td>Scenario: Diseño de la interfaz de filtros<br><br>GIVEN se necesita buscar algo aplicando cierto filtro,<br><br>WHEN se creen componentes en el frontend para implementar los filtros de busqueda<br><br>THEN se muestra una interfaz con todas las opciones de filtros disponibles.</td>
 <td>EP01</td>
     </tr>
     <tr>
     <td>US39</td>
     <td>Diseño de la sección Suscripciones</td>
     <td>Como desarrollador de la plataforma MedicDefense, quiero implementar la sección de suscripción para que pueda obtener ayuda legal en caso de necesitarlo, lo que brindará seguridad y tranquilidad al usuario.</td>
-<td>Scenario: Suscripción para ayuda legal<br><br>GIVEN un usuario está autenticado en la plataforma,<br><br>WHEN se creen componentes en el frontend para implementar la lista de suscripciones<br><br>THEN se le presenta una lista de planes de suscripción disponibles.</td>
+<td>Scenario: Suscripción para ayuda legal<br><br>GIVEN se necesita adquirir una suscripción,<br><br>WHEN se creen componentes en el frontend para implementar la lista de suscripciones<br><br>THEN se muestra una lista de planes de suscripción disponibles.</td>
 <td>EP06</td>
     </tr>
     <tr>
     <td>US40</td>
     <td>Diseño de la interfaz Suscripciones</td>
     <td>Como desarrollador de la plataforma MedicDefense, quiero implementar una interfaz donde se pueda ver claramente los detalles de la suscripción actual y el plan seleccionado.</td>
-<td>Scenario: Ver detalles de la suscripción<br><br>GIVEN un usuario,<br><br>WHEN se creen componentes en el frontend para adquirir una suscripción,<br><br>THEN se le presenta un apartado donde puedo ver los detalles de mi suscripción.</td>
+<td>Scenario: Ver detalles de la suscripción<br><br>GIVEN se necesita ver detalles de una suscripción<br><br>WHEN se creen componentes en el frontend para administrar una suscripción,<br><br>THEN se le presenta un apartado donde puedo ver los detalles de mi suscripción.</td>
 <td>EP06</td>
     </tr>
     <tr>
     <td>US41</td>
     <td>Diseño de la interfaz de pago Suscripciones</td>
     <td>Como desarrollador de la plataforma MedicDefense, quiero implementar una interfaz donde se pueda ingresar fácilmente los detalles de tarjeta de crédito y el monto a pagar para completar el proceso de pago de la suscripción de manera segura y sin complicaciones.</td>
-<td>Scenario: Ingreso de detalles de pago<br><br>GIVEN un usuario quiere pagarle a un abogado,<br><br>WHEN se creen componentes en el frontend para implementar la adquisición de servicios,<br><br>THEN se le presenta una interfaz para ingresar los detalles de pago como tarjeta y monto a pagar.</td>
+<td>Scenario: Ingreso de detalles de pago<br><br>GIVEN se necesita pagarle a un abogado,<br><br>WHEN se creen componentes en el frontend para implementar la adquisición de servicios,<br><br>THEN se le presenta una interfaz para ingresar los detalles de pago como tarjeta y monto a pagar.</td>
 <td>EP06</td>
     </tr>
     <tr>
-    <td>HU42</td>
+    <td>US42</td>
     <td>Gestión de Consultas Médicas</td>
-    <td>Como administrador del sistema MedicDefense, quiero tener un servicio centralizado para la gestión de consultas médicas, de modo que pueda manejar eficientemente la creación, actualización, y almacenamiento de datos de consultas médicas en los diferentes repositorios, asegurando la integración con el sistema de localización y la base de datos relacional.</td>
-<td>Scenario: Creación exitosa de una consulta médica<br><br>GIVEN que un administrador autenticado accede al sistema de gestión de consultas.<br><br>WHEN solicita la creación de una nueva consulta con detalles válidos.<br><br>AND los datos proporcionados cumplen con los requisitos de validación.<br><br>THEN el sistema debe almacenar la nueva consulta en el repositorio correspondiente.<br><br>AND confirmar la creación de la consulta al usuario.</td>
+    <td>Como desarrollador del sistema MedicDefense, quiero un servicio centralizado para la gestión de consultas médicas, para manejar eficientemente la creación, actualización, y almacenamiento de datos de consultas médicas en los diferentes repositorios, asegurando la integración con el sistema de localización y la base de datos relacional.</td>
+<td>Scenario: Creación exitosa de una consulta médica<br><br>GIVEN un administrador autenticado accede al sistema de gestión de consultas.<br><br>WHEN solicita la creación de una nueva consulta con detalles válidos.<br><br>AND los datos proporcionados cumplen con los requisitos de validación.<br><br>THEN el sistema debe almacenar la nueva consulta en el repositorio correspondiente.<br><br>AND confirmar la creación de la consulta al usuario.</td>
 <td>EP05</td>
     </tr>
      <tr>
-    <td>HU43</td>
+    <td>US43</td>
     <td>Backend de Pagos</td>
-    <td>Como desarrollador del sistema MedicDefense, quiero tener un servicio centralizado para la gestión de pagos, de modo que pueda manejar almacenar los datos relevantes en los diferentes repositorios, asegurando la integración con el sistema de localización y la base de datos relacional.</td>
-<td>Scenario: Almacenar datos de pago<br><br>GIVEN que un administrador autenticado accede al sistema de información de pago.<br><br>WHEN proporciona detalles válidos al sistema.<br><br>AND selecciona "Publicar".<br><br>THEN el sistema debe almacenar la nueva información de pago en el repositorio correspondiente.<br><br>AND confirmar dicha operación.</td>
+    <td>Como desarrollador del sistema MedicDefense, quiero tener un servicio centralizado para la gestión de pagos, para manejar almacenar los datos relevantes en los diferentes repositorios, asegurando la integración con el sistema de localización y la base de datos relacional.</td>
+<td>Scenario: Almacenar datos de pago<br><br>GIVEN un administrador autenticado accede al sistema de información de pago.<br><br>WHEN proporciona detalles válidos al sistema.<br><br>AND selecciona "Publicar".<br><br>THEN el sistema debe almacenar la nueva información de pago en el repositorio correspondiente.<br><br>AND confirmar dicha operación.</td>
 <td>EP05</td>
     </tr>
      <tr>
-    <td>HU44</td>
+    <td>US44</td>
     <td>Integración MySQL</td>
-    <td>Como administrador del sistema MedicDefense, quiero que mis sistemas de backend se puedan conectar con una base de datos MySQL para tener la información importante en una base de datos relacional.</td>
-<td>Scenario: Integración con los servicios específicos<br><br>GIVEN que un administrador autenticado accede a los sistemas del backend.<br><br>WHEN hace una operación de inserción, eliminación, actualización o de recolección.<br><br>AND la operación es válida.<br><br>THEN el sistema debe conectar con la base de datos en MySQL.<br><br>AND efectuar la operación apropiadamente.</td>
+    <td>Como desarrollador del sistema MedicDefense, quiero que mis sistemas de backend se puedan conectar con una base de datos MySQL para tener la información importante en una base de datos relacional.</td>
+<td>Scenario: Integración con los servicios específicos<br><br>GIVEN un administrador autenticado accede a los sistemas del backend.<br><br>WHEN hace una operación de inserción, eliminación, actualización o de recolección.<br><br>AND la operación es válida.<br><br>THEN el sistema debe conectar con la base de datos en MySQL.<br><br>AND efectuar la operación apropiadamente.</td>
 <td>EP05</td>
     </tr>
      <tr>
-    <td>HU45</td>
+    <td>US45</td>
     <td>Creación y Gestión de Recursos Educativos</td>
     <td>Como desarrollador backend, quiero implementar la creación y gestión de recursos educativos en la base de datos para que los administradores puedan añadir, actualizar y eliminar recursos.</td>
-<td>Scenario: Crear Recurso Educativo<br><br>GIVEN que un administrador autenticado accede al sistema de gestión de recursos educativos.<br><br>WHEN proporciona detalles válidos al sistema.<br><br>AND los datos proporcionados cumplen con los requisitos de validación.<br><br>THEN el sistema debe almacenar el nuevo recurso educativo en el repositorio correspondiente.<br><br>AND confirmar dicha operación.</td>
+<td>Scenario: Crear Recurso Educativo<br><br>GIVEN un administrador autenticado accede al sistema de gestión de recursos educativos.<br><br>WHEN proporciona detalles válidos al sistema.<br><br>AND los datos proporcionados cumplen con los requisitos de validación.<br><br>THEN el sistema debe almacenar el nuevo recurso educativo en el repositorio correspondiente.<br><br>AND confirmar dicha operación.</td>
 <td>EP05</td>
     </tr>
      <tr>
@@ -449,38 +449,38 @@ Los User Stories sirven para describir de manera más detallada las diferentes f
 <td>EP05</td>
     </tr>
      <tr>
-    <td>HU47</td>
+    <td>US47</td>
     <td>Funcionalidad de Búsqueda Avanzada de Recursos Educativos</td>
     <td>Como desarrollador backend, quiero implementar una funcionalidad de búsqueda avanzada para que los usuarios puedan buscar recursos educativos por diferentes criterios.</td>
-<td>Scenario: Buscar recursos educativos<br><br>GIVEN que un administrador autenticado accede al sistema de información de pago.<br><br>WHEN proporciona detalles válidos al sistema.<br><br>AND selecciona "Buscar".<br><br>THEN el sistema debe presentar los recursos educativos.<br><br>AND filtrarlos según criterios avanzados.</td>
+<td>Scenario: Buscar recursos educativos<br><br>GIVEN un administrador autenticado accede al sistema de información de pago.<br><br>WHEN proporciona detalles válidos al sistema.<br><br>AND selecciona "Buscar".<br><br>THEN el sistema debe presentar los recursos educativos.<br><br>AND filtrarlos según criterios avanzados.</td>
 <td>EP05</td>
     </tr>
      <tr>
-    <td>HU48</td>
+    <td>US48</td>
     <td>Obtener todas las notificaciones</td>
     <td>Como desarrollador backend, quiero implementar un endpoint GET para obtener todas las notificaciones para permitir a los usuarios recuperar la lista completa de notificaciones almacenadas en el sistema.</td>
-<td>Scenario: Obtener notificaciones<br><br>GIVEN que un administrador autenticado accede al sistema de información de pago.<br><br>WHEN entre al endpoint GET.<br><br>THEN el sistema debe presentar todas las notificaciones en el sistema.</td>
+<td>Scenario: Obtener notificaciones<br><br>GIVEN un administrador autenticado accede al sistema de información de pago.<br><br>WHEN entre al endpoint GET.<br><br>THEN el sistema debe presentar todas las notificaciones en el sistema.</td>
 <td>EP05</td>
     </tr>
      <tr>
-    <td>HU49</td>
+    <td>US49</td>
     <td>Crear una nueva notificación</td>
     <td>Como desarrollador backend, quiero implementar un endpoint POST para crear una nueva notificación para permitir a los usuarios enviar nuevas notificaciones que se almacenarán en el sistema.</td>
-<td>Scenario: Almacenar notificación<br><br>GIVEN que un administrador autenticado accede al sistema de gestión de notificaciones.<br><br>WHEN proporciona detalles válidos al sistema.<br><br>AND selecciona "Publicar".<br><br>THEN el sistema debe almacenar la nueva información de notificación en el repositorio correspondiente.<br><br>AND confirmar dicha operación.</td>
+<td>Scenario: Almacenar notificación<br><br>GIVEN un administrador autenticado accede al sistema de gestión de notificaciones.<br><br>WHEN proporciona detalles válidos al sistema.<br><br>AND selecciona "Publicar".<br><br>THEN el sistema debe almacenar la nueva información de notificación en el repositorio correspondiente.<br><br>AND confirmar dicha operación.</td>
 <td>EP05</td>
     </tr>
     <tr>
-    <td>HU50</td>
+    <td>US50</td>
     <td>Obtener una notificación por ID</td>
     <td>Como desarrollador backend, quiero implementar un endpoint GET para obtener una notificación específica por su ID para permitir a los usuarios recuperar los detalles de una notificación particular basada en su identificador único.</td>
-<td>Scenario: Obtener notificación<br><br>GIVEN que un administrador autenticado accede al sistema de información de pago.<br><br>WHEN haga una operación GET.<br><br>AND especifique un Id.<br><br>THEN el sistema debe mostrar la notificación con el Id correspondiente.<br><br>AND confirmar dicha operación.</td>
+<td>Scenario: Obtener notificación<br><br>GIVEN un administrador autenticado accede al sistema de información de pago.<br><br>WHEN haga una operación GET.<br><br>AND especifique un Id.<br><br>THEN el sistema debe mostrar la notificación con el Id correspondiente.<br><br>AND confirmar dicha operación.</td>
 <td>EP05</td>
     </tr>
     <tr>
-    <td>HU51</td>
+    <td>US51</td>
     <td>Creación y gestión de recursos de casos legales</td>
     <td>Como desarrollador backend, quiero implementar la creación y gestión de casos legales para que los administradores puedan gestionar los casos legales.</td>
-<td>Scenario: Crear Caso Legal<br><br>GIVEN que un administrador autenticado accede al sistema de gestión de casos legales.<br><br>WHEN proporciona detalles válidos al sistema.<br><br>AND los datos proporcionados cumplen con los requisitos de validación.<br><br>THEN el sistema debe almacenar el nuevo caso legal en el repositorio correspondiente.<br><br>AND confirmar dicha operación.</td>
+<td>Scenario: Crear Caso Legal<br><br>GIVEN un administrador autenticado accede al sistema de gestión de casos legales.<br><br>WHEN proporciona detalles válidos al sistema.<br><br>AND los datos proporcionados cumplen con los requisitos de validación.<br><br>THEN el sistema debe almacenar el nuevo caso legal en el repositorio correspondiente.<br><br>AND confirmar dicha operación.</td>
 <td>EP05</td>
     </tr>
 </table>
