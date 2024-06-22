@@ -203,28 +203,28 @@ documentación y despliegue del Landing Page.
     <td colspan="1">Status(To-do /InProcess /To-Review /Done)</td>
 </tr>
   <tr>
-    <td colspan="1">2</td>
+    <td colspan="1">US02</td>
     <td colspan="2">Visualización de lista de tipos de suscripción</td>
-    <td colspan="1">Id</td>
+    <td colspan="1">T01</td>
     <td colspan="2">Añadir funcion para mostrar lista de tipos de suscrpción</td>
-    <td colspan="3">Como visitador del landing page de MedicDefense,quiero visitar la lista de tipos de suscripción para seleccionar alguno.</td>
+    <td colspan="3">Como visitante de la landing page de MedicDefense, quiero visitar la lista de tipos de suscripción para seleccionar alguno.</td>
     <td colspan="1">1</td>
     <td colspan="2">Fabricio</td>
     <td colspan="1">Done</td>
   </tr>
   <tr>
-    <td colspan="1">18</td>
+    <td colspan="1">Us18</td>
     <td colspan="2">Sección de Creadores</td>
-    <td colspan="1">Id</td>
+    <td colspan="1">T02</td>
     <td colspan="2">Añadir funcion para mostrar los creadores de la empresa</td>
     <td colspan="3">Como visitante de la landing page de MedicDefense, quiero ver una sección de creadores para facilitar tener el conocimiento de los creadores de la empresa.</td>
     <td colspan="1">1</td>
     <td colspan="2">Cesar</td>
     <td colspan="1">Done</td>
 <tr>
-    <td colspan="1">10</td>
+    <td colspan="1">US10</td>
     <td colspan="2">Visualización de servicios</td>
-    <td colspan="1">Id</td>
+    <td colspan="1">T03</td>
     <td colspan="2">Añadir sección de servicios</td>
     <td colspan="3">Como visitante de la landing page de MedicDefense, quiero ver una sección donde se expliquen los servicios para estar mejor informado a la hora de confiar en su servicio.</td>
     <td colspan="1">1</td>
@@ -232,9 +232,9 @@ documentación y despliegue del Landing Page.
     <td colspan="1">Done</td>
 </tr>
 <tr>
-    <td colspan="1">11</td>
+    <td colspan="1">US11</td>
     <td colspan="2">Sección de contacto</td>
-    <td colspan="1">Id</td>
+    <td colspan="1">T04</td>
     <td colspan="2">Añadir sección de contacto</td>
     <td colspan="3">Como visitante de la landing page de MedicDefense, quiero ver una sección de contacto para facilitar la comunicación al momento de solicitar el servicio.</td>
     <td colspan="1">1</td>
@@ -242,19 +242,19 @@ documentación y despliegue del Landing Page.
     <td colspan="1">Done</td>
 </tr>
 <tr>
-    <td colspan="1">12</td>
+    <td colspan="1">US12</td>
     <td colspan="2">Sección nosotros</td>
-    <td colspan="1">Id</td>
+    <td colspan="1">T05</td>
     <td colspan="2">Añadir sección nosotros</td>
-    <td colspan="3">Como visitante de la landing page de MedicDefense, quiero ver una sección nosotros para informarme sobre la empresa que está brindando los servicios.</td>
+    <td colspan="3">Como visitante de la landing page de MedicDefense, quiero ver una sección de about us para informarme sobre la empresa que está brindando los servicios.</td>
     <td colspan="1">1</td>
     <td colspan="2">Marcelo</td>
     <td colspan="1">Done</td>
 </tr>
 <tr>
-    <td colspan="1">19</td>
+    <td colspan="1">US19</td>
     <td colspan="2">Sección de inicio</td>
-    <td colspan="1">Id</td>
+    <td colspan="1">T06</td>
     <td colspan="2">Añadir sección de inicio</td>
     <td colspan="3">Como visitante de la landing page de MedicDefense, quiero ver una sección de inicio con una barra de navegación para poder desplazarme mejor por la landing page.</td>
     <td colspan="1">1</td>
@@ -578,9 +578,9 @@ una de las tareas identificadas para el sprint.
     <td colspan="1">Status(To-do /InProcess /To-Review /Done)</td>
 </tr>
   <tr>
-    <td colspan="1">26</td>
+    <td colspan="1">US26</td>
     <td colspan="2">Soporte para múltiples navegadores</td>
-    <td colspan="1">1</td>
+    <td colspan="1">T01</td>
     <td colspan="2">Añadir soporte para múltiples navegadores</td>
     <td colspan="3">Como desarrollador, quiero garantizar la compatibilidad en múltiples navegadores, para una experiencia de usuario uniforme.</td>
     <td colspan="1">5</td>
@@ -588,151 +588,151 @@ una de las tareas identificadas para el sprint.
     <td colspan="1">Done</td>
   </tr>
   <tr>
-    <td colspan="1">27</td>
+    <td colspan="1">US27</td>
     <td colspan="2">Configuración de la base de datos</td>
-    <td colspan="1">2</td>
+    <td colspan="1">T02</td>
     <td colspan="2">Configurar la base de datos como Fake-Api</td>
-    <td colspan="3">Como usuario de la plataforma, confío en que se configure la base de datos de manera adecuada para garantizar la integridad y seguridad de la información de los abogados.</td>
+    <td colspan="3">Como desarrollador de la plataforma MedicDefense, quiero diseñar y configurar correctamente la estructura de la base de datos para almacenar la información de los abogados de forma óptima.</td>
     <td colspan="1">3</td>
     <td colspan="2">Gabriel</td>
     <td colspan="1">Done</td>
   </tr>
   <tr>
-    <td colspan="1">28</td>
+    <td colspan="1">US28</td>
     <td colspan="2">Desarrollo del frontend para la lista de abogados</td>
-    <td colspan="1">3</td>
+    <td colspan="1">T03</td>
     <td colspan="2">Añadir visualización de la lista de abogados</td>
-    <td colspan="3">Como usuario de la plataforma, espero que se desarrolle el frontend para mostrar la lista de abogados de forma clara y que la interfaz sea amigable para facilitar la búsqueda.</td>
+    <td colspan="3">Como desarrollador de la plataforma MedicDefense, quiero crear componentes en el frontend para mostrar la lista de abogados de manera clara y que la interfaz de usuario sea fácil de usar.</td>
     <td colspan="1">3</td>
     <td colspan="2">Gabriel</td>
     <td colspan="1">Done</td>
   </tr>
   <tr>
-    <td colspan="1">30</td>
+    <td colspan="1">US29</td>
     <td colspan="2">Integración del toolbar	</td>
-    <td colspan="1">4</td>
+    <td colspan="1">T04</td>
     <td colspan="2">Añadir visualización del Toolbar</td>
-    <td colspan="3">Como usuario de la plataforma, deseo tener un toolbar integrado que facilite la navegación entre las diferentes secciones de la aplicación.</td>
+    <td colspan="3">Como desarrollador de la plataforma MedicDefense, quiero implementar un toolbar en el frontend para navegar fácilmente entre las diferentes secciones de la aplicación.</td>
     <td colspan="1">3</td>
     <td colspan="2">Gabriel</td>
     <td colspan="1">Done</td>
   </tr>
   <tr>
-    <td colspan="1">31</td>
+    <td colspan="1">US31</td>
     <td colspan="2">Implementación de la funcionalidad de búsqueda de abogados</td>
-    <td colspan="1">5</td>
+    <td colspan="1">T05</td>
     <td colspan="2">Añadir Implementación de la funcionalidad de búsqueda de abogados</td>
-    <td colspan="3">Como usuario de la plataforma, deseo tener una función de búsqueda en la página de lista de abogados para encontrar fácilmente profesionales por nombre o especialidad.	</td>
+    <td colspan="3">Como desarrollador de la plataforma MedicDefense, quiero agregar una función de búsqueda en la página de lista de abogados para que pueda encontrar abogados por nombre o especialidad de manera fácil y rápida.	</td>
     <td colspan="1">3</td>
     <td colspan="2">Gabriel</td>
     <td colspan="1">Done</td>
   </tr>
   <tr>
-    <td colspan="1">32</td>
+    <td colspan="1">US32</td>
     <td colspan="2">Implementación de la paginación de resultados</td>
-    <td colspan="1">6</td>
+    <td colspan="1">T06</td>
     <td colspan="2">Añadir Implementación de la paginación de resultados</td>
-    <td colspan="3">Como usuario de la plataforma, quiero que se agregue funcionalidad de paginación en la página de lista de abogados para facilitar la navegación cuando hay muchos resultados.	</td>
+    <td colspan="3">Como desarrollador de la plataforma MedicDefense, quiero agregaar funcionalidad de paginación en la página de lista de abogados para que pueda navegar fácilmente por una larga lista de abogados.	</td>
     <td colspan="1">3</td>
     <td colspan="2">Gabriel</td>
     <td colspan="1">Done</td>
   </tr>
   <tr>
-    <td colspan="1">06</td>
-    <td colspan="2">Perfil de abogado médico</td>
-    <td colspan="1">7</td>
+    <td colspan="1">US06</td>
+    <td colspan="2">Visualización de Perfil de Abogado Médico</td>
+    <td colspan="1">T07</td>
     <td colspan="2">Visualizar Perfil de abogado médico	</td>
-    <td colspan="3">Como usuario, quiero poder acceder al perfil completo de un abogado específico al hacer clic en el botón "Perfil".	</td>
+    <td colspan="3">Como usuario de la plataforma MedicDefense, quiero tener la capacidad de poder visualizar el perfil del abogado médico para ver la información de sus datos y experiencia.	</td>
     <td colspan="1">2</td>
     <td colspan="2">Fabricio</td>
     <td colspan="1">Done</td>
   </tr>
   <tr>
-    <td colspan="1">33</td>
+    <td colspan="1">US33</td>
     <td colspan="2">Implementar card que se superpone para mostrar perfiles de abogados</td>
-    <td colspan="1">8</td>
+    <td colspan="1">T08</td>
     <td colspan="2">Añadir Implementacion de card que se superpone para mostrar perfiles de abogados</td>
-    <td colspan="3">Como desarrollador quiero implementar un card que se superpone para mostrar los perfiles completos de los abogados seleccionados.	</td>
+    <td colspan="3">Como desarrollador de la plataforma MedicDefense, quiero implementar un card que se superpone para mostrar los perfiles completos de los abogados seleccionados de manera clara y organizada.	</td>
     <td colspan="1">3</td>
     <td colspan="2">Fabricio</td>
     <td colspan="1">Done</td>
   </tr>
   <tr>
-    <td colspan="1">34</td>
+    <td colspan="1">US34</td>
     <td colspan="2">Implementar método para cargar información de abogado en el card que se superpone	</td>
-    <td colspan="1">9</td>
+    <td colspan="1">T09</td>
     <td colspan="2">Añadir implementación de método para cargar información de abogado en el card que se superpone	</td>
-    <td colspan="3">Como usuario de la plataforma, quiero que se implemente un método para cargar de manera fluida la información completa de un abogado seleccionado cuando visualizo su perfil.	</td>
+    <td colspan="3">Como desarrollador de la plataforma MedicDefense, quiero implementar un método para cargar dinámicamente la información completa de un abogado seleccionado en el card que se superpone, para una experiencia de usuario fluida y sin problemas al explorar perfiles de abogados.	</td>
     <td colspan="1">3</td>
     <td colspan="2">Fabricio</td>
     <td colspan="1">Done</td>
   </tr>
   <tr>
-    <td colspan="1">35</td>
+    <td colspan="1">US35</td>
     <td colspan="2">Implementación de la Entidad de Usuario	</td>
-    <td colspan="1">10</td>
+    <td colspan="1">T10</td>
     <td colspan="2">Añadir implementacion de la entidad de usuario</td>
-    <td colspan="3">Como usuario de la plataforma, espero que se implemente una entidad de usuario para garantizar la gestión adecuada de mi información personal en el sistema.	</td>
+    <td colspan="3">Como desarrollador de la plataforma MedicDefense, quiero crear la entidad de usuario con todos los atributos necesarios para asegurar una gestión adecuada de la información.	</td>
     <td colspan="1">2</td>
     <td colspan="2">Cesar</td>
     <td colspan="1">Done</td>
   </tr>
   <tr>
-    <td colspan="1">36</td>
+    <td colspan="1">US36</td>
     <td colspan="2">Diseño de la Sección de Perfil de Usuario</td>
-    <td colspan="1">11</td>
+    <td colspan="1">T11</td>
     <td colspan="2">Añadir Diseño de la Sección de Perfil de Usuario </td>
-    <td colspan="3">Como usuario de la plataforma, quiero una sección de perfil que me permita gestionar mi información personal de manera eficiente.	</td>
+    <td colspan="3">Como desarrollador de la plataforma MedicDefense, quiero diseñar la sección de perfil para que muestre claramente la información de médico o estudiante de medicina de manera organizada y fácil de entender.	</td>
     <td colspan="1">3</td>
     <td colspan="2">Cesar</td>
     <td colspan="1">Done</td>
   </tr>
   <tr>
-    <td colspan="1">37</td>
+    <td colspan="1">US37</td>
     <td colspan="2">Diseño de la Interfaz de Edición de Perfil de Usuario	</td>
-    <td colspan="1">12</td>
+    <td colspan="1">T12</td>
     <td colspan="2">Añadir Diseño de la Interfaz de Edición de Perfil de Usuario	</td>
-    <td colspan="3">Como usuario de la plataforma, quiero una interfaz de edición de perfil intuitiva que me permita modificar fácilmente los campos de mi perfil.	</td>
+    <td colspan="3">Como desarrollador de la plataforma MedicDefense, quiero diseñar la interfaz de edición de perfil para que se pueda ver claramente los campos que modificar en el perfil y realizar cambios fácilmente.	</td>
     <td colspan="1">5</td>
     <td colspan="2">Cesar</td>
     <td colspan="1">Done</td>
   </tr>
   <tr>
-    <td colspan="1">39</td>
+    <td colspan="1">US39</td>
     <td colspan="2">Diseño de la sección Suscripciones</td>
-    <td colspan="1">13</td>
+    <td colspan="1">T13</td>
     <td colspan="2">Añadir Diseño de la sección Suscripciones</td>
-    <td colspan="3">Como desarrollador, quiero implementar la sección de suscripción para obtener ayuda legal en caso de cometer alguna negligencia médica, para estar protegido legalmente.	</td>
+    <td colspan="3">Como desarrollador de la plataforma MedicDefense, quiero implementar la sección de suscripción para que pueda obtener ayuda legal en caso de necesitarlo, lo que brindará seguridad y tranquilidad al usuario.	</td>
     <td colspan="1">3</td>
     <td colspan="2">Diego</td>
     <td colspan="1">Done</td>
   </tr>
   <tr>
-    <td colspan="1">40</td>
+    <td colspan="1">US40</td>
     <td colspan="2">Diseño de la interfaz Suscripciones</td>
-    <td colspan="1">14</td>
+    <td colspan="1">T14</td>
     <td colspan="2">Añadir Diseño de la interfaz Suscripciones</td>
-    <td colspan="3">Como usuario de la plataforma, quiero una sección de suscripción que me brinde la posibilidad de obtener ayuda legal en caso de cometer alguna negligencia médica, para sentirme protegido legalmente.	</td>
+    <td colspan="3">Como desarrollador de la plataforma MedicDefense, quiero implementar una interfaz donde se pueda ver claramente los detalles de la suscripción actual y el plan seleccionado.	</td>
     <td colspan="1">2</td>
     <td colspan="2">Diego</td>
     <td colspan="1">Done</td>
   </tr>
   <tr>
-    <td colspan="1">41</td>
+    <td colspan="1">US41</td>
     <td colspan="2">Diseño de la interfaz de pago Suscripciones</td>
-    <td colspan="1">15</td>
+    <td colspan="1">T15</td>
     <td colspan="2">Añadir Diseño de la interfaz de pago Suscripciones</td>
-    <td colspan="3">Como usuario de la plataforma, quiero una interfaz donde pueda ver claramente los detalles de mi suscripción actual, para tener acceso rápido a la información sobre mi plan seleccionado.</td>
+    <td colspan="3">Como desarrollador de la plataforma MedicDefense, quiero implementar una interfaz donde se pueda ingresar fácilmente los detalles de tarjeta de crédito y el monto a pagar para completar el proceso de pago de la suscripción de manera segura y sin complicaciones.</td>
     <td colspan="1">3</td>
     <td colspan="2">Diego</td>
     <td colspan="1">Done</td>
   </tr>
   <tr>
-    <td colspan="1">03</td>
+    <td colspan="1">US03</td>
     <td colspan="2">Visualizar actividades del Usuario</td>
-    <td colspan="1">16</td>
+    <td colspan="1">T16</td>
     <td colspan="2">Añadir Visualización de actividades del Usuario</td>
-    <td colspan="3">Como usuario de la plataforma de MedicDefense,quiero visualizar la lista de las actividades que realizo para tener un control y orden en las acciones que realizo.	</td>
+    <td colspan="3">Como usuario de la plataforma de MedicDefense, quiero visualizar la lista de las actividades que realizo para tener un control y orden en las acciones que realizo.	</td>
     <td colspan="1">3</td>
     <td colspan="2">Marcelo</td>
     <td colspan="1">Done</td>
@@ -1173,9 +1173,9 @@ Para el desarrollo de este segundo sprint, todos los miembros del equipo desarro
     <td colspan="1">Status(To-do /InProcess /To-Review /Done)</td>
 </tr>
   <tr>
-    <td colspan="1">51</td>
+    <td colspan="1">US51</td>
     <td colspan="2">Creación y gestión de recursos de casos legales</td>
-    <td colspan="1">1</td>
+    <td colspan="1">T01</td>
     <td colspan="2">Creación y gestión de recursos de casos legales</td>
     <td colspan="3">Como desarrollador backend, quiero implementar la creación y gestión de casos legales para que los administradores puedan gestionar los casos legales.</td>
     <td colspan="1">5</td>
@@ -1183,9 +1183,9 @@ Para el desarrollo de este segundo sprint, todos los miembros del equipo desarro
     <td colspan="1">Done</td>
   </tr>
   <tr>
-    <td colspan="1">45</td>
+    <td colspan="1">US45</td>
     <td colspan="2">Creación y Gestión de Recursos Educativos</td>
-    <td colspan="1">2</td>
+    <td colspan="1">T02</td>
     <td colspan="2">Creación y Gestión de Recursos Educativos</td>
     <td colspan="3">Como desarrollador backend, quiero implementar la creación y gestión de recursos educativos en la base de datos para que los administradores puedan añadir, actualizar y eliminar recursos.</td>
     <td colspan="1">5</td>
@@ -1193,9 +1193,9 @@ Para el desarrollo de este segundo sprint, todos los miembros del equipo desarro
     <td colspan="1">Done</td>
 <tr>
 <tr>
-    <td colspan="1">46</td>
+    <td colspan="1">US46</td>
     <td colspan="2">Implementación de Categorías de Recursos</td>
-    <td colspan="1">3</td>
+    <td colspan="1">T03</td>
     <td colspan="2">Implementación de Categorías de Recursos</td>
     <td colspan="3">Como desarrollador backend, quiero implementar la funcionalidad para gestionar categorías y etiquetas de recursos educativos para organizar los recursos de manera eficiente.</td>
     <td colspan="1">3</td>
@@ -1203,9 +1203,9 @@ Para el desarrollo de este segundo sprint, todos los miembros del equipo desarro
     <td colspan="1">Done</td>
 <tr>
 <tr>
-    <td colspan="1">47</td>
+    <td colspan="1">US47</td>
     <td colspan="2">Funcionalidad de Búsqueda Avanzada de Recursos Educativos</td>
-    <td colspan="1">4</td>
+    <td colspan="1">T04</td>
     <td colspan="2">Funcionalidad de Búsqueda Avanzada de Recursos Educativos</td>
     <td colspan="3">Como desarrollador backend, quiero implementar una funcionalidad de búsqueda avanzada para que los usuarios puedan buscar recursos educativos por diferentes criterios.</td>
     <td colspan="1">5</td>
@@ -1213,9 +1213,9 @@ Para el desarrollo de este segundo sprint, todos los miembros del equipo desarro
     <td colspan="1">Done</td>
 <tr>
 <tr>
-    <td colspan="1">48</td>
+    <td colspan="1">US48</td>
     <td colspan="2">Obtener todas las notificaciones</td>
-    <td colspan="1">5</td>
+    <td colspan="1">T05</td>
     <td colspan="2">Obtener todas las notificaciones</td>
     <td colspan="3">Como desarrollador backend, quiero implementar un endpoint GET para obtener todas las notificaciones para permitir a los usuarios recuperar la lista completa de notificaciones almacenadas en el sistema.</td>
     <td colspan="1">5</td>
@@ -1223,9 +1223,9 @@ Para el desarrollo de este segundo sprint, todos los miembros del equipo desarro
     <td colspan="1">Done</td>
 <tr>
 <tr>
-    <td colspan="1">49</td>
+    <td colspan="1">US49</td>
     <td colspan="2">Crear una nueva notificación</td>
-    <td colspan="1">6</td>
+    <td colspan="1">T06</td>
     <td colspan="2">Crear una nueva notificación</td>
     <td colspan="3">Como desarrollador backend, quiero implementar un endpoint POST para crear una nueva notificación para permitir a los usuarios enviar nuevas notificaciones que se almacenarán en el sistema.</td>
     <td colspan="1">5</td>
@@ -1233,9 +1233,9 @@ Para el desarrollo de este segundo sprint, todos los miembros del equipo desarro
     <td colspan="1">Done</td>
 <tr>
 <tr>
-    <td colspan="1">50</td>
+    <td colspan="1">US50</td>
     <td colspan="2">Obtener una notificación por ID</td>
-    <td colspan="1">7</td>
+    <td colspan="1">T07</td>
     <td colspan="2">Obtener una notificación por ID</td>
     <td colspan="3">Como desarrollador backend, quiero implementar un endpoint GET para obtener una notificación específica por su ID para permitir a los usuarios recuperar los detalles de una notificación particular basada en su identificador único.</td>
     <td colspan="1">5</td>
@@ -1243,19 +1243,19 @@ Para el desarrollo de este segundo sprint, todos los miembros del equipo desarro
     <td colspan="1">Done</td>
 <tr>
 <tr>
-    <td colspan="1">18</td>
+    <td colspan="1">US20</td>
     <td colspan="2">Integración de pagos</td>
-    <td colspan="1">8</td>
+    <td colspan="1">T08</td>
     <td colspan="2">Integración de pagos</td>
-    <td colspan="3">Como administrador, quiero integrar un sistema de pagos seguro para gestionar las suscripciones y compras en la plataforma.</td>
+    <td colspan="3">Como desarrollador, quiero integrar un sistema de pagos seguro para gestionar las suscripciones y compras en la plataforma.</td>
     <td colspan="1">8</td>
     <td colspan="2">Marcelo</td>
     <td colspan="1">Done</td>
 <tr>
 <tr>
-    <td colspan="1">43</td>
+    <td colspan="1">US43</td>
     <td colspan="2">Backend de pagos</td>
-    <td colspan="1">9</td>
+    <td colspan="1">T09</td>
     <td colspan="2">Backend de pagos</td>
     <td colspan="3">Como desarrollador del sistema MedicDefense, quiero tener un servicio centralizado para la gestión de pagos, de modo que pueda manejar almacenar los datos relevantes en los diferentes repositorios, asegurando la integración con el sistema de localización y la base de datos relacional.</td>
     <td colspan="1">5</td>
@@ -1263,21 +1263,21 @@ Para el desarrollo de este segundo sprint, todos los miembros del equipo desarro
     <td colspan="1">Done</td>
 <tr>
 <tr>
-    <td colspan="1">42</td>
+    <td colspan="1">US42</td>
     <td colspan="2">Gestión de Consultas Médicas</td>
-    <td colspan="1">10</td>
+    <td colspan="1">T10</td>
     <td colspan="2">Gestión de Consultas Médicas</td>
-    <td colspan="3">Como administrador del sistema MedicDefense, quiero tener un servicio centralizado para la gestión de consultas médicas, de modo que pueda manejar eficientemente la creación, actualización, y almacenamiento de datos de consultas médicas en los diferentes repositorios, asegurando la integración con el sistema de localización y la base de datos relacional.</td>
+    <td colspan="3">Como desarrollador del sistema MedicDefense, quiero un servicio centralizado para la gestión de consultas médicas, para manejar eficientemente la creación, actualización, y almacenamiento de datos de consultas médicas en los diferentes repositorios, asegurando la integración con el sistema de localización y la base de datos relacional.</td>
     <td colspan="1">3</td>
     <td colspan="2">Cesar</td>
     <td colspan="1">Done</td>
 <tr>
 <tr>
-    <td colspan="1">44</td>
+    <td colspan="1">US44</td>
     <td colspan="2">Integración MySQL</td>
-    <td colspan="1">11</td>
+    <td colspan="1">T11</td>
     <td colspan="2">Integración MySQL</td>
-    <td colspan="3">Como administrador del sistema MedicDefense, quiero que mis sistemas de backend se puedan conectar con una base de datos MySQL para tener la información importante en una base de datos relacional.</td>
+    <td colspan="3">Como desarrollador del sistema MedicDefense, quiero que mis sistemas de backend se puedan conectar con una base de datos MySQL para tener la información importante en una base de datos relacional.</td>
     <td colspan="1">2</td>
     <td colspan="2">Cesar</td>
     <td colspan="1">Done</td>
