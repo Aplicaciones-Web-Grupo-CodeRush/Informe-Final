@@ -2594,18 +2594,18 @@ Commits relacionados:
 ### 5.2.4.7. Software Deployment Evidence for Sprint Review
 Para el desarrollo de la segunda version de Web Services y el Frontend Web Application, hemos utilizado la plataforma Github para poder almacenar el avance realizado.
 
-![alt text](<../assets/imgs/Evidence Backend.png>)
+![alt text](<../assets/imgs/Evidence Backend.PNG>)
 
 ### 5.2.4.8. Team Collaboration Insights during Sprint
 Para el desarrollo de este tercer sprint, todos los miembros del equipo desarrollaron y colaboraron de manera activa y continua. De tal modo, se muestra como evidencia los insights de cada miembro del equipo.
 
 **Commits:**
 
-![alt text](<../assets/imgs/commits sprint 4.png>)
+![alt text](<../assets/imgs/commits sprint 4.PNG>)
 
 **Analiticas de Colaboración:**
 
-![alt text](<../assets/imgs/netwk sprint 4.png>)
+![alt text](<../assets/imgs/netwk sprint 4.PNG>)
 
 ## 5.3 Validation Interviews
 
