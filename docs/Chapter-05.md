@@ -1980,544 +1980,301 @@ Durante este sprint, se ha mejorado el back-end y front-end de una API integral 
     <th>Explicación del Response</th>
   </tr>
   <tr>
-    <td>/api/v1/medic/{recordId}/add-one-to-consultation</td>
-    <td>Añadir consulta</td>
+    <td>/api/v1/consultation/{Id}</td>
+    <td>Obtener por id</td>
+    <td>GET</td>
+    <td>/api/v1/consultation/{Id}</td>
+    <td>Id</td>
+    <td>GET /api/v1/consultation/1</td>
+    <td>200 OK: Devuelve la consulta especificada.</td>
+  </tr>
+ <tr>
+    <td>/api/v1/consultation/{Id}</td>
+    <td>Modificar doctor y/o abogado</td>
     <td>PUT</td>
-    <td>/api/v1/medic/{recordId}/add-one-to-consultation</td>
-    <td>recordId</td>
-    <td>PUT /api/v1/medic/1/add-one-to-consultation</td>
-    <td>200 OK: Añade una consulta al registro especificado.</td>
+    <td>/api/v1/consultation/{Id}</td>
+    <td>Id</td>
+    <td>PUT /api/v1/consultation/1</td>
+    <td>200 OK: Doctor y abogados actualizados.</td>
   </tr>
   <tr>
-    <td>/api/v1/medic</td>
-    <td>Listar</td>
-    <td>GET</td>
-    <td>/api/v1/medic</td>
-    <td>-</td>
-    <td>GET /api/v1/medic</td>
-    <td>200 OK: Devuelve una lista de todos los médicos.</td>
-  </tr>
-  <tr>
-    <td>/api/v1/medic</td>
-    <td>Crear</td>
-    <td>POST</td>
-    <td>/api/v1/medic</td>
-    <td>-</td>
-    <td>POST /api/v1/medic</td>
-    <td>201 Created: Crea un nuevo médico.</td>
-  </tr>
-  <tr>
-    <td>/api/v1/medic/{userId}/user</td>
-    <td>Obtener por usuario</td>
-    <td>GET</td>
-    <td>/api/v1/medic/{userId}/user</td>
-    <td>userId</td>
-    <td>GET /api/v1/medic/1/user</td>
-    <td>200 OK: Devuelve los detalles del médico para el usuario especificado.</td>
-  </tr>
-  <tr>
-    <td>/api/v1/medic/{recordId}/medic-defense-record</td>
-    <td>Obtener registro de defensa médica</td>
-    <td>GET</td>
-    <td>/api/v1/medic/{recordId}/medic-defense-record</td>
-    <td>recordId</td>
-    <td>GET /api/v1/medic/1/medic-defense-record</td>
-    <td>200 OK: Devuelve el registro de defensa médica para el ID especificado.</td>
-  </tr>
-  <tr>
-    <td>/api/v1/medic/{profileId}/profile</td>
-    <td>Obtener perfil</td>
-    <td>GET</td>
-    <td>/api/v1/medic/{profileId}/profile</td>
-    <td>profileId</td>
-    <td>GET /api/v1/medic/1/profile</td>
-    <td>200 OK: Devuelve el perfil del médico para el ID especificado.</td>
-  </tr>
-  <tr>
-    <td>/api/v1/legal-consultation/{legalConsultationId}/LegalIssue/{legalIssueId}/{respond}</td>
-    <td>Responder a una cuestión legal</td>
-    <td>PUT</td>
-    <td>/api/v1/legal-consultation/{legalConsultationId}/LegalIssue/{legalIssueId}/{respond}</td>
-    <td>legalConsultationId, legalIssueId, respond</td>
-    <td>PUT /api/v1/legal-consultation/1/LegalIssue/1/respond</td>
-    <td>200 OK: Responde a la cuestión legal especificada.</td>
-  </tr>
-  <tr>
-    <td>/api/v1/legal-consultation/{legalConsultationId}/LegalIssue/{legalIssueId}/close</td>
-    <td>Cerrar cuestión legal</td>
-    <td>PUT</td>
-    <td>/api/v1/legal-consultation/{legalConsultationId}/LegalIssue/{legalIssueId}/close</td>
-    <td>legalConsultationId, legalIssueId</td>
-    <td>PUT /api/v1/legal-consultation/1/LegalIssue/1/close</td>
-    <td>200 OK: Cierra la cuestión legal especificada.</td>
-  </tr>
-  <tr>
-    <td>/api/v1/legal-consultation/{legalConsultationId}/LegalIssue/{issueName}</td>
-    <td>Crear cuestión legal</td>
-    <td>POST</td>
-    <td>/api/v1/legal-consultation/{legalConsultationId}/LegalIssue/{issueName}</td>
-    <td>legalConsultationId, issueName</td>
-    <td>POST /api/v1/legal-consultation/1/LegalIssue/nueva-cuestion</td>
-    <td>201 Created: Crea una nueva cuestión legal para la consulta especificada.</td>
-  </tr>
-  <tr>
-    <td>/api/v1/legal-consultation/{legalConsultationId}/LegalIssue</td>
-    <td>Listar cuestiones legales</td>
-    <td>GET</td>
-    <td>/api/v1/legal-consultation/{legalConsultationId}/LegalIssue</td>
-    <td>legalConsultationId</td>
-    <td>GET /api/v1/legal-consultation/1/LegalIssue</td>
-    <td>200 OK: Devuelve una lista de cuestiones legales para la consulta especificada.</td>
-  </tr>
-  <tr>
-    <td>/api/v1/LegalIssue</td>
-    <td>Listar todas las cuestiones legales</td>
-    <td>GET</td>
-    <td>/api/v1/LegalIssue</td>
-    <td>-</td>
-    <td>GET /api/v1/LegalIssue</td>
-    <td>200 OK: Devuelve una lista de todas las cuestiones legales.</td>
-  </tr>
-  <tr>
-    <td>/api/v1/LegalIssue/{legalIssueId}</td>
-    <td>Obtener cuestión legal</td>
-    <td>GET</td>
-    <td>/api/v1/LegalIssue/{legalIssueId}</td>
-    <td>legalIssueId</td>
-    <td>GET /api/v1/LegalIssue/1</td>
-    <td>200 OK: Devuelve los detalles de la cuestión legal con el ID especificado.</td>
-  </tr>
-  <tr>
-    <td>/api/v1/legalcases</td>
-    <td>Listar casos legales</td>
-    <td>GET</td>
-    <td>/api/v1/legalcases</td>
-    <td>-</td>
-    <td>GET /api/v1/legalcases</td>
-    <td>200 OK: Devuelve una lista de todos los casos legales.</td>
-  </tr>
-  <tr>
-    <td>/api/v1/legalcases</td>
-    <td>Crear caso legal</td>
-    <td>POST</td>
-    <td>/api/v1/legalcases</td>
-    <td>-</td>
-    <td>POST /api/v1/legalcases</td>
-    <td>201 Created: Crea un nuevo caso legal.</td>
-  </tr>
-  <tr>
-    <td>/api/v1/legalcases/{legalCaseId}/close</td>
-    <td>Cerrar caso legal</td>
-    <td>POST</td>
-    <td>/api/v1/legalcases/{legalCaseId}/close</td>
-    <td>legalCaseId</td>
-    <td>POST /api/v1/legalcases/1/close</td>
-    <td>200 OK: Cierra el caso legal especificado.</td>
-  </tr>
-  <tr>
-    <td>/api/v1/legalcases/{status}</td>
-    <td>Obtener casos legales por estado</td>
-    <td>GET</td>
-    <td>/api/v1/legalcases/{status}</td>
-    <td>status</td>
-    <td>GET /api/v1/legalcases/abierto</td>
-    <td>200 OK: Devuelve una lista de casos legales con el estado especificado.</td>
-  </tr>
-  <tr>
-    <td>/api/v1/legalcases/{legalCaseId}</td>
-    <td>Obtener caso legal</td>
-    <td>GET</td>
-    <td>/api/v1/legalcases/{legalCaseId}</td>
-    <td>legalCaseId</td>
-    <td>GET /api/v1/legalcases/1</td>
-    <td>200 OK: Devuelve los detalles del caso legal con el ID especificado.</td>
-  </tr>
-  <tr>
-    <td>/api/v1/notifications</td>
-    <td>Listar notificaciones</td>
-    <td>GET</td>
-    <td>/api/v1/notifications</td>
-    <td>-</td>
-    <td>GET /api/v1/notifications</td>
-    <td>200 OK: Devuelve una lista de todas las notificaciones.</td>
-  </tr>
-  <tr>
-    <td>/api/v1/notifications</td>
-    <td>Crear notificación</td>
-    <td>POST</td>
-    <td>/api/v1/notifications</td>
-    <td>-</td>
-    <td>POST /api/v1/notifications</td>
-    <td>201 Created: Crea una nueva notificación.</td>
-  </tr>
-  <tr>
-    <td>/api/v1/notifications/{notificationId}</td>
-    <td>Obtener notificación</td>
-    <td>GET</td>
-    <td>/api/v1/notifications/{notificationId}</td>
-    <td>notificationId</td>
-    <td>GET /api/v1/notifications/1</td>
-    <td>200 OK: Devuelve los detalles de la notificación con el ID especificado.</td>
-  </tr>
-  <tr>
-    <td>/api/v1/legal-consultations</td>
-    <td>Listar consultas legales</td>
-    <td>GET</td>
-    <td>/api/v1/legal-consultations</td>
-    <td>-</td>
-    <td>GET /api/v1/legal-consultations</td>
-    <td>200 OK: Devuelve una lista de todas las consultas legales.</td>
-  </tr>
-  <tr>
-    <td>/api/v1/legal-consultations</td>
-    <td>Crear consulta legal</td>
-    <td>POST</td>
-    <td>/api/v1/legal-consultations</td>
-    <td>-</td>
-    <td>POST /api/v1/legal-consultations</td>
-    <td>201 Created: Crea una nueva consulta legal.</td>
-  </tr>
-  <tr>
-    <td>/api/v1/legal-consultations/{legalConsultationId}</td>
-    <td>Obtener consulta legal</td>
-    <td>GET</td>
-    <td>/api/v1/legal-consultations/{legalConsultationId}</td>
-    <td>legalConsultationId</td>
-    <td>GET /api/v1/legal-consultations/1</td>
-    <td>200 OK: Devuelve los detalles de la consulta legal con el ID especificado.</td>
-  </tr>
-  <tr>
-    <td>/api/v1/legal-consultations/{legalConsultationId}</td>
-    <td>Eliminar consulta legal</td>
+    <td>/api/v1/consultation/{Id}</td>
+    <td>Borrar consulta</td>
     <td>DELETE</td>
-    <td>/api/v1/legal-consultations/{legalConsultationId}</td>
-    <td>legalConsultationId</td>
-    <td>DELETE /api/v1/legal-consultations/1</td>
-    <td>200 OK: Elimina la consulta legal con el ID especificado.</td>
+    <td>/api/v1/consultation/{Id}</td>
+    <td>Id</td>
+    <td>DELETE /api/v1/consultation/1</td>
+    <td>200 OK: Consulta borrada.</td>
   </tr>
   <tr>
-    <td>/api/v1/medic_student/{recordId}/add-one-to-paid-service</td>
-    <td>Añadir servicio pagado</td>
-    <td>PUT</td>
-    <td>/api/v1/medic_student/{recordId}/add-one-to-paid-service</td>
-    <td>recordId</td>
-    <td>PUT /api/v1/medic_student/1/add-one-to-paid-service</td>
-    <td>200 OK: Añade un servicio pagado al registro especificado.</td>
-  </tr>
-  <tr>
-    <td>/api/v1/medic_student/{recordId}/add-one-to-consultation</td>
-    <td>Añadir consulta</td>
-    <td>PUT</td>
-    <td>/api/v1/medic_student/{recordId}/add-one-to-consultation</td>
-    <td>recordId</td>
-    <td>PUT /api/v1/medic_student/1/add-one-to-consultation</td>
-    <td>200 OK: Añade una consulta al registro especificado.</td>
-  </tr>
-  <tr>
-    <td>/api/v1/medic_student</td>
+    <td>/api/v1/consultation</td>
     <td>Listar</td>
     <td>GET</td>
-    <td>/api/v1/medic_student</td>
+    <td>/api/v1/consultation</td>
     <td>-</td>
-    <td>GET /api/v1/medic_student</td>
-    <td>200 OK: Devuelve una lista de todos los estudiantes de medicina.</td>
+    <td>GET /api/v1/consultation</td>
+    <td>200 OK: Devuelve una lista de todos las consultas.</td>
   </tr>
   <tr>
-    <td>/api/v1/medic_student</td>
+    <td>/api/v1/consultation</td>
     <td>Crear</td>
     <td>POST</td>
-    <td>/api/v1/medic_student</td>
+    <td>/api/v1/consultation</td>
     <td>-</td>
-    <td>POST /api/v1/medic_student</td>
-    <td>201 Created: Crea un nuevo estudiante de medicina.</td>
+    <td>POST /api/v1/consultation</td>
+    <td>201 Created: Crea una nueva consulta.</td>
   </tr>
   <tr>
-    <td>/api/v1/medic_student/{recordId}/universities/{universityName}</td>
-    <td>Añadir universidad</td>
+    <td>/api/v1/consultation/doctor</td>
+    <td>Crear</td>
     <td>POST</td>
-    <td>/api/v1/medic_student/{recordId}/universities/{universityName}</td>
-    <td>recordId, universityName</td>
-    <td>POST /api/v1/medic_student/1/universities/Harvard</td>
-    <td>200 OK: Añade una universidad al registro especificado.</td>
+    <td>/api/v1/consultation/doctor</td>
+    <td>-</td>
+    <td>POST /api/v1/consultation/lawyer</td>
+    <td>201 Created: Crea un nuevo doctor.</td>
   </tr>
   <tr>
-    <td>/api/v1/medic_student/{userId}/user</td>
-    <td>Obtener por usuario</td>
-    <td>GET</td>
-    <td>/api/v1/medic_student/{userId}/user</td>
-    <td>userId</td>
-    <td>GET /api/v1/medic_student/1/user</td>
-    <td>200 OK: Devuelve los detalles del estudiante de medicina para el usuario especificado.</td>
-  </tr>
-  <tr>
-    <td>/api/v1/medic_student/{recordId}/medic-defense-record</td>
-    <td>Obtener registro de defensa médica</td>
-    <td>GET</td>
-    <td>/api/v1/medic_student/{recordId}/medic-defense-record</td>
-    <td>recordId</td>
-    <td>GET /api/v1/medic_student/1/medic-defense-record</td>
-    <td>200 OK: Devuelve el registro de defensa médica para el ID especificado.</td>
-  </tr>
-  <tr>
-    <td>/api/v1/authentication/sign-up</td>
-    <td>Registrarse</td>
+    <td>/api/v1/consultation/lawyer</td>
+    <td>Crear</td>
     <td>POST</td>
-    <td>/api/v1/authentication/sign-up</td>
+    <td>/api/v1/consultation/lawyer</td>
     <td>-</td>
-    <td>POST /api/v1/authentication/sign-up</td>
-    <td>201 Created: Registra un nuevo usuario.</td>
-  </tr>
-  <tr>
-    <td>/api/v1/authentication/sign-in</td>
-    <td>Iniciar sesión</td>
-    <td>POST</td>
-    <td>/api/v1/authentication/sign-in</td>
-    <td>-</td>
-    <td>POST /api/v1/authentication/sign-in</td>
-    <td>200 OK: Inicia sesión un usuario.</td>
-  </tr>
-  <tr>
-    <td>/api/v1/profiles/{profileId}/Phone</td>
-    <td>Actualizar teléfono</td>
-    <td>PUT</td>
-    <td>/api/v1/profiles/{profileId}/Phone</td>
-    <td>profileId</td>
-    <td>PUT /api/v1/profiles/1/Phone</td>
-    <td>200 OK: Actualiza el número de teléfono del perfil especificado.</td>
-  </tr>
-  <tr>
-    <td>/api/v1/profiles/{profileId}/Name</td>
-    <td>Actualizar nombre</td>
-    <td>PUT</td>
-    <td>/api/v1/profiles/{profileId}/Name</td>
-    <td>profileId</td>
-    <td>PUT /api/v1/profiles/1/Name</td>
-    <td>200 OK: Actualiza el nombre del perfil especificado.</td>
-  </tr>
-  <tr>
-    <td>/api/v1/profiles/{profileId}/ImgUrl</td>
-    <td>Actualizar imagen de perfil</td>
-    <td>PUT</td>
-    <td>/api/v1/profiles/{profileId}/ImgUrl</td>
-    <td>profileId</td>
-    <td>PUT /api/v1/profiles/1/ImgUrl</td>
-    <td>200 OK: Actualiza la imagen de perfil del perfil especificado.</td>
-  </tr>
-  <tr>
-    <td>/api/v1/profiles/{profileId}/Email</td>
-    <td>Actualizar correo electrónico</td>
-    <td>PUT</td>
-    <td>/api/v1/profiles/{profileId}/Email</td>
-    <td>profileId</td>
-    <td>PUT /api/v1/profiles/1/Email</td>
-    <td>200 OK: Actualiza el correo electrónico del perfil especificado.</td>
-  </tr>
-  <tr>
-    <td>/api/v1/profiles/{profileId}/DNI</td>
-    <td>Actualizar DNI</td>
-    <td>PUT</td>
-    <td>/api/v1/profiles/{profileId}/DNI</td>
-    <td>profileId</td>
-    <td>PUT /api/v1/profiles/1/DNI</td>
-    <td>200 OK: Actualiza el DNI del perfil especificado.</td>
-  </tr>
-  <tr>
-    <td>/api/v1/profiles</td>
-    <td>Listar perfiles</td>
-    <td>GET</td>
-    <td>/api/v1/profiles</td>
-    <td>-</td>
-    <td>GET /api/v1/profiles</td>
-    <td>200 OK: Devuelve una lista de todos los perfiles.</td>
-  </tr>
-  <tr>
-    <td>/api/v1/profiles</td>
-    <td>Crear perfil</td>
-    <td>POST</td>
-    <td>/api/v1/profiles</td>
-    <td>-</td>
-    <td>POST /api/v1/profiles</td>
-    <td>201 Created: Crea un nuevo perfil.</td>
-  </tr>
-  <tr>
-    <td>/api/v1/profiles/{profileId}/specialitys/{specialityName}</td>
-    <td>Añadir especialidad</td>
-    <td>POST</td>
-    <td>/api/v1/profiles/{profileId}/specialitys/{specialityName}</td>
-    <td>profileId, specialityName</td>
-    <td>POST /api/v1/profiles/1/specialitys/dermatología</td>
-    <td>200 OK: Añade una especialidad al perfil especificado.</td>
-  </tr>
-  <tr>
-    <td>/api/v1/profiles/{profileId}</td>
-    <td>Obtener perfil</td>
-    <td>GET</td>
-    <td>/api/v1/profiles/{profileId}</td>
-    <td>profileId</td>
-    <td>GET /api/v1/profiles/1</td>
-    <td>200 OK: Devuelve los detalles del perfil con el ID especificado.</td>
-  </tr>
-  <tr>
-    <td>/api/v1/educational-resources</td>
-    <td>Listar recursos educativos</td>
-    <td>GET</td>
-    <td>/api/v1/educational-resources</td>
-    <td>-</td>
-    <td>GET /api/v1/educational-resources</td>
-    <td>200 OK: Devuelve una lista de todos los recursos educativos.</td>
-  </tr>
-  <tr>
-    <td>/api/v1/educational-resources</td>
-    <td>Crear recurso educativo</td>
-    <td>POST</td>
-    <td>/api/v1/educational-resources</td>
-    <td>-</td>
-    <td>POST /api/v1/educational-resources</td>
-    <td>201 Created: Crea un nuevo recurso educativo.</td>
-  </tr>
-  <tr>
-    <td>/api/v1/educational-resources/{id}</td>
-    <td>Obtener recurso educativo</td>
-    <td>GET</td>
-    <td>/api/v1/educational-resources/{id}</td>
-    <td>id</td>
-    <td>GET /api/v1/educational-resources/1</td>
-    <td>200 OK: Devuelve los detalles del recurso educativo con el ID especificado.</td>
-  </tr>
-  <tr>
-    <td>/api/v1/educational-resources/all</td>
-    <td>Listar todos los recursos educativos</td>
-    <td>GET</td>
-    <td>/api/v1/educational-resources/all</td>
-    <td>-</td>
-    <td>GET /api/v1/educational-resources/all</td>
-    <td>200 OK: Devuelve una lista de todos los recursos educativos.</td>
-  </tr>
-  <tr>
-    <td>/api/v1/lawyers/{recordId}/price</td>
-    <td>Actualizar precio</td>
-    <td>PUT</td>
-    <td>/api/v1/lawyers/{recordId}/price</td>
-    <td>recordId</td>
-    <td>PUT /api/v1/lawyers/1/price</td>
-    <td>200 OK: Actualiza el precio del abogado especificado.</td>
-  </tr>
-  <tr>
-    <td>/api/v1/lawyers/{recordId}/YearExperience</td>
-    <td>Actualizar años de experiencia</td>
-    <td>PUT</td>
-    <td>/api/v1/lawyers/{recordId}/YearExperience</td>
-    <td>recordId</td>
-    <td>PUT /api/v1/lawyers/1/YearExperience</td>
-    <td>200 OK: Actualiza los años de experiencia del abogado especificado.</td>
-  </tr>
-  <tr>
-    <td>/api/v1/lawyers/{recordId}/WonCases</td>
-    <td>Actualizar casos ganados</td>
-    <td>PUT</td>
-    <td>/api/v1/lawyers/{recordId}/WonCases</td>
-    <td>recordId</td>
-    <td>PUT /api/v1/lawyers/1/WonCases</td>
-    <td>200 OK: Actualiza los casos ganados del abogado especificado.</td>
-  </tr>
-  <tr>
-    <td>/api/v1/lawyers</td>
-    <td>Listar abogados</td>
-    <td>GET</td>
-    <td>/api/v1/lawyers</td>
-    <td>-</td>
-    <td>GET /api/v1/lawyers</td>
-    <td>200 OK: Devuelve una lista de todos los abogados.</td>
-  </tr>
-  <tr>
-    <td>/api/v1/lawyers</td>
-    <td>Crear abogado</td>
-    <td>POST</td>
-    <td>/api/v1/lawyers</td>
-    <td>-</td>
-    <td>POST /api/v1/lawyers</td>
+    <td>POST /api/v1/consultation/lawyer</td>
     <td>201 Created: Crea un nuevo abogado.</td>
   </tr>
   <tr>
-    <td>/api/v1/lawyers/{userId}/user</td>
-    <td>Obtener abogado por usuario</td>
-    <td>GET</td>
-    <td>/api/v1/lawyers/{userId}/user</td>
-    <td>userId</td>
-    <td>GET /api/v1/lawyers/1/user</td>
-    <td>200 OK: Devuelve los detalles del abogado para el usuario especificado.</td>
-  </tr>
-  <tr>
-    <td>/api/v1/lawyers/{recordId}/medic-defense-record</td>
-    <td>Obtener registro de defensa médica</td>
-    <td>GET</td>
-    <td>/api/v1/lawyers/{recordId}/medic-defense-record</td>
-    <td>recordId</td>
-    <td>GET /api/v1/lawyers/1/medic-defense-record</td>
-    <td>200 OK: Devuelve el registro de defensa médica del abogado especificado.</td>
-  </tr>
-  <tr>
-    <td>/api/v1/lawyers/{profileId}/profile</td>
-    <td>Obtener perfil del abogado</td>
-    <td>GET</td>
-    <td>/api/v1/lawyers/{profileId}/profile</td>
-    <td>profileId</td>
-    <td>GET /api/v1/lawyers/1/profile</td>
-    <td>200 OK: Devuelve el perfil del abogado especificado.</td>
-  </tr>
-  <tr>
-    <td>/api/v1/speciality</td>
-    <td>Listar especialidades</td>
-    <td>GET</td>
-    <td>/api/v1/speciality</td>
-    <td>-</td>
-    <td>GET /api/v1/speciality</td>
-    <td>200 OK: Devuelve una lista de todas las especialidades.</td>
-  </tr>
-  <tr>
-    <td>/ap/v1/roles</td>
-    <td>Listar roles</td>
-    <td>GET</td>
-    <td>/ap/v1/roles</td>
-    <td>-</td>
-    <td>GET /ap/v1/roles</td>
-    <td>200 OK: Devuelve una lista de todos los roles.</td>
-  </tr>
-  <tr>
-    <td>/api/v1/users</td>
-    <td>Listar usuarios</td>
-    <td>GET</td>
-    <td>/api/v1/users</td>
-    <td>-</td>
-    <td>GET /api/v1/users</td>
-    <td>200 OK: Devuelve una lista de todos los usuarios.</td>
-  </tr>
-  <tr>
-    <td>/api/v1/users/{userId}</td>
-    <td>Obtener usuario</td>
-    <td>GET</td>
-    <td>/api/v1/users/{userId}</td>
-    <td>userId</td>
-    <td>GET /api/v1/users/1</td>
-    <td>200 OK: Devuelve los detalles del usuario con el ID especificado.</td>
-  </tr>
-  <tr>
-    <td>/api/v1/universities</td>
-    <td>Listar universidades</td>
-    <td>GET</td>
-    <td>/api/v1/universities</td>
-    <td>-</td>
-    <td>GET /api/v1/universities</td>
-    <td>200 OK: Devuelve una lista de todas las universidades.</td>
-  </tr>
-  <tr>
-    <td>/api/v1/universities</td>
-    <td>Crear universidad</td>
+    <td>/api/v1/educational-resource</td>
+    <td>Crear</td>
     <td>POST</td>
-    <td>/api/v1/universities</td>
+    <td>/api/v1/educational-resource</td>
     <td>-</td>
-    <td>POST /api/v1/universities</td>
-    <td>201 Created: Crea una nueva universidad.</td>
+    <td>POST /api/v1/educational-resource</td>
+    <td>201 Created: Crea un nuevo recurso educacional.</td>
+  </tr>
+ <tr>
+    <td>/api/v1/educational-resource</td>
+    <td>Listar</td>
+    <td>GET</td>
+    <td>/api/v1/educational-resource</td>
+    <td>-</td>
+    <td>GET /api/v1/educational-resource</td>
+    <td>201 Ok: Devuelve todos los recursos.</td>
+  </tr>
+  <tr>
+    <td>/api/v1/educational-resource/{id}</td>
+    <td>Devolver recurso por Id</td>
+    <td>GET</td>
+    <td>/api/v1/educational-resource/{id}</td>
+    <td>id</td>
+    <td>GET /api/v1/educational-resource/1</td>
+    <td>201 Ok: Devuelve el recurso indicado.</td>
+  </tr>
+  <tr>
+    <td>/api/v1/educational-resource/title/{title}</td>
+    <td>Devolver recurso por Título</td>
+    <td>GET</td>
+    <td>/api/v1/educational-resource/title/{title}</td>
+    <td>title</td>
+    <td>GET /api/v1/educational-resource/title/1</td>
+    <td>201 Ok: Devuelve el recurso indicado.</td>
+  </tr>
+  <tr>
+    <td>/api/v1/educational-resource/author/{author}</td>
+    <td>Devolver recurso por Autor</td>
+    <td>GET</td>
+    <td>/api/v1/educational-resource/author/{author}</td>
+    <td>author</td>
+    <td>GET /api/v1/educational-resource/author/1</td>
+    <td>201 Ok: Devuelve el recurso indicado.</td>
+  </tr>
+  <tr>
+    <td>/api/v1/legal-case</td>
+    <td>Crear</td>
+    <td>POST</td>
+    <td>/api/v1/legal-case</td>
+    <td>-</td>
+    <td>POST /api/v1/legal-case</td>
+    <td>201 Created: Crea un nuevo caso legal.</td>
+  </tr>
+ <tr>
+    <td>/api/v1/legal-case</td>
+    <td>Listar</td>
+    <td>GET</td>
+    <td>/api/v1/legal-case</td>
+    <td>-</td>
+    <td>GET /api/v1/legal-case</td>
+    <td>201 Ok: Devuelve todos los casos legales.</td>
+  </tr>
+  <tr>
+    <td>/api/v1/legal-case/{id}</td>
+    <td>Devolver caso legal por Id</td>
+    <td>GET</td>
+    <td>/api/v1/legal-case/{id}</td>
+    <td>id</td>
+    <td>GET /api/v1/legal-case/1</td>
+    <td>201 Ok: Devuelve el caso indicado.</td>
+  </tr>
+  <tr>
+    <td>/api/v1/legal-case/casenumber/{caseNumber}</td>
+    <td>Devolver caso por Número</td>
+    <td>GET</td>
+    <td>/api/v1/legal-case/case/number/{caseNumber}</td>
+    <td>caseNumber</td>
+    <td>GET /api/v1/legal-case/case/number/1</td>
+    <td>201 Ok: Devuelve el caso indicado.</td>
+  </tr>
+  <tr>
+    <td>/api/v1/legal-case/description/{description}</td>
+    <td>Devolver caso por Descripción</td>
+    <td>GET</td>
+    <td>/api/v1/legal-case/description/{description}</td>
+    <td>description</td>
+    <td>GET /api/v1/legal-case/description/1</td>
+    <td>201 Ok: Devuelve el caso indicado.</td>
+  </tr>
+  <tr>
+    <td>/api/v1/legal-case/status/{status}</td>
+    <td>Devolver caso por status</td>
+    <td>GET</td>
+    <td>/api/v1/legal-case/status/{status}</td>
+    <td>status</td>
+    <td>GET /api/v1/legal-case/status/1</td>
+    <td>201 Ok: Devuelve el caso indicado.</td>
+  </tr>
+  <tr>
+    <td>/api/v1/notification</td>
+    <td>Crear</td>
+    <td>POST</td>
+    <td>/api/v1/notification</td>
+    <td>-</td>
+    <td>POST /api/v1/notification</td>
+    <td>201 Created: Crea una nueva notificación.</td>
+  </tr>
+ <tr>
+    <td>/api/v1/notification</td>
+    <td>Listar</td>
+    <td>GET</td>
+    <td>/api/v1/notification</td>
+    <td>-</td>
+    <td>GET /api/v1/notification</td>
+    <td>201 Ok: Devuelve todas las notificaciones.</td>
+  </tr>
+  <tr>
+    <td>/api/v1/notification/{id}</td>
+    <td>Devolver notificación por Id</td>
+    <td>GET</td>
+    <td>/api/v1/notification/{id}</td>
+    <td>id</td>
+    <td>GET /api/v1/notification/1</td>
+    <td>201 Ok: Devuelve la notificación indicada.</td>
+  </tr>
+  <tr>
+    <td>/api/v1/payment</td>
+    <td>Crear</td>
+    <td>POST</td>
+    <td>/api/v1/payment</td>
+    <td>-</td>
+    <td>POST /api/v1/payment</td>
+    <td>201 Created: Crea un nuevo pago.</td>
+  </tr>
+ <tr>
+    <td>/api/v1/payment</td>
+    <td>Listar</td>
+    <td>GET</td>
+    <td>/api/v1/payment</td>
+    <td>-</td>
+    <td>GET /api/v1/payment</td>
+    <td>201 Ok: Devuelve todos los pagos.</td>
+  </tr>
+  <tr>
+    <td>/api/v1/payment/{id}</td>
+    <td>Devolver pago por Id</td>
+    <td>GET</td>
+    <td>/api/v1/payment/{id}</td>
+    <td>id</td>
+    <td>GET /api/v1/payment/1</td>
+    <td>201 Ok: Devuelve el pago indicado.</td>
+  </tr>
+  <tr>
+    <td>/api/v1/payment/payer/{payerId}</td>
+    <td>Devolver pago por el que paga</td>
+    <td>GET</td>
+    <td>/api/v1/payment/payer/{payerId}</td>
+    <td>payerId</td>
+    <td>GET /api/v1/payment/payer/1</td>
+    <td>201 Ok: Devuelve el pago indicado.</td>
+  </tr>
+  <tr>
+    <td>/api/v1/payment/receiver/{receiverId}</td>
+    <td>Devolver caso por el que recibe</td>
+    <td>GET</td>
+    <td>/api/v1/payment/receiver/{receiverId}</td>
+    <td>receiverId</td>
+    <td>GET /api/v1/payment/receiver/1</td>
+    <td>201 Ok: Devuelve el pago indicado.</td>
+  </tr>
+  <tr>
+    <td>/api/v1/profile</td>
+    <td>Crear</td>
+    <td>POST</td>
+    <td>/api/v1/profile</td>
+    <td>-</td>
+    <td>POST /api/v1/profile</td>
+    <td>201 Created: Crea un nuevo perfil</td>
+  </tr>
+  <tr>
+    <td>/api/v1/profile</td>
+    <td>Listar</td>
+    <td>GET</td>
+    <td>/api/v1/profile</td>
+    <td>-</td>
+    <td>GET /api/v1/profile</td>
+    <td>200 OK: Devuelve una lista de todos los perfiles.</td>
+  </tr>
+   <tr>
+    <td>/api/v1/profile/{Id}</td>
+    <td>Obtener perfil por id</td>
+    <td>GET</td>
+    <td>/api/v1/profile/{Id}</td>
+    <td>Id</td>
+    <td>GET /api/v1/profile/1</td>
+    <td>200 OK: Devuelve el perfil especificado.</td>
+  </tr>
+  <tr>
+    <td>/api/v1/profile/{Id}</td>
+    <td>Borrar perfil</td>
+    <td>DELETE</td>
+    <td>/api/v1/profile/{Id}</td>
+    <td>Id</td>
+    <td>DELETE /api/v1/profile/1</td>
+    <td>200 OK: Perfil borrado.</td>
+  </tr>  
+  <tr>
+    <td>/api/v1/profiles/lawyers</td>
+    <td>Crear</td>
+    <td>POST</td>
+    <td>/api/v1/profiles/lawyers</td>
+    <td>-</td>
+    <td>POST /api/v1/profiles/lawyers</td>
+    <td>201 Created: Crea un nuevo abogado.</td>
+  </tr>
+  <tr>
+    <td>/api/v1/profiles/lawyers</td>
+    <td>Listar</td>
+    <td>GET</td>
+    <td>/api/v1/profiles/lawyer</td>
+    <td>-</td>
+    <td>POST /api/v1/profiles/lawyer</td>
+    <td>200 OK: Devuelve todos los abogados.</td>
+  </tr>
+  <tr>
+    <td>/api/v1/profiles/lawyers/{Id}</td>
+    <td>Devolver abogado de perfil por Id</td>
+    <td>GET</td>
+    <td>/api/v1/profiles/lawyers/{Id}</td>
+    <td>Id</td>
+    <td>GET /api/v1/profiles/lawyers/1</td>
+    <td>200 Ok:Devuelve el abogado indicado.</td>
   </tr>
 </table>
 
@@ -2526,13 +2283,13 @@ Capturas de interaccion:
 
 Endpoints:
 
-![alt text](../assets/imgs/endp1.png)
+![alt text](../assets/imgs/endp1.PNG)
 
-![alt text](../assets/imgs/endp2.png)
+![alt text](../assets/imgs/endp2.PNG)
 
-![alt text](../assets/imgs/endp3.png)
+![alt text](../assets/imgs/endp3.PNG)
 
-![alt text](../assets/imgs/endp4.png)
+![alt text](../assets/imgs/endp4.PNG)
 
 
 Sing-In:
