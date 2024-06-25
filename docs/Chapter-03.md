@@ -403,7 +403,7 @@ Los User Stories sirven para describir de manera más detallada las diferentes f
     <td>US40</td>
     <td>Diseño de la interfaz Suscripciones</td>
     <td>Como desarrollador de la plataforma MedicDefense, quiero implementar una interfaz donde se pueda ver claramente los detalles de la suscripción actual y el plan seleccionado.</td>
-<td>Scenario: Ver detalles de la suscripción<br><br>GIVEN se necesita ver detalles de una suscripción<br><br>WHEN se creen componentes en el frontend para administrar una suscripción,<br><br>THEN se le presenta un apartado donde puedo ver los detalles de mi suscripción.</td>
+<td>Scenario: Ver detalles de la suscripción<br><br>GIVEN se necesita ver detalles de una suscripción<br><br>WHEN se creen componentes en el frontend para administrar una suscripción,<br><br>THEN se le presenta una sección donde se pueda ver los detalles de suscripción.</td>
 <td>EP06</td>
     </tr>
     <tr>
@@ -445,7 +445,7 @@ Los User Stories sirven para describir de manera más detallada las diferentes f
     <td>HU46</td>
     <td>Implementación de Categorías de Recursos</td>
     <td>Como desarrollador backend, quiero implementar la funcionalidad para gestionar categorías y etiquetas de recursos educativos para organizar los recursos de manera eficiente.</td>
-<td>Scenario: Conexión exitosa<br><br>GIVEN que un administrador autenticado accede al sistema de información de pago.<br><br>WHEN seleccione una Categoría al sistema.<br><br>AND esta sea válida.<br><br>THEN el sistema debe organizar los recursos educacionales según la categoría.<br><br>AND confirmar dicha operación.</td>
+<td>Scenario: Conexión exitosa<br><br>GIVEN un administrador autenticado accede al sistema de información de pago.<br><br>WHEN seleccione una Categoría al sistema.<br><br>AND esta sea válida.<br><br>THEN el sistema debe organizar los recursos educacionales según la categoría.<br><br>AND confirmar dicha operación.</td>
 <td>EP05</td>
     </tr>
      <tr>
@@ -481,6 +481,41 @@ Los User Stories sirven para describir de manera más detallada las diferentes f
     <td>Creación y gestión de recursos de casos legales</td>
     <td>Como desarrollador backend, quiero implementar la creación y gestión de casos legales para que los administradores puedan gestionar los casos legales.</td>
 <td>Scenario: Crear Caso Legal<br><br>GIVEN un administrador autenticado accede al sistema de gestión de casos legales.<br><br>WHEN proporciona detalles válidos al sistema.<br><br>AND los datos proporcionados cumplen con los requisitos de validación.<br><br>THEN el sistema debe almacenar el nuevo caso legal en el repositorio correspondiente.<br><br>AND confirmar dicha operación.</td>
+<td>EP05</td>
+    </tr>
+    <tr>
+    <td>US52</td>
+    <td>Integración Consultas</td>
+    <td>Como desarrollador, quiero conectar el frontend de creación de consultas con el backend para almacenar las consultas realizadas.</td>
+<td>Scenario: Crear Consulta<br><br>GIVEN un doctor está en el perfil de un abogado.<br><br>WHEN proporciona detalles de consulta.<br><br>AND presione Continuar.<br><br>THEN el sistema debe enviar una petición al backend.<br><br>AND recibir una respuesta.</td>
+<td>EP05</td>
+    </tr>
+    <tr>
+    <td>US53</td>
+    <td>Integración Casos</td>
+    <td>Como desarrollador, quiero conectar el frontend de envío de casos legalos con el backend para almacenar los casos iniciados.</td>
+<td>Scenario: Enviar Caso Legal<br><br>GIVEN un doctor está en el perfil de un abogado.<br><br>WHEN proporciona detalles de su caso legal.<br><br>AND presione Continuar.<br><br>THEN el sistema debe enviar una petición al backend.<br><br>AND recibir una respuesta.</td>
+<td>EP05</td>
+    </tr>
+    <tr>
+    <td>US54</td>
+    <td>Integración Pagos</td>
+    <td>Como desarrollador, quiero conectar el frontend de pagos con el backend para almacenar los pagos realizados.</td>
+<td>Scenario: Registrar Pago<br><br>GIVEN un doctor está comprando una suscripción.<br><br>WHEN proporciona detalles de pago<br><br>AND presione Continuar.<br><br>THEN el sistema debe enviar una petición al backend.<br><br>AND recibir una respuesta.</td>
+<td>EP05</td>
+    </tr>
+    <tr>
+    <td>US55</td>
+    <td>Integracción Recursos</td>
+    <td>Como desarrollador, quiero conectar el frontend de lectura de recursos educacionales con el backend para leer los recursos disponibles</td>
+<td>Scenario: Lista Recursos<br><br>GIVEN un doctor está en la plataforma de MedicDefense.<br><br>WHEN se dirija a la sección de Recursos Educacionales.<br><br>THEN el sistema debe enviar una petición al backend.<br><br>AND recibir una respuesta.</td>
+<td>EP05</td>
+    </tr>
+    <tr>
+    <td>US56</td>
+    <td>Integracción Abogados</td>
+    <td>Como desarrollador, quiero conectar el frontend de listado de abogados con el backend para ver los abogados disponibles</td>
+<td>Scenario: Lista Abogados<br><br>GIVEN un doctor está en la plataforma de MedicDefense.<br><br>WHEN se dirija a la sección de Abogados.<br><br>THEN el sistema debe enviar una petición al backend.<br><br>AND recibir una respuesta.</td>
 <td>EP05</td>
     </tr>
 </table>
@@ -862,5 +897,40 @@ En esta sección, se plantearon metas de negocio utilizando los criterios SMART 
         <td>Canales de contacto</td>
         <td>Como usuario de la plataforma MedicDefense, quiero que se muestren los canales de contacto de los abogados para poder contactarlos antes de efectuar un pago. </td>
         <td>3</td>
+    </tr>
+    <tr>
+        <td>52</td>
+        <td>US52</td>
+        <td>Integración Consultas</td>
+    <td>Como desarrollador, quiero conectar el frontend de creación de consultas con el backend para almacenar las consultas realizadas.</td>
+        <td>5</td>
+    </tr>
+    <tr>
+        <td>53</td>
+        <td>US53</td>
+        <td>Integración Casos</td>
+    <td>Como desarrollador, quiero conectar el frontend de envío de casos legalos con el backend para almacenar los casos iniciados.</td>
+        <td>5</td>
+    </tr>
+    <tr>
+        <td>54</td>
+        <td>US54</td>
+        <td>Integración Pagos</td>
+    <td>Como desarrollador, quiero conectar el frontend de pagos con el backend para almacenar los pagos realizados.</td>
+        <td>5</td>
+    </tr>
+    <tr>
+        <td>55</td>
+        <td>US55</td>
+        <td>Integracción Recursos</td>
+    <td>Como desarrollador, quiero conectar el frontend de lectura de recursos educacionales con el backend para leer los recursos disponibles</td>
+        <td>5</td>
+    </tr>
+    <tr>
+        <td>56</td>
+        <td>US56</td>
+        <td>Integracción Abogados</td>
+    <td>Como desarrollador, quiero conectar el frontend de listado de abogados con el backend para ver los abogados disponibles</td>
+        <td>5</td>
     </tr>
 </table>
