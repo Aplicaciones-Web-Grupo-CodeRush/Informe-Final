@@ -1691,193 +1691,54 @@ Para el desarrollo de este tercer sprint, todos los miembros del equipo desarrol
     <td colspan="1">Status (To-do /InProcess /To-Review /Done)</td>
 </tr>
 <tr>
-    <td colspan="1"></td>
-    <td colspan="2"></td>
-    <td colspan="1">1</td>
-    <td colspan="2"></td>
-    <td colspan="3"></td>
-    <td colspan="1">3</td>
-    <td colspan="2"></td>
-    <td colspan="1"></td>
-</tr>
-<tr>
-    <td colspan="1"></td>
-    <td colspan="2"></td>
-    <td colspan="1">2</td>
-    <td colspan="2"></td>
-    <td colspan="3"></td>
+    <td colspan="1">US52</td>
+    <td colspan="2">Integración Consultas</td>
+    <td colspan="1">T01</td>
+    <td colspan="2">Integrar frontend con backend de Consultas</td>
+    <td colspan="3">Como desarrollador, quiero conectar el frontend de creación de consultas con el backend para almacenar las consultas realizadas.</td>
     <td colspan="1">5</td>
-    <td colspan="2"></td>
-    <td colspan="1"></td>
+    <td colspan="2">Cesar</td>
+    <td colspan="1">Done</td>
 </tr>
 <tr>
-    <td colspan="1"></td>
-    <td colspan="2"></td>
-    <td colspan="1">3</td>
-    <td colspan="2"></td>
-    <td colspan="3"></td>
+    <td colspan="1">US53</td>
+    <td colspan="2">Integración Casos</td>
+    <td colspan="1">T02</td>
+    <td colspan="2">Integrar frontend con backend de Casos Legales</td>
+    <td colspan="3">Como desarrollador, quiero conectar el frontend de envío de casos legalos con el backend para almacenar los casos iniciados.</td>
     <td colspan="1">5</td>
-    <td colspan="2"></td>
-    <td colspan="1"></td>
+    <td colspan="2">Fabricio</td>
+    <td colspan="1">Done</td>
 </tr>
-<tr>
-    <td colspan="1"></td>
-    <td colspan="2"></td>
-    <td colspan="1">4</td>
-    <td colspan="2"></td>
-    <td colspan="3"></td>
+  <tr>
+    <td colspan="1">US54</td>
+    <td colspan="2">Integración Pagos</td>
+    <td colspan="1">T03</td>
+    <td colspan="2">Integrar frontend con backend de Pagos</td>
+    <td colspan="3">Como desarrollador, quiero conectar el frontend de pagos con el backend para almacenar los pagos realizados.</td>
     <td colspan="1">5</td>
-    <td colspan="2"></td>
-    <td colspan="1"></td>
+    <td colspan="2">Marcelo</td>
+    <td colspan="1">Done</td>
 </tr>
-<tr>
-    <td colspan="1"></td>
-    <td colspan="2"></td>
+  <tr>
+    <td colspan="1">US55</td>
+    <td colspan="2">Integración Recursos</td>
+    <td colspan="1">T04</td>
+    <td colspan="2">Integrar frontend con backend de Recursos Educacionales</td>
+    <td colspan="3">Como desarrollador, quiero conectar el frontend de lectura de recursos educacionales con el backend para leer los recursos disponibles.</td>
     <td colspan="1">5</td>
-    <td colspan="2"></td>
-    <td colspan="3"></td>
+    <td colspan="2">Gabriel</td>
+    <td colspan="1">Done</td>
+</tr>
+  <tr>
+    <td colspan="1">US56</td>
+    <td colspan="2">Integración Abogados</td>
+    <td colspan="1">T05</td>
+    <td colspan="2">Integrar frontend con backend de Abogados</td>
+    <td colspan="3">Como desarrollador, quiero conectar el frontend de listado de abogados con el backend para ver los abogados disponibles.</td>
     <td colspan="1">5</td>
-    <td colspan="2"></td>
-    <td colspan="1"></td>
-</tr>
-<tr>
-    <td colspan="1"></td>
-    <td colspan="2"></td>
-    <td colspan="1">6</td>
-    <td colspan="2"></td>
-    <td colspan="3"></td>
-    <td colspan="1">3</td>
-    <td colspan="2"></td>
-    <td colspan="1"></td>
-</tr>
-<tr>
-    <td colspan="1"></td>
-    <td colspan="2"></td>
-    <td colspan="1">7</td>
-    <td colspan="2"></td>
-    <td colspan="3"></td>
-    <td colspan="1">5</td>
-    <td colspan="2"></td>
-    <td colspan="1"></td>
-</tr>
-<tr>
-    <td colspan="1"></td>
-    <td colspan="2"></td>
-    <td colspan="1">8</td>
-    <td colspan="2"></td>
-    <td colspan="3"></td>
-    <td colspan="1">5</td>
-    <td colspan="2"></td>
-    <td colspan="1"></td>
-</tr>
-<tr>
-    <td colspan="1"></td>
-    <td colspan="2"></td>
-    <td colspan="1">9</td>
-    <td colspan="2"></td>
-    <td colspan="3"></td>
-    <td colspan="1">5</td>
-    <td colspan="2"></td>
-    <td colspan="1"></td>
-</tr>
-<tr>
-    <td colspan="1"></td>
-    <td colspan="2"></td>
-    <td colspan="1">10</td>
-    <td colspan="2"></td>
-    <td colspan="3"></td>
-    <td colspan="1">3</td>
-    <td colspan="2"></td>
-    <td colspan="1"></td>
-</tr>
-<tr>
-    <td colspan="1"></td>
-    <td colspan="2"></td>
-    <td colspan="1">11</td>
-    <td colspan="2"></td>
-    <td colspan="3"></td>
-    <td colspan="1">5</td>
-    <td colspan="2"></td>
-    <td colspan="1"></td>
-</tr>
-<tr>
-    <td colspan="1"></td>
-    <td colspan="2"></td>
-    <td colspan="1">12</td>
-    <td colspan="2"></td>
-    <td colspan="3"></td>
-    <td colspan="1">3</td>
-    <td colspan="2"></td>
-    <td colspan="1"></td>
-</tr>
-<tr>
-    <td colspan="1"></td>
-    <td colspan="2"></td>
-    <td colspan="1">13</td>
-    <td colspan="2"></td>
-    <td colspan="3"></td>
-    <td colspan="1">5</td>
-    <td colspan="2"></td>
-    <td colspan="1"></td>
-</tr>
-<tr>
-    <td colspan="1"></td>
-    <td colspan="2"></td>
-    <td colspan="1">14</td>
-    <td colspan="2"></td>
-    <td colspan="3"></td>
-    <td colspan="1">5</td>
-    <td colspan="2"></td>
-    <td colspan="1"></td>
-</tr>
-<tr>
-    <td colspan="1"></td>
-    <td colspan="2"></td>
-    <td colspan="1">15</td>
-    <td colspan="2"></td>
-    <td colspan="1">3</td>
-    <td colspan="2"></td>
-    <td colspan="1"></td>
-</tr>
-<tr>
-    <td colspan="1"></td>
-    <td colspan="2"></td>
-    <td colspan="1">16</td>
-    <td colspan="2"></td>
-    <td colspan="3"></td>
-    <td colspan="1">5</td>
-    <td colspan="2"></td>
-    <td colspan="1"></td>
-</tr>
-<tr>
-    <td colspan="1"></td>
-    <td colspan="2"></td>
-    <td colspan="1">17</td>
-    <td colspan="2"></td>
-    <td colspan="3"></td>
-    <td colspan="1">5</td>
-    <td colspan="2"></td>
-    <td colspan="1"></td>
-</tr>
-<tr>
-    <td colspan="1"></td>
-    <td colspan="2"></td>
-    <td colspan="1">18</td>
-    <td colspan="2"></td>
-    <td colspan="3"></td>
-    <td colspan="1">5</td>
-    <td colspan="2"></td>
-    <td colspan="1"></td>
-</tr>
-<tr>
-    <td colspan="1"></td>
-    <td colspan="2"></td>
-    <td colspan="1">19</td>
-    <td colspan="2"></td>
-    <td colspan="3"></td>
-    <td colspan="1">8</td>
-    <td colspan="2"></td>
-    <td colspan="1"></td>
+    <td colspan="2">Diego</td>
+    <td colspan="1">Done</td>
 </tr>
 </table>
 
