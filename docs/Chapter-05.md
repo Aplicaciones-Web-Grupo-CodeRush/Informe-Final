@@ -1951,13 +1951,13 @@ Para esta cuarta entrega, nuestro equipo ha mejorado y pulido tanto la parte de 
 
 Endpoints:
 
-![alt text](../assets/imgs/endp1.png)
+![alt text](../assets/imgs/endp1.PNG)
 
-![alt text](../assets/imgs/endp2.png)
+![alt text](../assets/imgs/endp2.PNG)
 
-![alt text](../assets/imgs/endp3.png)
+![alt text](../assets/imgs/endp3.PNG)
 
-![alt text](../assets/imgs/endp4.png)
+![alt text](../assets/imgs/endp4.PNG)
 
 
 Lawyers:
