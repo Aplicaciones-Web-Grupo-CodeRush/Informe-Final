@@ -1627,7 +1627,7 @@ Para el desarrollo de este tercer sprint, todos los miembros del equipo desarrol
   </tr>
   <tr>
     <td colspan="5">Date</td>
-    <td colspan="8">2024-06-19</td>
+    <td colspan="8">2024-06-24</td>
 </tr>
   <tr>
     <td colspan="5">Time</td>
@@ -1642,7 +1642,7 @@ Para el desarrollo de este tercer sprint, todos los miembros del equipo desarrol
 </tr>
 <tr>
     <td colspan="5">Attendees (to planning meeting)</td>
-    <td colspan="8">Gabriel Garcia, Diego Flores, Fabricio Apaza, Anatoly Noriega, Mathias Vasquez, Carlos Avellaneda</td>
+    <td colspan="8">Gabriel Garcia, Diego Flores, Fabricio Apaza, Marcelo Renteria, Cesar Castilla</td>
 </tr>
 <tr>
     <td colspan="5">Sprint n – 4 Review Summary</td>
@@ -1661,11 +1661,11 @@ Para el desarrollo de este tercer sprint, todos los miembros del equipo desarrol
 </tr>
 <tr>
     <td colspan="5">Sprint n Velocity</td>
-    <td colspan="8">88 story points</td>
+    <td colspan="8">25 story points</td>
 </tr>
 <tr>
     <td colspan="5">Sum of Story Points</td>
-    <td colspan="8">88 Story Points</td>
+    <td colspan="8">25 Story Points</td>
 </tr>
 </table>
 
